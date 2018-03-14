@@ -1,0 +1,16 @@
+# Eclipse project files
+*.cproject
+*.project
+*.settings
+
+# Executables
+*/Debug
+*/Release
+
+# Standard CAL project libraries
+*/boost
+*/cute
+
+# Cute generated files
+*.exe.xml
+*.xml
