@@ -3,7 +3,7 @@
  * A simple implementation of mutable priority queues, required by Dijkstra algorithm.
  *
  * Created on: 17/03/2018
- *      Author: João Pascoal Faria
+ *      Author: Joï¿½o Pascoal Faria
  */
 
 #ifndef SRC_MUTABLEPRIORITYQUEUE_H_
@@ -20,15 +20,15 @@ using namespace std;
 
 template <class T>
 class MutablePriorityQueue {
-	vector<T *> H;
+	vector<T*> H;
 	void heapifyUp(unsigned i);
 	void heapifyDown(unsigned i);
-	inline void set(unsigned i, T * x);
+	inline void set(unsigned i, T* x);
 public:
 	MutablePriorityQueue();
-	void insert(T * x);
-	T * extractMin();
-	void decreaseKey(T * x);
+	void insert(T* x);
+	T* extractMin();
+	void decreaseKey(T* x);
 	bool empty();
 };
 
@@ -38,7 +38,7 @@ public:
 
 template <class T>
 MutablePriorityQueue<T>::MutablePriorityQueue() {
-	H.push_back(NULL);
+	H.push_back(nullptr);
 	// indices will be used starting in 1
 	// to facilitate parent/child calculations
 }
