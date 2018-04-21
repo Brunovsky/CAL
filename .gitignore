@@ -25,5 +25,5 @@ cute/
 *.xml
 
 # Exclude CAL Project
-CAL1718_T4GE/
+cal-proj-1/
 /.metadata/
