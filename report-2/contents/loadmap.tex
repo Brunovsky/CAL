@@ -1,0 +1,137 @@
+\documentclass[relatorio.tex]{subfiles}
+% Load Map
+
+\begin{document}
+\section{Inicialização de um Mapa}
+\label{sec:loadmap}
+
+\subsection{Rotina de criação de ficheiros de dados}
+\label{subsec:routinefiles}
+
+Vamos agora descrever, muito sucintamente, o
+procedimento para se extrair um novo mapa de
+\url{https://www.openstreetmap.org/}
+e incluí-lo no nosso projeto. O processo não
+deverá demorar mais do que dois minutos.
+
+No site \osm{}, depois de delimitada a região, extraímos o
+ficheiro-mapa \file{map.osm} usando (preferencialmente)
+a Overpass API. Depois corremos o ficheiro na aplicação \exe{OpenStreetMapParser}, com o ficheiro exportado.
+
+O \exe{Parser} gera três ficheiros: um contendo a informação
+relativa a $V$, o ficheiro \file{nodes}; outro
+contendo informação relativa a $R$, o ficheiro \file{roads}
+-- que descreve a topologia de $G$; e outro contendo a
+informação de $E$, descrevendo a decomposição das ruas
+-- o ficheiro \file{subroads}.
+
+Além destes três ficheiros, um quarto ficheiro de configuração
+\file{meta} deve ser manualmente criado com a informação geral
+do mapa, e algumas opções-extra para customizar a inicialização
+de~$G$.
+
+Este ficheiro de configuração suporta os campos presentes na
+tabela \ref{tab:meta}, em estilo \sf{key=val;}
+
+\begin{table}[hbpt]
+\caption{Opções do ficheiro \file{meta}}
+\label{tab:meta}
+\begin{tabularx}{\textwidth}{rX}
+&Obrigatórios:\\
+\textbf{min\_longitude} &A longitude mínima de $G$.\\
+\textbf{max\_longitude} &A longitude máxima de $G$.\\
+\textbf{min\_latitude} &A latitude mínima de $G$.\\
+\textbf{max\_latitude} &A latitude máxima de $G$.\\
+\textbf{nodes} &O número de nodes (de $M$ e de $G$).\\
+\textbf{edges} &O número de edges (de $M$ e de $G$).\\
+\\
+&Opcionais:\\
+\textbf{density} &(Opcional) A densidade (visual) dos vértices.\\
+\textbf{width} &(Opcional) A largura preferida de $G$.\\
+\textbf{height} &(Opcional) A altura preferida de $G$.\\
+\textbf{boundaries} &(Opcional) Delimitar a área do grafo
+com vértices-fantasma.\\
+\textbf{oneway} &(Opcional) Sobrepõr o parâmetro direcional no ficheiro
+\file{roads} e definir todas as ruas como unidirecionais.\\
+\textbf{bothways} &(Opcional) Sobrepõr o parâmetro direcional no ficheiro
+\file{roads} e definir todas as ruas como bidirecionais.\\
+\textbf{straight\_edges} &(Opcional) Desenhar todas as arestas retílineas.\\
+\end{tabularx}
+\end{table}
+
+Os limites geográficos, o número de vértices e o número de arestas
+são todos fornecidos pelo \exe{Parser} e definem a geometria de $M$.
+O ficheiro \file{meta} é lido com expressões regulares para cada
+parâmetro, assumindo a sintaxe \sf{key=val;} portanto as opções
+podem estar distribuídas de qualquer forma.
+
+Os quatro ficheiros deverem ser colocados na pasta \folder{resources}.
+A convenção de nomenclatura dos ficheiros é simples: escolhido
+um nome representativo qualquer, por exemplo \file{city},
+os quatro ficheiros deverão ser chamados \file{city_meta.txt},
+\file{city_nodes.txt}, \file{city_roads.txt} e \file{city_subroads.txt}.
+
+
+
+\subsection{Cálculo das dimensões do grafo}
+
+Os vértices listados no ficheiro \file{nodes} têm a sua localização
+apresentada em coordenadas geográficas. Para representar os vértices
+$v$ em \class{GraphViewer} estas coordenadas têm de ser
+convertidas em coordenadas cartesianas $(x,y)$, de modo que
+se mantenha a proporcionalidade do mapa.
+
+As dimensões de $M$ são calculadas diretamente através das fórmulas
+$\sfmath{height (km)}=110.574\cdot\delta\sfmath{latitude}$ e
+$\sfmath{width (km)}=111.320\cdot\delta\sfmath{longitude}\cdot
+|\cos(\overline{\sfmath{latitude}})|$.
+
+A proporção \sf{height:width} de $M$ é também a proporção visual
+$G$. Especificada uma largura (\textit{width}), altura (\textit{height})
+ou densidade de vértices (\textit{density}) preferida no ficheiro
+\file{meta}, determina-se as dimensões de $G$.
+
+Para determinar as dimensões de $G$ a partir de uma densidade $d$,
+note-se que $\sfmath{width}\times\sfmath{height}\times d=V$, e
+portanto
+
+\begin{equation*}
+\sfmath{width}=\sqrt{\frac{V}{d\times\sfmath{height:width}}}
+\end{equation*}
+
+Por omissão usamos densidade $0.0001$.
+
+
+
+\subsection{Ponto de partida e leitura dos ficheiros de dados}
+\label{subsec:startmap}
+
+Todos os ficheiros de dados são lidos usando expressões regulares
+\sf{std::regex} da \sf{STL}. Isto permite que erros nos ficheiros
+de dados sejam detetados de forma simples e direta, mas também
+significa que qualquer mudança manual nestes deva ser feita com
+cuidado. A ter em consideração as seguintes situações, que são
+automaticamente detetadas:
+
+\begin{itemize}
+\item (Erro) Os parâmetros obrigatórios do ficheiro \file{meta} têm
+de estar todos presentes.
+\item (Warning) O número de vértices indicado em \file{meta} deve ser
+igual ao número de nodes (linhas) lidos em \file{nodes}.
+\item (Warning) O número de arestas indicado em \file{meta} deve ser
+igual ao número de subroads (linhas) lidas em \file{subroads}.
+\item (Erro) As latitudes e as longitudes lidas têm de estar dentro
+dos limites geográficos especificados.
+\end{itemize}
+
+Em suma, para carregar um mapa seguem-se os passos:
+
+\begin{enumerate}
+\item  Lê-se o ficheiro de configuração \file{meta}.
+\item Inicializa-se $G$ (e \class{GraphViewer})
+com as dimensões calculadas.
+\item Lê-se o ficheiro \file{nodes} e cria-se $V$.
+\item Lê-se o ficheiro \file{roads} e cria-se $R$.
+\item Lê-se o ficheiro \file{subroads} e cria-se $E$.
+\end{enumerate}
+\end{document}

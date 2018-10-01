@@ -1,0 +1,45 @@
+\documentclass[relatorio.tex]{subfiles}
+
+\begin{document}
+\section{Funcionalidades Implementadas}
+\label{sec:functionality}
+
+Sobre o mapa é possível escolher um vértice ou uma aresta e causar ou reparar um acidente grave.
+Para além disso, é possível gerir o trânsito das arestas.
+Existe ainda uma opção que permite escolher o tipo de algoritmo a usar, de entre os
+disponíveis, ou se pretende usar uma simulação que dinamiza andeterminação do caminho
+mais rápido entre um vértice de origem e outro de destino, escolhidos pelo utente.
+Todas as funcionalidades implementadas solicitam ao utente a introdução de dados passo a passo,
+especificando o que é pretendido que seja introduzido e reagindo em conformidade
+com o input do utente. Por conseguinte, é fornecido o resultado das suas
+ações de forma gráfica e de fácil deteção e compreensão.
+
+\begin{table}[hbpt]
+\caption{Funcionalidades Implementadas}
+\label{tab:functionalities}
+\begin{itemize}
+\setlength{\parskip}{.2\parskip}
+\item Escolher o mapa no qual o utente pretende navegar sendo necessário introduzir o nome do mesmo;
+\item Acidentar um vértice indicando o seu id, disponibilizado pela interface gráfica;
+\item Acidentar uma aresta indicando o seu id, disponibilizado pela interface gráfica;
+\item Repara um vértice indicando o seu id, disponibilizado pela interface gráfica;
+\item Reparar uma aresta indicando o seu id, disponibilizado pela interface gráfica;
+\item Editar a informação de uma aresta, sendo necessário indicar o seu id, e escolhendo uma das seguintes opções:
+    \begin{itemize}
+    \item Adicionar carros à aresta, indicando a quantidade sendo esta somada à atual;
+    \item Remover carros à aresta, indicando a quantidade a ser retirada à atual;
+    \end{itemize}
+\item Encontrar o caminho mais rápido, entre dois vértices indicados pelo utente, usando uma das seguintes opções:
+    \begin{itemize}
+    \item Algoritmo \alg{Greedy Best-First Search};
+    \item Algoritmo \alg{Dijkstra} aplicado a todos os vértices do grafo;
+    \item Algoritmo \alg{Dijkstra} aplicado até ao vértice de destino;
+    \item Algoritmo \alg{A*};
+    \item Simulação, aplicando variações de trânsito a cada aresta;
+    \item Simulação, aplicando variações de trânsito a cada estrada;
+    \end{itemize}
+\item Avaliação da performance dos algoritmos anteriores usando Benchmarking e sendo indicado o número de iterações a serem testar;
+\item Verificar a informação relativa à interface gráfica.
+\end{itemize}
+\end{table}
+\end{document}

@@ -1,0 +1,466 @@
+/**
+ * Sequence containers, accessed sequentially:
+ *     array
+ *     vector
+ *     deque
+ *     forward_list
+ *     list
+ *
+ * Associative containers, searched quickly:
+ *     set          unique
+ *     map          unique
+ *     multiset     non-unique
+ *     multimap     non-unique
+ *
+ * Unordered associative containers, searched constant-time:
+ *     unordered_set           unique
+ *     unordered_map           unique
+ *     unordered_multiset      non-unique
+ *     unordered_multimap      non-unique
+ *
+ * Container adaptors
+ *     stack
+ *     queue
+ *     priority_queue
+ *     
+ *
+ *
+ *
+ *
+ *
+ *
+ * 
+ * Using adjacency_list
+ *
+ * class adjacency_list<
+ *     OutEdgeListS         = vecS
+ *     VertexListS          = vecS
+ *     DirectedS            = directedS
+ *     VertexProperty       = no_property
+ *     EdgeProperty         = no_property
+ *     GraphProperty        = no_property
+ *     EdgeListS            = listS
+ *
+ *                   Container
+ *  vecS           -> std::vector
+ *  listS          -> std::list
+ *  slistS         -> std::forward_list
+ *  setS           -> std::set
+ *  multisetS      -> std::multiset
+ *  hash_setS      -> boost::unordered_set
+ *  hash_multisetS -> boost::unordered_multiset
+ *  
+ *                   Parallel edges
+ *  vecS           -> Yes
+ *  listS          -> Yes
+ *  slistS         -> Yes
+ *  setS           -> No
+ *  multisetS      -> Yes
+ *  hash_setS      -> No
+ *  hash_multisetS -> Yes
+ *  
+ *                   Random access
+ *  vecS           -> Yes
+ *  listS          -> No
+ *  slistS         -> No
+ *  setS           -> No
+ *  multisetS      -> No
+ *  hash_setS      -> No
+ *  hash_multisetS -> No
+ *  
+ *                   OutEdgeList.push invalidates
+ *  vecS           -> Yes
+ *  listS          -> Yes
+ *  slistS         -> Yes
+ *  setS           -> No
+ *  multisetS      -> No
+ *  hash_setS      -> No
+ *  hash_multisetS -> No
+ *
+ * ***********************************************************************
+ * 
+ *  1. OutEdgeList
+ *      vecS, listS, slistS, setS, multisetS, hash_setS, hash_multisetS.
+ *      The selector for the container used to represent the edge-list
+ *      for each of the vertices.
+ *  
+ *  OutEdgeList      add_edge()
+ *   vecS           -> O(1)
+ *   listS          -> O(1)
+ *   setS           -> O(log outD) amortized
+ *   hash_setS      -> O(log outD) amortized
+ *  
+ *  OutEdgeList      remove_edge()
+ *   vecS           -> O(outD)
+ *   listS          -> O(outD)
+ *   setS           -> O(log outD) amortized
+ *   hash_setS      -> O(log outD) amortized
+ *  
+ *  OutEdgeList      edge()     Search for an edge
+ *   vecS           -> O(outD)
+ *   listS          -> O(outD)
+ *   setS           -> O(log outD) amortized
+ *   hash_setS      -> O(1) amortized
+ *  
+ *  OutEdgeList      clear_vertex()     Remove all edges
+ *   vecS           -> O(V + E)
+ *   listS          -> O(V + E)
+ *   setS           -> O(V + E)
+ *   hash_setS      -> O(V + E)
+ *  
+ *  OutEdgeList      out_edge_iterator::++()
+ *   vecS           -> O(1)  fast pointer increment
+ *   listS          -> O(1)  pointer dereference
+ *   setS           -> O(1)  heap movement
+ *   hash_setS      -> O(1)  slow heap movement, search
+ *  
+ *  OutEdgeList      in_edge_iterator::++()
+ *   vecS           -> O(1)  fast pointer increment
+ *   listS          -> O(1)  pointer dereference
+ *   setS           -> O(1)  heap movement
+ *   hash_setS      -> O(1)  slow heap movement, search
+ *  
+ *  OutEdgeList      edge_iterator::++()
+ *   vecS           -> O(1)  fast pointer increment
+ *   listS          -> O(1)  pointer dereference
+ *   setS           -> O(1)  heap movement
+ *   hash_setS      -> O(1)  slow heap movement, search
+ *  
+ *  OutEdgeList      adjacency_iterator::++()
+ *   vecS           -> O(1)  fast pointer increment
+ *   listS          -> O(1)  pointer dereference
+ *   setS           -> O(1)  heap movement
+ *   hash_setS      -> O(1)  slow heap movement, search
+ *
+ * ***********************************************************************
+ * 
+ *  2. VertexList
+ *      vecS, listS, slistS, setS, multisetS, hash_setS, hash_multisetS.
+ *      The selector for the container used to represent the vertex
+ *      list of the graph.
+ *
+ *  VertexList       add_vertex()
+ *   vecS           -> O(1) or realloc
+ *   listS          -> O(1) or realloc
+ *   setS           -> O(1) amortized
+ *   hash_setS      -> O(1) amortized
+ *  
+ *  VertexList       vertex_iterator::++()
+ *   vecS           -> O(1)  fast pointer increment
+ *   listS          -> O(1)  pointer dereference
+ *   setS           -> O(1)  heap movement
+ *   hash_setS      -> O(1)  slow heap movement, search
+ *
+ * ***********************************************************************
+ * 
+ *  3. Directed, bidirectional, undirected
+ *      directedS, bidirectionalS, undirectedS
+ *      A selector to choose whether the graph is directed, undirected,
+ *      or directed with bidirectional edge access (access to both out
+ *      edges and in edges).
+ *
+ * directedS:
+ *     A directed graph, where each edge added has a source and a target.
+ *     + Out-edges are accessed through out_edges()
+ *     - There is no in_edges()
+ *
+ * bidirectionalS:
+ *     A directed graph, where each edge added has a source and a target.
+ *     + Out-edges are accessed through out_edges()
+ *     + In-edges are accessed through in_edges()
+ *
+ * undirectedS:
+ *     An undirected graph, where each edge has two incident nodes.
+ *     + Edges incident on a vertex are accessed through out_edges()
+ *     - There is no in_edges()
+ *
+ * ***********************************************************************
+ * 
+ *  4. VertexProperty
+ *      For specifying internal property storage, per vertex.
+ *
+ * A user created class called a "bundle" which encapsulates properties
+ * stored by every vertex. This can be anything: ints, strings,
+ * vectors, typedefs, methods, ...
+ *
+ * If we do
+ *
+ * Graph<..., MyVertexType, ...> graph;
+ *
+ * we access the vertex property through graph[v], where v is a
+ * vertex_descriptor.
+ *
+ * ***********************************************************************
+ * 
+ *  5. EdgeProperty
+ *      For specifying internal property storage, per edge.
+ *
+ * A user created class called a "bundle" which encapsulates properties
+ * stored by every edge. This can be anything: ints, strings,
+ * vectors, typedefs, methods, ...
+ *
+ * If we do
+ *
+ * Graph<..., MyEdgeType, ...> graph;
+ * 
+ * we access the edge property through graph[e], where e is an
+ * edge_descriptor.
+ *
+ * ***********************************************************************
+ * 
+ *  6. GraphProperty
+ *      For specifying property storage for the graph object.
+ *
+ * A user created class called a "bundle" which encapsulates properties
+ * stored by every edge. This can be anything: ints, strings,
+ * vectors, typedefs, methods, ...
+ *
+ * If we do
+ *
+ * Graph<..., MyEdgeType, ...> graph;
+ *
+ * we access the graph property through graph[graph_bundle],
+ * where graph_bundle is a special object identifier.
+ *
+ * ***********************************************************************
+ *
+ *  A. Container Generator
+ *
+ * Create a selector for a custom container MyContainer as follows:
+ *
+ * namespace boost {
+ * struct MyContainerS {};
+ * 
+ * template <class ValueType>
+ * struct container_gen<MyContainerS, ValueType> {
+ *   typedef CustomContainer<ValueType> type;
+ * }
+ *
+ * template <class S, class Allocator>
+ * struct MyContainerWithExtraS {};
+ *
+ * template <class ValueType, class S, class Allocator>
+ * struct container_gen<MyContainerWithExtraS<S, Allocator>, ValueType> {
+ *   typedef CustomContainer<ValueType, S, Allocator> type;
+ * }
+ * }
+ *
+ * Now we must tell adjacency_list how elements can be efficiently
+ * added and removed from the custom container. This is accomplished
+ * by overloading push() and erase().
+ *
+ * ***********************************************************************
+ *
+ *  B. Functions
+ *
+ *  B1. Constructors
+ *
+ *  adjacency_list()
+ *  adjacency_list(const GraphProperty& p = GraphProperty())
+ *    Creates an empty graph with V = 0, E = 0.
+ *
+ *  adjacency_list(const adjacency_list& other)
+ *    Copy constructor. Creates a new graph which is a deep copy
+ *    of graph other, including the edges, vertices, and properties.
+ *
+ *  adjacency_list& operator=(const adjacency_list& other)
+ *    Assignment operator. Makes this graph a copy of graph other,
+ *    including vertices, edges, and properties.
+ *
+ *  adjacency_list(vertices_size_type n,
+ *                 const GraphProperty& p = GraphProperty())
+ *    Creates a graph object with V = n and E = 0.
+ *
+ *  template <InputIterator EdgeIterator>
+ *  requires EdgeIterator::value_type == std::pair<int, int>
+ *  adjacency_list(EdgeIterator first, EdgeIterator last,
+ *                 vertices_size_type n,
+ *                 edges_size_type m = 0,
+ *                 const GraphProperty& p = GraphProperty())
+ *    The do-it-all constructor. Creates an empty graph with
+ *    V = n and E = m; then the edge iterator range is traversed,
+ *    and for each pair {source,target} an edge is added to the
+ *    graph. The ints must be in the range [0,n).
+ *
+ * 
+ *  B2. Members functions
+ *
+ *  void clear()
+ *    Remove all of the edges and vertices from the graph.
+ *
+ *  void swap(adjacency_list& other)
+ *    Member function specialization of std::swap.
+ *
+ * 
+ *  B3. Non-member functions, structure access
+ *
+ *  std::pair<vertex_iterator, vertex_iterator>
+ *   vertices(const adjacency_list& graph)
+ *     Returns an iterator-range providing access to the vertex
+ *     set of graph.
+ *
+ *  std::pair<edge_iterator, edge_iterator>
+ *   edges(const adjacency_list& graph)
+ *     Returns an iterator-range providing access to the edge
+ *     set of graph.
+ *
+ *  std::pair<adjacency_iterator, adjacency_iterator>
+ *   adjacent_vertices(vertex_descriptor u, const adjacency_list& graph)
+ *     Returns an iterator-range providing access to the vertices
+ *     v in the graph for which the edge u -> v exists.
+ *     Aka: traverses the target vertices through out_edges()
+ *
+ *  std::pair<inv_adjacency_iterator, inv_adjacency_iterator>
+ *   inv_adjacent_vertices(vertex_descriptor u, const adjacency_list& graph)
+ *     Returns an iterator-range providing access to the vertices
+ *     v in the graph for which the edge v -> u exists.
+ *     For undirected graphs this is equivalent to the previous function.
+ *     Aka: traverses the source vertices through in_edges()
+ *
+ *  std::pair<out_edge_iterator, out_edge_iterator>
+ *   out_edges(vertex_descriptor u, const adjacency_list& graph)
+ *     Returns an iterator-range providing access to the out-edges
+ *     of vertex u in graph. For undirected graphs this is all edges.
+ *
+ *  std::pair<in_edge_iterator, in_edge_iterator>
+ *   in_edges(vertex_descriptor v, const adjacency_list& graph)
+ *     Returns an iterator-range providing access to the in-edges
+ *     of vertex u in graph. For bidirectional graphs only.
+ *
+ *  vertex_descriptor
+ *   source(edge_descriptor e, const adjacency_list& graph)
+ *     Returns the source vertex of edge e.
+ *
+ *  vertex_descriptor
+ *   target(edge_descriptor e, const adjacency_list& graph)
+ *     Returns the target vertex of edge e.
+ *
+ *  degree_size_type
+ *   out_degree(vertex_descriptor u, const adjacency_list& graph)
+ *     Returns the number of edges leaving vertex u.
+ *
+ *  degree_size_type
+ *   in_degree(vertex_descriptor u, const adjacency_list& graph)
+ *     Returns the number of edges entering vertex u.
+ *     For bidirectional graphs only.
+ *
+ *  vertices_size_type
+ *   num_vertices(const adjacency_list& graph)
+ *     Returns the number of vertices in the graph.
+ *
+ *  edges_size_type
+ *   num_edges(const adjacency_list& graph)
+ *     Returns the number of edges in the graph.
+ *
+ *  vertex_descriptor
+ *   vertex(vertices_size_type n, const adjacency_list& graph)
+ *     Returns the nth vertex in the graph's vertex list.
+ *
+ *  std::pair<edge_descriptor, bool>
+ *   edge(vertex_descriptor u, vertex_descriptor v,
+ *        const adjacency_list& graph)
+ *     If an edge u -> v exists, return a pair containing one such edge
+ *     and true. If there are no edges between nu and v, return a pair
+ *     with an arbitrary edge descriptor and false.
+ *
+ *  std::pair<out_edge_iterator, out_edge_iterator>
+ *   edge_range(vertex_descriptor u, vertex_descriptor v,
+ *              const adjacency_list& graph)
+ *     Returns a pair of out-edge iterators that give the range
+ *     for all parallel edges from u to v. This function only works
+ *     when the OutEdgeList container sorts the out edges according
+ *     to target vertex, and allows for parallel edges (multiset)
+ *
+ *
+ *  B4. Non-member functions, structure modification
+ *
+ *  std::pair<edge_descriptor, bool>
+ *   add_edge(vertex_descriptor u, vertex_descriptor v,
+ *            adjacency_list& graph)
+ *  std::pair<edge_descriptor, bool>
+ *   add_edge(vertex_descriptor u, vertex_descriptor v,
+ *            const EdgeProperties& p,
+ *            adjacency_list& graph)
+ *     Adds edge u -> v to the graph and returns the edge descriptor
+ *     for the new edge. For graphs that do not allow parallel edges,
+ *     if the edge is already in the graph then a duplicate with not
+ *     be added and the bool flag will be false. When the flag is false,
+ *     the returned edge descriptor points to the already existing edge.
+ *      The placement of the new edge in the out-edge list is unspecified.
+ *     Ordering can be accomplished through the choice of OutEdgeList
+ *     as an associative container. If VertexList is a random access
+ *     container, and if u or v has a greater value than the current
+ *     number of vertices in the graph, the graph is enlarged so that the
+ *     number of vertices is max(u,v) + 1.
+ *       Any edge_iterator is invalidated if the graph is directed.
+ *      With respect to vertex u, and v if bidirectional/undirected:
+ *       Any out_edge_iterator is invalidated if OutEdgeList.push invalidates.
+ *       Any in_edge_iterator is invalidated if OutEdgeList.push invalidates
+ *        and the graph is bidirectional.
+ *
+ *  void
+ *   remove_edge(vertex_descriptor u, vertex_descriptor v,
+ *               adjacency_list& graph)
+ *  void
+ *   remove_edge(edge_descriptor e,
+ *               adjacency_list& graph)
+ *  void
+ *   remove_edge(out_edge_iterator iter,
+ *               adjacency_list& graph)
+ *     Remove all edges u -> v from the graph;
+ *     Remove edge e from the graph;
+ *     Remove edge *iter from the graph (does not need to search the edge).
+ *      With respect to vertex u, and v if bidirectional/undirected:
+ *       Any out_edge_iterator is invalidated if OutEdgeList.push invalidates.
+ *       Any in_edge_iterator is invalidated if OutEdgeList.push invalidates
+ *        and the graph is bidirectional.
+ *
+ *  template <class Predicate>
+ *  void
+ *   remove_out_edge_if(vertex_descriptor u,
+ *                      Predicate predicate,
+ *                      adjacency_list& graph)
+ *     Removes all out-edges of vertex u from the graph that satisfy the
+ *     predicate.
+ *     The argument is an edge_descriptor.
+ *
+ *  template <class Predicate>
+ *  void
+ *   remove_in_edge_if(vertex_descriptor u,
+ *                     Predicate predicate,
+ *                     adjacency_list& graph)
+ *     Removes all in-edges of vertex u from the graph that satisfy the
+ *     predicate.
+ *     The argument is an edge_descriptor.
+ *
+ *  template <class Predicate>
+ *  void
+ *   remove_edge_if(Predicate predicate, adjacency_list& graph)
+ *     Removes all edges from the graph that satisfy predicate.
+ *     The argument is an edge_descriptor.
+ *
+ *  vertex_descriptor
+ *   add_vertex(const VertexProperty& p, adjacency_list& graph)
+ *     Adds a vertex to the graph with the specified property object.
+ *     Returns the vertex descriptor for the new vertex.
+ *
+ *  void
+ *   clear_vertex(vertex_descriptor u, adjacency_list& graph)
+ *  void
+ *   clear_out_edges(vertex_descriptor u, adjacency_list& graph)
+ *  void
+ *   clear_in_edges(vertex_descriptor u, adjacency_list& graph)
+ *     Removes all edges to and from vertex u;
+ *     Removes all out edges from vertex u;
+ *     Removes all in edges from vertex u.
+ *     Vertex u remains in the graph.
+ *
+ *  void
+ *   remove_vertex(vertex_descriptor u, adjacency_list& graph)
+ *     Remove vertex u from the vertex set of the graph.
+ *     It is assumed that there are no edges to or from vertex u
+ *     when it is removed. clear_vertex() should be used to ensure this.
+ *      If VertexList.erase invalidates, then everything gets invalidated
+ *      after this operation. Otherwise only iterators pointing to vertex
+ *      u are invalidated. 
+ */

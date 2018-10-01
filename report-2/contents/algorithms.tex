@@ -1,0 +1,38 @@
+\documentclass[relatorio.tex]{subfiles}
+% Load Map
+
+\newcolumntype{b}{>{\hsize=1.44\hsize}X}
+\newcolumntype{n}{X}
+\newcolumntype{s}{>{\hsize=.56\hsize}X}
+
+\begin{document}
+\section{Algoritmos}
+\label{sec:alg}
+
+Implementamos \emph{Boyer-Moore} (com \textit{shift rules} genéricas) e \emph{Knuth-Morris-Pratt} para pesquisa exata.
+
+Para distância de edição estão implementadas as distâncias de \emph{Levenshtein} (inserção, remoção, substituição), \emph{Damerau-Levenshtein} simplificado (\emph{Optimal string alignment distance} segundo a \textit{Wikipédia}) e \emph{Damerau-Levenshtein} (inserção, remoção, substituição, transposição) -- para pesquisa aproximada estão os implementados os equivalentes a estes.
+
+\paragraph{Implementação: Boyer-Moore}
+As regras definidas pelo algoritmo (\emph{bad character rule} e \emph{good suffix rule}) estão feitas de forma genérica, permitindo várias estruturas internas.
+
+A \emph{bad character rule} tem duas implementações disponibilizadas: uma com tabela de tamanho $L\times P$, outra com uma tabela mapeada de tamanho $E\times P$, requirindo menos memória.
+
+A classe \class{boyer_moore} encapsula as duas regras para os algoritmos de pesquisa. As implementações do algoritmo e da regra \emph{good suffix rule} seguem as orientações do artigo original\cite{boyermoore}.
+
+\paragraph{Implementação: Knuth-Morris-Pratt}
+A implementação segue as orientações dos slides das teóricas. O preprocessador é, à semelhança do algoritmo anterior, uma classe à parte.\\
+
+Em ambos os algoritmos anteriores os preprocessamentos de $P$ são reutilizáveis -- é feito uma vez e aplicado a todas as ruas a pesquisar.
+
+\paragraph{Implementação: Levenshtein}
+A implementação segue mais uma vez o exemplo das teóricas. Há duas implementações: uma usando uma matriz $P\times T$ e outra usando dois vetores de tamanho $T$, poupando memória.
+
+\paragraph{Implementação: Damerau-Levenshtein}
+As implementações seguem as orientações bastante detalhadas em \cite{damerau}.
+
+O algoritmo simplificado tem uma implementação usando uma matriz $P\times T$ e outra implementação usando uma matriz $3\times T$. O algoritmo \emph{Damerau-Levenshtein} não pode ser simplificado de uma forma análoga aos anteriores e tem de ser implementado usando uma matriz $P\times T$.
+
+\paragraph{Implementação: Pesquisa aproximada}
+Os algoritmos de pesquisa aproximada são adaptados de forma direta dos algoritmos de distância de edição -- nestes casos, estamos interessados em saber a menor das distâncias das \textit{substrings} de $T$ a $P$, em vez da distância entre $T$ e $P$.
+\end{document}

@@ -1,0 +1,58 @@
+\documentclass[relatorio.tex]{subfiles}
+
+\newcommand*{\rarrow}[1]{\ensuremath{\overrightarrow{#1}}}
+\newcommand*{\id}{\sf{id} }
+\newcommand*{\pre}[1]{}
+
+\newcolumntype{b}{>{\hsize=1.44\hsize}X}
+\newcolumntype{n}{X}
+\newcolumntype{s}{>{\hsize=.56\hsize}X}
+
+\begin{document}
+\section{Introdução}
+\label{sec:intro}
+
+\subsection{Definições preliminares}
+\label{subsec:preliminaries}
+
+Começamos com as seguintes definições:
+
+\begin{definitions}
+\item $P$ refere-se ao padrão a pesquisar, ou ao seu comprimento;
+
+\item $T$ refere-se ao texto a ser pesquisado, ou ao seu comprimento.
+
+\item $L$ é o alfabeto de $T$ e de $P$, ou a sua cardinalidade;
+
+\item $E$ é o subconjunto de $L$ definido por $P$, ou a sua cardinalidade;
+
+\item $A$ o texto a ser transformado num algoritmo de distância de edição;
+
+\item $B$ o texto alvo num tal algoritmo.
+\end{definitions}
+
+
+
+\subsection{Tema 3}
+\label{subsec:tema}
+
+\subsubsection{Especificação do Tema}
+\label{subsubsec:spec}
+
+A especificação e descrição do Tema 3 -- Sistema de Evacuação
+é a seguinte:
+
+\begin{quote}
+Para a segunda parte deste trabalho, considere que as ruas têm nomes, por exemplo “Rua de Dr Roberto Frias” ou “A1”, e que pertencem a um dado distrito, por exemplo, “Porto”. Estenda o trabalho realizado com funcionalidades apropriadas que permitem a um automobilista ligar para uma linha de emergência (e.g. 112), dar a sua posição, e solicitar uma rota para evacuação; com o nome do da rua onde o automobilista está, o sistema retorna a rota de evacuação. Implemente esta funcionalidade, considerando tanto pesquisa exata, assim como pesquisa aproximada, das strings identificativas dos nomes das ruas fornecidas. Para pesquisa exata, caso o nome de rua não exista, deverá retornar mensagem de lugar desconhecido. Para a pesquisa aproximada, deverá retornar os nomes de ruas mais próximos, ordenados por similaridade.
+
+Estas novas funcionalidades deverão ser integradas no trabalho já realizado para a primeira parte. Avalie a complexidade (teórica e empiricamente) dos algoritmos implementados em função dos dados de input usados.
+\end{quote}
+
+
+
+\subsubsection{Descrição da Implementação}
+
+No seguimento das aulas de pesquisa aproximada e exata foram implementados algoritmos de pesquisa exata, algoritmos de distância de edição e os equivalentes algoritmos de pesquisa aproximada (\textit{fuzzy search}).
+
+O utilizador do programa seleciona o algoritmo a utilizar
+\end{document}

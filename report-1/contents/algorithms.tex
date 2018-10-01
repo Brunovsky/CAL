@@ -1,0 +1,298 @@
+\documentclass[relatorio.tex]{subfiles}
+% Load Map
+
+\newcolumntype{b}{>{\hsize=1.44\hsize}X}
+\newcolumntype{n}{X}
+\newcolumntype{s}{>{\hsize=.56\hsize}X}
+
+\begin{document}
+\section{Algoritmos}
+\label{sec:alg}
+
+Necessitamos de algoritmos que assegurem e realizem três tarefas distintas:
+
+\begin{itemize}
+\item \textbf{Deteção de conetividade rápida (em $\Theta_t(V)$)}\\
+Determinar a conetividade do grafo em tempo linear.
+
+\item \textbf{Determinação do caminho mais curto}\\
+Encontrar o caminho mais curto entre quaisquer dois vértices.
+
+\item \textbf{Determinação do caminho mais rápido (simulação)}\\
+Usando o algoritmo de \alg{Dijkstra}, uma função heurística
+de tempo, e uma dinâmica de grafo que gere -- automaticamente e
+de forma aproximada -- o trânsito do grafo, é possível visualizar
+a simulação de uma viagem de um utente através do grafo.
+\end{itemize}
+
+Para este fim implementámos as quatro classes de algoritmos na tabela \ref{tab:algorithms}.
+
+\begin{table}[hbpt]
+\caption{Algoritmos Implementados}
+\label{tab:algorithms}
+\begin{tabularx}{\textwidth}{rX}
+\makecell[cr]{\textbf{Greedy BFS}\\Distância}&
+Para encontrar uma aproximação do
+(possivelmente o) caminho mais curto
+entre dois vértices no grafo.\\
+
+\makecell[cr]{\textbf{Dijkstra}\\Distância}&
+Para encontrar o caminho mais curto
+entre dois vértices do grafo.\\
+
+\makecell[cr]{\textbf{A*}\\Distância}&
+Para encontrar o menor caminho
+entre dois vértices, usando a heurística
+de distância ao destino
+para melhorar a prioritização dos vértices.\\
+\end{tabularx}
+\end{table}
+
+
+
+\FloatBarrier
+\subsection{Conetividade}
+\label{subsec:connectivity}
+
+Para determinar a conetividade do grafo $G$ a partir de um vértice $v$,
+ou seja, determinar a \textsl{closure} $G'_v$ de $G$ que inclui $v$, usamos
+o algoritmo \alg{Breadth First Search}, sem destino. Ver Algoritmo~\ref{alg:bfs}.
+Assumamos que $G'_v$ tem o conjunto de vértices $V'_v$ e de arestas $E'_v$.
+
+\paragraph{Complexidade Temporal}
+A complexidade temporal de \alg{Breadth First Search} (Pesquisa em largura)
+é $\Theta(E + V)$. Prova. Todas as instruções do algoritmo têm complexidade temporal
+constante ($\Theta(1)$). O \looop{while} exterior executa $V_v'$ vezes e o
+\looop{for} interior executa $E'_v$ vezes no total.
+Logo $\Theta_t=\Theta(E'_v+V'_v)=\Theta(E'_v)+\Theta(V'_v)=\Theta(E)+\Theta(V)=\Theta(E+V)$.
+
+\paragraph{Complexidade Espacial}
+A complexidade espacial de \alg{Breadth First Search} é $\Theta_e(V)$. Todas as
+variáveis exceto \sf{queue} têm espaço de memória constante, e \sf{queue}
+armazena no máximo $V'_v$ vértices. Logo $\Theta_e=\Theta(V'_v)=\Theta(V)$.
+
+\paragraph{Correção}
+A ideia básica subjacente a este algoritmo
+
+As considerações acima também se aplicariam ao caso em que o algoritmo
+terminasse cedo (\emph{early exit})
+O algoritmo \alg{BFS} é utilizado como algoritmo auxiliar dos restantes,
+para determinar quais são os vértices alcançáveis. Como alternativa
+poderia-se usar o algoritmo \alg{Depth First Search}, com complexidade
+temporal e espacial equivalentes.
+
+\begin{algor}{Breadth First Search($v$ \var{origin})}{alg:bfs}
+\State queue = new Queue() \Comment Simple Queue
+\State queue.push(\var{origin})
+\\
+\While {not queue.empty()}
+    \State current = queue.front()
+    \State queue.pop()
+    \For {next in adj(current)}
+        \If {accident in next}
+            \State continue
+        \EndIf
+        \If {not next.visited}
+            \State next.visited = true
+            \State queue.push(next)
+        \EndIf
+    \EndFor
+\EndWhile
+\end{algor}
+
+
+\FloatBarrier
+\subsection{Determinação de caminho mais curto}
+\label{subsec:shortestpathalg}
+
+Para determinar o caminho mais curto (em termos de distância euclidiana)
+disponibilizamos três algoritmos distintos: \alg{Greedy Best-First Search}
+-- pesquisa gananciosa muito rápida e não necessariamente correta --
+\alg{Dijkstra} e \alg{A*}. Ver Algoritmos \ref{alg:gbfs}, \ref{alg:dijkstralateexit},
+\ref{alg:dijkstraearlyexit}, \ref{alg:astar}.
+
+Em todos os algoritmos, é assumido que uma limpeza do campo $v.\sfmath{cost}$
+foi realizada pelo menos para todos os vértices de $V'_v$,
+designando o valor inicial $v.\sfmath{cost}=\infty, \forall v\in V'_v$.
+
+\paragraph{Complexidade Temporal}
+A complexidade temporal dos algoritmos é $\Theta_t((V + E)\ln V)$ se \class{PriorityQueue}
+for implementada como uma Árvore Binária. Prova.
+O \looop{while} exterior executa no máximo $V'_v\leq V$ vezes e o \looop{for}
+interior executa no máximo $E'_v\leq E$ vezes no total. As operações de \sf{push}
+e \sf{pop} executam em tempo $\Theta(\ln \sizeof(\sfmath{pqueue}))$, e como o tamanho de
+\sf{queue} é no máximo $V'_v\leq V$ a qualquer momento então $\Theta(\ln \sizeof(\sfmath{pqueue}))
+=\Theta(\ln V)$. Logo $\Theta_t=\Theta(E+V)\cdot\Theta(\ln V)=\Theta((E+V)\ln V)$.
+
+\paragraph{Complexidade Espacial}
+A complexidade espacial dos algoritmos é $\Theta_e(V)$. A lógica é idêntica
+ao algoritmo \alg{BFS} de conetividade (ver \ref{subsec:connectivity}).
+
+\paragraph{Correção Dijkstra}
+Inicialmente todos os vértices $v$ têm \sf{cost} infinito. Logo a primeira vez
+que um vértice $\sfmath{next}\neq\var{origin}$ é encontrado no \looop{for} interior,
+\sf{next.cost} é infinito e a desigualdade $\sfmath{newcost}<v.\sfmath{next.cost}$ é
+automaticamente verdadeira, designando o valor \sf{newcost} a \sf{next.cost}.
+Sabendo que $\var{origin}.cost$ é $0$ pode-se provar por indução sobre a iteração
+$j$ do \looop{while} que $v.\sfmath{cost}$ é o caminho mais curto de \var{origin} a
+$v$ usando apenas os vértices já iterados $\{v_1=\var{origin},v_2,v_3,\dots,v_j\}$.
+Isto demonstra a correção do algoritmo \ref{alg:dijkstralateexit} (\emph{late exit}).
+Suponhamos que o algoritmo \ref{alg:dijkstraearlyexit} é inválido, e aquando do retorno
+na instrução \sf{break} o melhor caminho não é o determinado. Pela indução deduzida acima
+sabemos que o melhor caminho determinado, digamos com comprimento $l$, usa apenas os vértices
+$\{v_1=\var{origin},v_2,\dots,v_k=\var{destination}\}$. Portanto o melhor caminho
+usa um vértice $v'$ que não está neste conjunto, e como tal ainda não foi iterado
+no \looop{while}. Logo $v'.\sfmath{cost}>v_k.\sfmath{cost}=\sfmath{destination.cost}$.
+Se $d$ é o comprimento do melhor caminho, então $v'.\sfmath{cost}<d$ pois as distâncias
+são não negativas. Mas então $d>\sfmath{destination.cost}=l$. Contradição.
+
+\begin{algor}{Greedy Best-First Search($v$ \var{origin}, $v$ \var{destination})}{alg:gbfs}
+\State pqueue = PriorityQueue()
+\State pqueue.push(\var{origin})
+
+\While {not pqueue.empty()}
+    \State current = pqueue.front()
+    \State pqueue.pop()
+
+    \For {next in adj(current)}
+        \If {accident in next}
+            \State continue \Comment Clear vertices only
+        \EndIf
+        \If {not next.visited}
+            \State next.visited = true
+            \State next.priority = distance(next, \var{destination}) \Comment Greedy
+            \State pqueue.push(next)
+        \EndIf
+    \EndFor
+\EndWhile
+\end{algor}
+
+\begin{algor}{Dijkstra($v$ \var{origin}) \Comment Late Exit}{alg:dijkstralateexit}
+\State pqueue = PriorityQueue() \Comment Supporting decrease key
+\State pqueue.push(\var{origin})
+
+\While {not pqueue.empty()}
+    \State current = pqueue.front()
+    \State pqueue.pop()
+
+    \For {next in adj(current)}
+        \If {accident in next}
+            \State continue \Comment Clear vertices only
+        \EndIf
+        \State newcost = current.cost + distance(current, next)
+        \If {newcost < next.cost} \Comment Found a shorter path
+            \State next.cost = newcost
+            \State next.priority = newcost
+            \State next.previous = current
+            \State pqueue.push(next) \Comment Decrease key if already present
+        \EndIf
+    \EndFor
+\EndWhile
+\end{algor}
+
+\begin{algor}{Dijkstra($v$ \var{origin}, $v$ \var{destination}) \Comment Early Exit}{alg:dijkstraearlyexit}
+\State pqueue = PriorityQueue() \Comment Supporting decrease key
+\State pqueue.push(\var{origin})
+
+\While {not pqueue.empty()}
+    \State current = pqueue.front()
+    \State pqueue.pop()
+
+    \If {current == \var{destination}}
+        \State break
+    \EndIf
+
+    \For {next in adj(current)}
+        \If {accident in next}
+            \State continue \Comment Clear vertices only
+        \EndIf
+        \State newcost = current.cost + distance(current, next)
+        \If {newcost < next.cost} \Comment Found a shorter path
+            \State next.cost = newcost
+            \State next.priority = newcost
+            \State next.previous = current
+            \State pqueue.push(next) \Comment Decrease key if already present
+        \EndIf
+    \EndFor
+\EndWhile
+\end{algor}
+
+\begin{algor}{A*($v$ \var{origin}, $v$ \var{destination})}{alg:astar}
+\State pqueue = PriorityQueue() \Comment Supporting decrease key
+\State pqueue.push(\var{origin})
+
+\While {not pqueue.empty()}
+    \State current = pqueue.front()
+    \State pqueue.pop()
+
+    \If {current == \var{destination}}
+        \State break
+    \EndIf
+
+    \For {next in adj(current)}
+        \If {accident in next}
+            \State continue \Comment Clear vertices only
+        \EndIf
+        \State newcost = current.cost + distance(current, next)
+        \If {newcost < next.cost} \Comment Found a shorter path
+            \State next.cost = newcost
+            \State next.priority = newcost + distance(next, \var{destination}) \Comment A*
+            \State next.previous = current
+            \State pqueue.push(next) \Comment Decrease key if already present
+        \EndIf
+    \EndFor
+\EndWhile
+\end{algor}
+
+
+\FloatBarrier
+\subsection{Determinação do caminho mais rápido entre vértices}
+\label{subsec:fastestpath}
+
+Para determinar o caminho mais rápido usamos uma função heurística simples,
+chamemos-lhe \function{time}, capaz de avaliar o tempo que um veículo demora a
+atravessar uma aresta, baseado no comprimento da rua subjacente e no seu
+congestionamento (número de carros presentes naquele momento, face ao máximo).
+
+Aquando da execução deste algoritmo é tirada uma \emph{fotografia} do estado do grafo
+-- do género de um satélite -- o que significa que a validade do caminho descoberto
+está limitada à conformidade de $G$ com esta \emph{fotografia}.
+
+Para simular a complexa dinâmica do trânsito no grafo $G$, este algoritmo é
+executado múltiplas vezes seguidas, de forma interativa: o condutor percorre apenas
+uma rua, ou até apenas uma aresta, e então o caminho óptimo é recalculado tendo em
+consideração um novo estado do grafo $G$ -- uma nova \emph{fotografia} -- idem
+até chegar ao seu destino. Ver Algoritmo \ref{alg:dijkstrasimulation}.
+
+Visto que a única diferença deste algoritmo de \alg{Dijkstra} com o algoritmo
+de distância é o peso, e a função heurística tem complexidade temporal constante,
+a complexidade deste algoritmo é igual: $\Theta_t((E+V)\ln V)$ e $\Theta_e(V)$, tal
+como a sua correção.
+
+\begin{algor}{Dijkstra($v$ \var{origin}, $v$ \var{destination}) \Comment Simulation}{alg:dijkstrasimulation}
+\State pqueue = PriorityQueue() \Comment Supporting decrease key
+\State pqueue.push(\var{origin})
+
+\While {not pqueue.empty()}
+    \State current = pqueue.front()
+    \State pqueue.pop()
+
+    \If {current == \var{destination}}
+        \State break
+    \EndIf
+
+    \For {next in adj(current)}
+        \If {accident in next}
+            \State continue \Comment Clear vertices only
+        \EndIf
+        \State newcost = current.cost + time(current, next) \Comment Different weight
+        \If {newcost < next.cost} \Comment Found a faster path
+            \State next.cost = newcost
+            \State next.priority = newcost
+            \State next.previous = current
+            \State pqueue.push(next) \Comment Decrease key if already present
+        \EndIf
+    \EndFor
+\EndWhile
+\end{algor}
+\end{document}

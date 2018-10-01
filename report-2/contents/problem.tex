@@ -1,0 +1,32 @@
+\documentclass[relatorio.tex]{subfiles}
+
+\begin{document}
+\section{Interface}
+\label{sec:impl}
+
+No seguimento das aulas de pesquisa aproximada e exata foram implementados algoritmos de pesquisa exata, algoritmos de distância de edição e os equivalentes algoritmos de pesquisa aproximada (\textit{fuzzy search}).
+
+O utilizador do programa seleciona o algoritmo a utilizar
+
+\begin{enumerate}[listparindent=2em]
+\item {\bfseries Seleção do algoritmo.}
+
+O utilizador seleciona o algoritmo a utilizar da lista.
+
+\item {\bfseries Seleção da rua.}
+
+O utilizador indica o nome da \emph{rua} a pesquisar com a sua posição. Dependendo do tipo de algoritmo, claro, o nome da rua encontrada deverá ser exatamente igual ou aproximadamente igual ao dado.
+
+\item {\bfseries Seleção de uma das ruas encontradas.}
+
+Se alguma rua for encontrada o utilizador deverá escolher aquela em que se encontra de entre as selecionadas. As ruas aparecem destacadas visualmente no grafo.
+
+\item {\bfseries Seleção da rua de destino.}
+
+Novamente o utilizador introduz o nome da rua para onde pretende evacuar, o sistema pesquisa o nome da rua com o mesmo algoritmo e pede ao utilizador novamente para escolher.
+
+\item {\bfseries Melhor caminho.}
+
+Com as duas ruas o sistema encontra o caminho mais rápido entre as duas ruas.
+\end{enumerate}
+\end{document}

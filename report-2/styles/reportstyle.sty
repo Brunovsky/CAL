@@ -1,0 +1,234 @@
+% ********** MAIN PACKAGES
+% Load core style
+\usepackage{./styles/stylecore}
+
+% Include babel (Standard)
+% The primary language is the one on the right
+\usepackage[english,portuguese]{babel}
+
+% Manipulation of titles (chapters, sections, ...)
+\usepackage[explicit,indentafter,nobottomtitles*]{titlesec}
+
+% Include images in project
+\usepackage{graphicx}
+
+% Include links to pages from Table of Contents
+\usepackage[linktocpage=true]{hyperref}
+
+% Include captions (Standard)
+\usepackage[centerlast]{caption}
+
+% Include underline utility \uline
+\usepackage[normalem]{ulem}
+
+% Include inconsolata monospace font
+\usepackage{inconsolata}
+
+% Manipulate headers and footnotes
+\usepackage{fancyhdr}
+
+% Improve tabular environment
+\usepackage{tabularx}
+
+% Stop floats from crossing sections
+\usepackage[section]{placeins}
+
+\usepackage{enumitem}
+
+
+
+
+
+% ********** MATH PACKAGES
+% Include AMS's math utils (Standard)
+\usepackage[centertags,sumlimits,intlimits,namelimits]{amsmath}
+
+% Enhance amsmath (Standard)
+\usepackage{mathtools}
+
+% Include extra math symbols (Standard)
+\usepackage{amssymb}
+
+% Include extra math fonts (such as BlackBoard) (Standard)
+\usepackage{amsfonts}
+
+% Include AMS's theorem utility (includes proof environment)
+\usepackage{amsthm}
+
+% Make cells inside tabels
+\usepackage{makecell}
+
+% Algorithm environments to write algorithms!
+\usepackage{algorithm}
+\usepackage{algorithmicx}
+\usepackage{algpseudocode}
+
+
+
+
+
+% ********** SETUP
+\graphicspath{{./images/}{./}{./contents/}}
+
+\geometry{
+    ignoreheadfoot,
+    %hdivide = {,,},
+    %vdivide = {,,},
+    heightrounded
+}
+
+%\addto\captionsportuguese{\renewcommand{\contentsname}{Conteúdos}}
+%\addto\captionsenglish{\renewcommand{\contentsname}{Contents}}
+
+
+
+
+
+% ********** DOCUMENT'S PENALTIES
+\allowdisplaybreaks
+\hyphenpenalty=100
+\binoppenalty=3000
+\relpenalty=500
+\clubpenalty=3000
+\widowpenalty=7000
+\displaywidowpenalty=10000
+\brokenpenalty=2000
+\predisplaypenalty=8000
+
+
+
+
+
+% ********** DOCUMENT'S ENVIRONMENTS
+\newenvironment{definitions}
+    {\begin{itemize}}
+    {\end{itemize}}
+
+\newenvironment{algor}[2]
+    {\begin{algorithm}
+    \caption{#1}\label{#2}
+    \begin{algorithmic}}
+    {\end{algorithmic}\end{algorithm}}
+
+
+
+
+
+% ********** DOCUMENT'S TITLES AND HEADERS
+\pagestyle{fancy}
+
+% Left Header
+\lhead{}
+
+% Center Header
+\chead{Faculdade de Engenharia da Universidade do Porto}
+
+% Right Header
+\rhead{}
+
+% Header Line Width
+\renewcommand*{\headrulewidth}{0.2pt}
+
+% Left Footnote
+\lfoot{Tema 3 -- Sistema de Evacuação}
+
+% Center Footnote
+\cfoot{}
+
+% Right Footnote
+\rfoot{\thepage}
+
+% Footnote Line Width
+\renewcommand*{\footrulewidth}{0.2pt}
+
+% Section Title Format
+%\titleformat{\section}{\normalfont\LARGE\bfseries}{}
+%    {2em plus .2em minus .2em}{#1}{}
+
+% Section Title Spacing
+\titlespacing*{\section}
+{0pt}{15ex plus 2ex minus 2ex}{3ex plus .8ex minus .8ex}
+
+% Subsection Title Format
+%\titleformat{\subsection}{\normalfont\Large\bfseries}{}
+%    {2em plus .2em minus .2em}{#1}{}
+
+% Subsection Title Spacing
+\titlespacing*{\subsection}
+{0pt}{8ex plus 1ex minus 1.5ex}{3ex plus .8ex minus .8ex}
+
+% Subsubsection Title Format
+%\titleformat{\subsubsection}{\normalfont\normalsize\bfseries}{}
+%    {2em plus .2em minus .2em}{#1}{}
+
+% Subsubsection Title Spacing
+\titlespacing*{\subsubsection}
+{0pt}{6ex plus .5ex minus 1ex}{3ex plus .8ex minus .8ex}
+
+
+
+
+
+% ********** DOCUMENT'S ALIASES
+\newcommand*{\osm}
+    {\href{https://www.openstreetmap.org/}{www.openstreetmap.org}}
+
+\newcommand*{\bigO}
+    {\href{https://en.wikipedia.org/wiki/Big_O_notation}{Big O Notation}}
+
+\newcommand*{\bslash}{\textbackslash}
+
+
+
+
+
+% ********** DOCUMENT'S TEXT STYLE COMMANDS
+\newcommand*{\looop}[1]{\textsl{loop #1}}
+
+\newcommand*{\alg}[1]{\textsl{#1}}
+
+\newcommand*{\acc}[1]{\textsl{#1}}
+
+\newcommand*{\var}[1]{\textsl{\textsf{#1}}}
+
+\newcommand*{\file}[1]{\textit{\detokenize{#1}}}
+
+\newcommand*{\module}[1]{\textsl{\detokenize{#1}}}
+
+\newcommand*{\folder}[1]{\textsl{\detokenize{#1}}}
+
+\newcommand*{\external}[1]{\textsl{\detokenize{#1}}}
+
+\newcommand*{\mono}[1]{\texttt{\detokenize{#1}}}
+
+\renewcommand*{\sf}[1]{\textsf{\detokenize{#1}}}
+
+\newcommand*{\exe}[1]{\textsf{\detokenize{#1}}}
+
+\newcommand*{\class}[1]{\textsf{\detokenize{#1}}}
+
+\newcommand*{\method}[1]{\textsf{\detokenize{#1}}}
+
+\newcommand*{\function}[1]{\textsf{\detokenize{#1}}}
+
+\newcommand*{\regex}[1]{\texttt{#1}}
+
+
+
+
+
+% ********** DOCUMENT'S MATH COMMANDS
+\newcommand*{\sizeof}{\sfmath{sizeof}}
+
+\newcommand*{\sfmath}[1]{\ensuremath{\textup{\textsf{\detokenize{#1}}}}}
+
+\newcommand*{\monomath}[1]{\ensuremath{\textup{\texttt{\detokenize{#1}}}}}
+
+%\newcommand*{\suchthat}{\ensuremath{\,:\,}}
+
+%\newcommand*{\coprime}{\ensuremath{\perp}}
+
+%\newcommand*{\mdc}{\ensuremath{\text{mdc}}}
+
+%\newcommand*{\mmc}{\ensuremath{\text{mmc}}}
+

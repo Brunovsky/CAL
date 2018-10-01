@@ -1,0 +1,38 @@
+\documentclass[11pt,a4paper,titlepage]{article}
+
+\usepackage{./styles/reportstyle}
+
+\usepackage[backend=biber,style=verbose]{biblatex}
+\usepackage[nottoc,numbib]{tocbibind}
+\addbibresource{relatorio-blx.bib}
+
+%\syntaxonly
+
+\title{
+    \includegraphics[scale=0.20]{feuplogo.jpg}\\
+    \vspace{2\baselineskip}
+    \Huge Sistema de Evacuação Parte 2\\
+    \LARGE Tema 3
+}
+
+\author{
+    Bruno Carvalho\\ \text{up201606517@fe.up.pt}
+}
+
+\begin{document}
+\maketitle
+\tableofcontents
+\clearpage
+
+\subfile{./contents/intro.tex}
+
+\subfile{./contents/problem.tex}
+
+\subfile{./contents/algorithms.tex}
+
+\nocite{*}
+
+\addcontentsline{toc}{section}{Referências}
+\printbibliography
+
+\end{document}

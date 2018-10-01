@@ -1,0 +1,163 @@
+\documentclass[relatorio.tex]{subfiles}
+
+\begin{document}
+\section{Classes e Estruturas de Dados}
+\label{sec:classdata}
+
+\subsection{Filosofia da Implementação}
+\label{subsec:philosophy}
+
+A base do programa é a abstração \class{Graph}, baseada naquela
+que é usada nos exercícios da aula prática $5$. É extendida
+consideravelmente, suportando os algoritmos que listamos na Tabela
+\ref{tab:algorithms} e a acidentação de vértices e de arestas,
+representando acidentes nas vias e impossibilitando movimento.
+
+No projeto usamos a versão \sf{1.2} da \sf{API GraphViewer} fornecida
+pelos professores. Esta API é parcialmente encapsulada pela
+classe \class{Graph}.
+
+O ponto de partida normal do programa é a leitura de um conjunto
+de ficheiros de texto -- já listados na subsecção
+\ref{subsec:preliminaries} -- que descrevem um mapa extraído de
+\osm{} e processado pelo \sf{OpenStreetMapsParser} (fornecido pelos
+professores). Não existe outro ponto de partida para o programa.
+
+O grafo $G$ procura representar com precisão e proporção um mapa
+real. Como tal, $G$ é estático depois de inicializado, sendo que
+certas funcionalidades do género \textsl{create} e \textsl{remove}
+não estão disponíveis.
+
+
+\subsection{Classes}
+\label{subsec:graph}
+
+\begin{table}[hbpt]
+\caption{Classes Principais}
+\label{tab:classes}
+\begin{tabularx}{\textwidth}{lX}
+\textbf{Graph}& A abstração de $G$ e a base do programa.
+Corresponde na realidade ao sistema de ruas e interseções do mapa.
+É estritamente orientado, (normalmente) planar e
+portanto esparso em termos de arestas
+(o que significa $V\sim E$, i.e. $\Theta(V)=\Theta(E)$).\\
+
+\textbf{Vertex}& A abstração de um vértice~$v$.
+Corresponde na realidade a uma interseção de ruas, ou a
+uma parte de uma rua para delinear o seu trajeto curvilíneo.
+Cada entrada do ficheiro \file{nodes} é um vértice~$v$.\\
+
+\textbf{Road}& A abstração de uma rua~$r$ do mapa real.
+Corresponde a uma rua no mapa real, e é constituído
+por uma sequência (caminho) de arestas~$e_j$, $j=1,\dots,k$.
+Cada entrada do ficheiro \file{roads} é uma rua~$r$.\\
+
+\textbf{Edge}& A abstração de uma aresta~$e$.
+Corresponde a uma porção maioritariamente retilínea
+de um rua no mapa real, sem interseções ou bifurcações.
+Cada entrada do ficheiro \file{subroads} é uma aresta~$e$.\\
+
+\textbf{Subroad}& A abstração de uma porção de uma estrada~$s$.
+À semelhança da abstração \class{Edge}, corresponde a uma porção
+maioritariamente retilínea de uma rua no mapa real, sem interseções ou
+bifurcações, embora esta seja destinada a gerir e armazenar informação
+usada pela Edge. Cada entrada do ficheiro subroads é uma porção~$s$.
+\end{tabularx}
+\end{table}
+
+
+\FloatBarrier
+\subsubsection{Graph}
+\label{subsubsec:graph}
+
+\class{Graph} encapsula $V$, a \sf{API} de visualização do grafo e
+ainda todos os algoritmos implementados, além das estruturas de dados
+auxiliares à programação dinâmica destes .
+A classe \class{Graph} contém os atributos:
+
+\begin{itemize}
+\item width, height: dimensões do mapa do grafo.
+\item vertexSet: vetor de apontador para os vértices que
+constituem o grafo.
+\item accidentedVertexSet: vetor de apontadores para os vértices que
+constituem o grafo e que se encontram intransitáveis. 
+\item gv: apontador para o objeto da classe GraphViewer responsável pela representação visual do grafo.
+\item scale: fator de escala do mapa visualizado no ecrã.
+\end{itemize}
+
+
+\subsubsection{Vertex}
+\label{subsubsec:vertex}
+
+Cada \class{Vertex} detém uma posição no mapa do
+grafo (coordenadas cartesianas~$(x_i,y_i)$ inteiras)
+projetada pela sua posição em $M$. Pode ou não estar
+\acc{acidentado}. Cada \class{Vertex} é responsável por
+gerir as arestas que dele saem -- o que efetivamente
+significa que $V$ encapsula $E$.
+
+A classe \class{Vertex} contém os seguintes atributos:
+
+\begin{itemize}
+\item id: inteiro positivo que identifica, de forma única, um vértice. 
+\item x, y: coordenadas cartesianas. 
+\item accidented: booleano que indica se o vértice se encontra
+acidentado ou não. Os vértices acidentados estão cortados ao
+transito impossibilitando a passagem de veículos. 
+\item adj: vetor de arestas com origem neste vértice e que o ligam a outros distintos.
+\item accidentedAdj: vetor de arestas com origem neste vértice que se estão atualmente intransitáveis.
+\item graph: apontador para o objeto da classe Graph que contém o vértice e que o representa.
+\end{itemize}
+
+
+\subsubsection{Edge}
+\label{subsubsec:edge}
+
+
+Cada Edge encapsula, essencialmente, a informação da subroad que
+é representada por uma aresta e os vértices que a delimitam.
+A classe Edge contém os seguintes atributos:
+
+\begin{itemize}
+\item id: inteiro positivo que identifica uma aresta de forma única.
+\item source: vértice de início da aresta.
+\item dest: vértice de destino de aresta.
+\item accidented: booleano que indica se a aresta se encontra intransitável ou não.
+\item graph: apontador para o objeto da classe Graph que contém a aresta e que a representa.
+\item subroad: apontador para o objeto da classe Subroad que esta aresta representa.
+\end{itemize}
+
+
+\subsubsection{Road}
+\label{subsubsec:road}
+
+Cada Road encapsula a informação que descreve a rua real em M: o seu nome e o comprimento.
+	A classe Road contém os atributos seguintes:
+
+\begin{itemize}
+\item id: inteiro positivo que identifica uma estrada de forma única.
+\item name: nome da estrada.
+\item bothways: booleano que indica se a estrada é de dois sentidos ou não.
+\item totalDistance: distância total da estrada.
+\item maxSpeed: limite de velocidade da estrada calculado a partir da distância.
+\end{itemize}
+
+
+\subsubsection{Subroad}
+\label{subsubsec:subroad}
+
+Cada SubRoad contém a informação do mundo real sobre uma Edge.
+A classe Subroad contem os seguintes atributos:
+
+\begin{itemize}
+\item distance: comprimento da sub estrada.
+\item road: apontador para a rua à qual pertence.
+\item actualCapacity: quantidade de carros presentes na sub estrada.
+\item maxCapacity: quantidade máxima de carros que podem existir na sub estrada.
+Para além dos atributos referidos, foram também usados
+outros adicionais, nas classes Vertex e Edge, específicos
+para certos atributos, que serão abordados mais á frente.
+\end{itemize}
+
+
+\end{document}

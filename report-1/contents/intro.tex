@@ -1,0 +1,105 @@
+\documentclass[relatorio.tex]{subfiles}
+
+\newcommand*{\rarrow}[1]{\ensuremath{\overrightarrow{#1}}}
+\newcommand*{\id}{\sf{id} }
+\newcommand*{\pre}[1]{}
+
+\newcolumntype{b}{>{\hsize=1.44\hsize}X}
+\newcolumntype{n}{X}
+\newcolumntype{s}{>{\hsize=.56\hsize}X}
+
+\begin{document}
+\section{Introdução}
+\label{sec:intro}
+
+\subsection{Definições preliminares}
+\label{subsec:preliminaries}
+
+Ao longo do relatório usamos as seguintes definições e conceitos:
+
+\begin{definitions}
+\item $G$ refere-se à abstração de grafo (ou à classe \class{Graph});
+
+\item $M$ refere-se ao mapa \textsl{real} extraído de \osm{} e
+representado por~$G$.
+
+\item $V$ é o conjunto dos vértices de~$G$, ou a
+sua cardinalidade num contexto numérico;
+
+\item $E$ é o conjunto das arestas de~$G$, ou a sua
+cardinalidade num contexto numérico;
+
+\item $R$ é o conjunto das ruas, com nome ou não, de~$M$;
+
+\item $v\in V$, $v_i\in V$ são vértices de $V$.
+
+\item $e\in E$, $e_i\in E$ são arestas de $E$.
+A aresta $e_{ij}$ é aquela que liga $v_i$ a $v_j$.
+
+\item $r\in R$, $r_i\in R$ são ruas de $R$.
+
+\item \file{meta}, \file{nodes}, \file{roads}, \file{subroads}
+são ficheiros de dados que servem como \textsl{input} do programa.
+Mais informação na subsecção \ref{subsec:routinefiles}.
+
+\item $\Theta(\sfmath{expression}(n))$ refere-se à complexidade
+temporal ou espcial de uma função ou algoritmo (\bigO).\\
+Mais precisamente, $\Theta_t$ é a complexidade temporal,
+e $\Theta_e$ a complexidade espacial de um algoritmo ou função.
+\end{definitions}
+
+
+
+\subsection{Tema 3}
+\label{subsec:tema}
+
+\subsubsection{Especificação do Tema}
+\label{subsubsec:spec}
+
+A especificação e descrição do Tema 3 -- Sistema de Evacuação
+é a seguinte:
+
+\begin{quote}
+Um sistema de evacuação permite retirar em segurança os
+utentes presentes numa área acidentada.
+Considere a rede de auto-estradas de Portugal e suponha a
+ocorrência de um acidente grave (incêndio, por ex) que obriga
+ao corte de um troço da auto-estrada e desvio dos automóveis
+em circulação.
+Neste trabalho, pretende-se implementar um sistema que determine
+os percursos alternativos que cada automóvel deve realizar.
+Considere a existência de múltiplos automóveis nos vários troços
+das auto-estradas, cada automóvel possui o seu destino. Cada
+troço da auto-estrada possui uma capacidade limitada, isto é,
+número máximo de automóveis que suporta (este valor não deve
+ser ultrapassado, correndo o risco de parar o trânsito automóvel
+nesse troço).  
+O sistema deve indicar, para cada automóvel, o melhor percurso
+alternativo que deve realizar para evitar o troço acidentado e
+chegar ao seu destino em segurança, no menor tempo possível.
+
+Avalie a conectividade do grafo, a fim de evitar que locais de destino se encontrem em zonas inacessíveis a partir do ponto onde se encontra o automobilista quando da ocorrência do acidente.
+\end{quote}
+
+
+
+\subsubsection{Descrição do Tema}
+
+O tema do presente trabalho consiste num sistema de evacuação
+que permite não só retirar em segurança os utentes presentes
+numa área acidentada como também definir trajetos para os quais
+serão evitadas zonas acidentadas. Para tal serão consideradas
+diferentes redes de estradas nas quais ocorrerão acidentes graves
+que por sua vez implicam o corte das mesmas.
+
+Cada estrada possui uma capacidade limitada, isto é, possui um
+número máximo de automóveis que suporta, existindo, portanto, o
+risco de congestionamento do trânsito nos diversos troços existentes.
+
+Assim torna-se evidente a necessidade de determinar percursos
+alternativos para os utentes de modo a evitarem estas zonas
+acidentadas, tendo este trabalho como principal objetivo, encontrar
+o melhor percurso alternativo que cada utente deve realizar para
+evitar o troço acidentado e chegar ao seu destino em segurança,
+no menor tempo possível.
+\end{document}

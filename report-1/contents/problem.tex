@@ -1,0 +1,95 @@
+\documentclass[relatorio.tex]{subfiles}
+
+\begin{document}
+\section[Interpretação do Problema]{Interpretação do Tema e do Problema}
+\label{sec:problem}
+
+\subsection{Identificação do Problema}
+\label{subsec:identproblem}
+
+Após uma a análise detalhada do tema anteriormente descrito,
+tornou-se evidente o problema em questão, problema este coincidente
+com o objetivo principal do trabalho, isto é, obter o melhor percurso
+alternativo, tendo em conta a segurança e o tempo, para cada utente.
+Deste modo procedeu-se então à formalização do problema decompondo
+este em quatro subproblemas:
+
+\begin{enumerate}[listparindent=2em]
+\item {\bfseries Cálculo do melhor percurso para cada utente tem em conta apenas a distância.}
+
+Numa primeira fase do problema o objetivo passa por simplesmente determinar o percurso mais curto entre dois pontos definidos pelo utente, isto tendo em conta o grafo considerado para tal efeito. Nesta fase ignora-se a maior parte dos fatores intervenientes no que é considerado o objetivo final deste trabalho, e, portanto, considera-se apenas a distância entre dois pontos.
+
+Assim numa primeira fase, o problema resume-se a um problema trivial de caminho mais curto tendo em conta a distância, sendo este resolúvel, recorrendo a determinados algoritmos que se encontram descritos na secção referente à descrição da solução implementada.
+
+\item {\bfseries Cálculo do melhor percurso para cada utente tem em conta a distância mais os locais acidentados.}
+
+Numa segunda fase, na qual já existe um ou vários algoritmos para resolver o problema base do tema deste trabalho, é introduzido um novo fator no mesmo, fator este referente à introdução de locais acidentados na rede de estradas considerada. 
+
+Deste modo passam, portanto, a existir locais a ser evitados e por sua vez inacessíveis devido ao seu estado, no entanto, a introdução deste novo fator, não altera o funcionamento dos algoritmos isto porque, os locais acidentados passam a ser tidos em conta como locais inexistentes e consequentemente passam a ser ignorados pelo algoritmo no cálculo do melhor percurso para cada utente. 
+
+\item {\bfseries Cálculo do melhor percurso para cada utente tem em conta a distância, os locais acidentados, e o tempo.}
+
+Numa terceira fase, é introduzido o fator tempo que passa a ser considerado pelos algoritmos como o peso da aresta no grafo. Este tempo é obtido tendo em conta a distância de cada estrada, já utilizada nos subproblemas anteriores, e ainda a sua velocidade máxima. 
+
+Este cálculo consiste numa operação matemática simples, que traduz na divisão da distância pela velocidade, obtendo-se assim o novo fator, isto é, o tempo que se demora a percorrer uma determinada estrada.
+
+\item {\bfseries Cálculo do melhor percurso para cada utente tem em conta a distância, os locais acidentados, o tempo e a ocupação da rede de estradas considerada.}
+
+Numa quarta e última fase introduz-se por fim o último fator que é a ocupação da estrada, isto é, o número de carros presentes num troço tendo em conta a capacidade máxima para esse mesmo troço.
+
+Este novo fator é introduzido no trabalho na medida em que a velocidade com que uma determinada estrada é percorrida, tem em conta a sua ocupação. 
+
+Para tal é tido em conta a relação linear velocidade-densidade na qual um aumento de densidade provoca uma diminuição da velocidade na estrada. Deste modo, quando o utente pretende verificar qual o melhor percurso para ir de um ponto A a um ponto B, o algoritmo fornece os resultados tendo em conta o estado do grafo, isto é, a ocupação da rede de estradas nesse momento, pois esta varia dinamicamente. Quando densidade de carros é máxima, ou seja, quando a ocupação atinge o limite máximo a velocidade é praticamente nula pois a estrada encontra-se congestionada.
+\end{enumerate}
+
+
+
+\subsection{Formalização do problema}
+\label{subsec:formal}
+
+\subsubsection{Dados de entrada}
+\label{subsubsec:formalin}
+
+Os dados de entrada neste trabalho correspondem à inicialização
+do grafo que posteriormente será utilizado para visualização dos
+dados de saída e sobre o qual irão operar os algoritmos de caminho
+mais curto descritos na secção referente à descrição da solução implementada.
+Para tal é necessário fazer um pré-processamento dos dados de entrada para
+que estes algoritmos possam ser devidamente executados. 
+
+Este pré-processamento encontra-se definido e explicado na secção \ref{sec:loadmap}.
+
+\subsubsection{Dados de saída}
+\label{subsubsec:formalout}
+
+Os dados de saída neste trabalho correspondem
+ao melhor percurso possível a ser percorrido pelo utente no instante
+em que este pretende se deslocar entre dois pontos, evitando todos
+os locais acidentados pelo caminho.
+
+Estes dados podem ser obtidos visualmente através da GUI
+e à qual se encontram associadas um conjunto de cores que
+descrevem o funcionamento do mesmo.
+
+\begin{table}
+\caption{Cores da Interface}
+\label{tab:colors}
+\begin{itemize}
+\item Azul -- corresponde a um vértice no seu estado normal.
+\item Vermelho -- corresponde a vértices ou arestas acidentados, na medida em que estes
+não podem ser utilizados por qualquer algoritmo na pesquisa do melhor percurso
+possível entre dois pontos.
+\item Verde -- corresponde ao melhor percurso possível entre dois pontos,
+tendo em conta a situação atual do grafo.
+\item Ciano -- corresponde ao melhor percurso possível previsto entre dois pontos.
+Esta cor encontra-se associada aos algoritmos que envolvem simulação pois
+implicam dinamismo no percorrer deste percurso que pode ou não ser variável
+dependendo dos acontecimentos a ele associados.
+\item Magenta -- corresponde aos vértices selecionados pelo utente,
+tanto o vértice de origem como o de chegada.
+\item Amarelo -- corresponde à cor dos vértices não alcançáveis.
+A cada execução de um algoritmo para encontrar o melhor percurso possível
+é realizada uma pesquisa prévia que determina os vértices não alcançáveis.
+\end{itemize}
+\end{table}
+\end{document}
