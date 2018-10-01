@@ -1,0 +1,122 @@
+30980359;Rua Doutor Cândido Guerreiro;False
+30980368;Rua Reitor Teixeira Guedes;False
+30980369;Rua de Portugal;False
+30980370;Avenida 5 de Outubro;False
+30980380;;False
+30980394;Rua do Bocage;False
+30980395;;True
+30980400;Rua Brites de Almeida;True
+30980403;;True
+30980404;Travessa da Trindade;True
+30994462;Rua do Alportel;True
+30994463;Rua Lethes;False
+30994465;Rua Cruz das Mestras;True
+30994466;Rua João de Deus;True
+30994470;Rua Mouzinho de Albuquerque;False
+30994474;;True
+30994475;Rua Almeida Garrett;False
+30994482;Rua Doutor Coelho de Carvalho;False
+30994512;Rua Baptista Lopes;False
+30994514;Rua do Compromisso;False
+37000480;Praça Alexandre Herculano;False
+37004023;Praça Dom Francisco Gomes;False
+38130160;Rua Serpa Pinto;True
+78048828;;True
+78048833;Avenida da República;False
+79960825;Rua Rebelo da Silva;True
+79960827;;False
+79960829;Rua Brites de Almeida;True
+79960833;Rua do Pé da Cruz;True
+79960847;Praça Alexandre Herculano;True
+79960851;Rua Castilho;True
+90490637;Rua Doutor Justino Cumano;False
+92058160;Largo do Carmo;False
+93542624;Rua Doutor João Lúcio;True
+93542626;Largo de Sao Pedro;False
+93542629;Largo de São Pedro;False
+93542633;Rua do Sol;True
+93542636;Rua de Dom João de Castro;True
+93542652;Rua Horta Machado;False
+93542665;Rua da Mota;False
+93542673;;False
+93542674;;True
+93542682;;True
+93543862;;True
+93607065;Rua do Bocage;False
+93607068;;False
+93607073;Rua Pinheiro Chagas;False
+95278063;Rua de São Pedro;True
+95278066;Travessa Castilho;True
+95278068;Rua do Capitão Mor;False
+95278069;Rua do Prior;False
+114690685;;True
+122980990;Avenida 5 de Outubro;False
+122980992;Rua Horta Machado;False
+122989827;Rua do Alportel;False
+122989840;Largo de São Pedro;False
+122989841;Largo de São Pedro;False
+122989844;Rua José Estêvão;True
+122996116;;True
+122996121;Rua Brites de Almeida;False
+122996443;;False
+178483722;;True
+178483733;;False
+178489298;;False
+178489300;;False
+178489303;;False
+182763163;Rua Primeiro de Maio;False
+182763164;Rua Primeiro de Maio;False
+182763168;Rua do Capitão Mor;False
+182763169;Praça de Ferreira de Almeida;True
+182763174;Rua do Compromisso;True
+182765839;;True
+182767856;Rua Primeiro de Maio;False
+182768080;Travessa Lethes;False
+182771776;;False
+182771777;;False
+182771778;Rua do Sol;False
+182771780;Rua de Santo António;True
+182771784;;True
+182771785;;True
+182771786;;True
+182771787;;True
+182771795;Rua do Sol;True
+182771796;Rua do Sol;True
+182845650;Largo do Carmo;False
+182885261;Rua Doutor Manuel Arriaga;False
+182888749;Rua da Polícia de Segurança Pública;False
+182969935;;False
+182969938;;False
+182969939;Praça de Ferreira de Almeida;True
+182969941;Rua Lethes;False
+182969942;Rua Lethes;True
+182969943;;False
+182969944;Rua da Polícia de Segurança Pública;False
+182969945;;False
+182969946;Rua da Polícia de Segurança Pública;False
+182971463;Rua João Dias;True
+182971581;;True
+182971582;Rua Castilho;True
+182978134;;True
+182979247;;False
+182979248;;False
+182979249;;True
+182979904;Rua Nova;True
+182979905;Rua Nova;True
+182979906;;True
+182979907;;True
+182979908;Rua do Bocage;False
+182993293;Largo de São Pedro;False
+182993922;Rua Filipe Alistão;False
+182995464;;False
+182998233;;False
+182998234;;False
+182998237;;False
+183002706;Rua General Teófilo da Trindade;False
+183002708;Rua General Teófilo da Trindade;False
+183002711;;False
+183003347;Rua Doutor Cândido Guerreiro;False
+331986611;Rua Primeiro de Maio;False
+462593904;Travessa das Cocheiras;False
+519447011;Rua Baptista Lopes;False
+519447012;Rua Lethes;True

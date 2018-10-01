@@ -1,0 +1,28 @@
+MIN_LATITUDE=-33.91555;
+MAX_LATITUDE=-33.87535;
+
+MIN_LONGITUDE=151.12200;
+MAX_LONGITUDE=151.17400;
+
+NODES=4002;
+EDGES=4615;
+
+DENSITY=0.0001;
+
+BOUNDARIES=0;
+
+ONEWAY=0;
+BOTHWAYS=1;
+
+# Supported Optionals:
+#
+# Density (Set the density of vertices in the graph)
+# Width (Choose the width of the graph)
+# Height (Choose the height of the graph)
+# 
+# Boundaries (Show black (phantom) vertices in the boundaries of the map)
+# Oneway (Override the directional parameter in sydney_roads and make all roads onedirectional)
+# Bothways (Override the directional parameter in sydney_roads and make all roads bidirectional)
+# Straight_Edges (Make all edges straight instead of curved)
+# Background (Set the path to the background image)
+# 
