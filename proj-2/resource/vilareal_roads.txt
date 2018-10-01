@@ -1,0 +1,346 @@
+37601497;Rua das Botelhas;False
+37601543;Rua da Tenária;False
+37601544;;False
+75952387;Avenida Aureliano Barrigas;False
+75952388;;False
+75952390;Avenida Aureliano Barrigas;False
+75952391;Avenida Aureliano Barrigas;False
+75952392;Rua de Santa Iria;False
+75952393;Avenida Aureliano Barrigas;False
+75953478;Rua do Entroncamento;False
+75953479;Rua 9 de Abril;False
+75953480;;False
+75953481;Rua 30 de Agosto;False
+75953482;Rua 20 de Julho;False
+75953483;;False
+75953484;Rua de La Lys;False
+75954944;;False
+75954950;Avenida Primeiro de Maio;Rua Nova;False
+75954951;Avenida Primeiro de Maio;False
+75954956;Avenida Primeiro de Maio;False
+75954959;Avenida Primeiro de Maio;False
+75956935;Rua Dom António Valente da Fonseca;True
+75956937;Avenida Carvalho Araujo;False
+75956938;Avenida Carvalho Araujo;False
+75958092;;False
+76016876;Rua Miguel Torga;True
+76017123;;False
+76017124;Avenida Dom Dinis;False
+76207643;;False
+76207652;Rua Visconde de Carnaxide;True
+76207656;Rua do Alvão;True
+76211285;Avenida da Noruega;False
+76211288;Rua de Santa Sofia;False
+76211290;;False
+76211296;;False
+76211302;;False
+76211304;;False
+76211307;;False
+76211308;;False
+76211310;;False
+87977657;;False
+88111179;Praça da Nossa Senhora da Conceição;False
+88111180;;False
+88111184;Praça da Nossa Senhora da Conceição;False
+88111185;Avenida Dom Dinis;True
+88276162;;True
+88276512;;True
+88276514;;True
+88373334;Rua Monsenhor Jerónimo do Amaral;True
+88373337;Rua Madame Brouillard;True
+88416989;;False
+88509079;;False
+88509080;Rua Dona Margarida Chaves;False
+88509082;;False
+88510995;;False
+88720044;Rua Dom Pedro de Castro;False
+88722570;Rua Dom Pedro de Castro;False
+88722575;;False
+88722578;Rua Dom Pedro de Castro;False
+88722579;Rua Gonçalo Cristovão;True
+88722585;;False
+88722586;Rua Dom Pedro de Castro;False
+88722587;Rua Rodrigo Alves;False
+88722592;Rua do Bairro António Sérgio;False
+88722593;Rua de Santa Sofia;False
+88722598;Avenida Cidade de Ourense;True
+88722599;;True
+88723853;;False
+88723854;Avenida Cidade de Ourense;False
+88723855;;False
+88723856;;False
+88723863;Rua Doutor Domingos Campos;False
+88723864;Avenida Cidade de Ourense;False
+88723865;;False
+88723868;;False
+88723870;;False
+88723871;Avenida Rainha Santa Isabel;False
+88724747;;True
+88724749;;True
+88724754;;False
+88724756;;True
+88724762;;True
+88724764;Rua Doutor João Barros;True
+88724765;Largo do Pioledo;False
+88724771;;False
+88724772;;False
+88724774;Largo do Pioledo;False
+88724781;;False
+88724783;;False
+88724786;;False
+88724794;;False
+88727533;Rua Dom Afonso III;True
+88727534;;False
+88727535;Rua de Montezelos;False
+88727539;;True
+88727540;;False
+88727543;;False
+88727545;;False
+88727546;;False
+88727547;;False
+88727548;;True
+88727549;;True
+88727550;;False
+88727551;;False
+88727553;;False
+88727554;;False
+88727555;;False
+88727557;Rua do Carmo;False
+88727560;;False
+88727561;;False
+88825160;Rua da Guia;False
+88825162;Rua do Corgo;False
+88825164;Rua do Prado;False
+88825166;Rua da Guia;False
+88874559;;False
+88874568;;False
+88874575;;False
+88874616;;False
+88874619;;False
+88874623;;False
+88874625;;False
+88874626;;False
+88874631;;False
+88874645;;False
+88874648;;False
+88874651;;True
+88874652;;True
+88874661;;False
+88874662;;False
+88874665;;False
+88874668;;False
+95145516;;False
+95145517;;False
+95195189;Rua Doutor Augusto;False
+95195191;Avenida 5 de Outubro;False
+95458871;;False
+95458872;;False
+95458873;Avenida da Noruega;False
+95458874;;False
+95458875;;False
+95458876;;False
+95458877;;False
+98900652;Rua Miguel Bombarda;True
+103076780;;False
+103076787;;False
+103076792;;False
+103076800;;False
+109269470;Travessa da Cruz das Almas;False
+109269471;Rua Cruz das Almas;False
+133562585;Rua da Tecedeira de Agarez;False
+133562586;Rua Conde de Agarez;False
+133562587;Rua Engenheiro Antonio Almeida;False
+150571100;Rua da Padrela;False
+150571103;Rua Augusto Rua;True
+150571104;Travessa da Guia;True
+150571105;Rua Doutor Otílio Figueiredo;False
+158741184;;False
+158741457;Rua Doutor Augusto;False
+158741459;Rua Doutor Augusto;False
+158741468;Rua de Santa Iria;False
+158741710;Praça Luís de Camões;False
+158741719;;False
+158741754;;False
+158741761;;False
+158741807;;False
+158741925;;False
+158741987;;False
+158742013;;False
+158742046;;False
+158742049;;False
+158742058;;False
+158742068;;False
+158742075;;False
+158742149;;False
+158742154;;False
+158742186;;False
+158742265;;False
+158742279;;False
+159218986;Rua Padre Filipe Borges;True
+159218988;Rua Sargento Belizário Augusto;True
+159218990;;True
+159218996;;True
+159218998;;True
+159218999;;True
+159219005;;True
+159219007;Rua Dom João Correia de Lacerda;True
+159219012;;True
+159219014;Rua Dr Cristovão Madeira Pinto;True
+159219017;;True
+159219021;Rua Marechal Teixeira Rebelo;False
+159219024;;True
+159219027;;True
+159219029;;True
+159219031;Travessa do Carmo;True
+159219033;Rua Luís José Ribeiro;True
+159829727;;True
+179994684;;True
+179994707;;True
+179994720;;True
+179994741;;True
+179997845;Rua Alves Torgo;True
+179997846;Rua Do Rossio;False
+179997851;;False
+179999399;;False
+179999400;Rua Bombeiro Profírio Pereira;False
+179999404;Rua Adelino Samardã;True
+179999405;Rua Heitor Cramez;True
+179999406;;True
+179999408;Rua Stuart de Carvalhais;True
+179999409;;True
+179999411;;True
+179999414;;True
+179999416;Rua o Povo do Norte;True
+179999417;;True
+179999418;Rua Stuart de Carvalhais;True
+179999423;;True
+179999426;;True
+179999427;;True
+179999429;Rua Adelino Samardã;True
+179999430;Travessa de São José;True
+179999431;Rua de São José;True
+180001249;;True
+180001251;;True
+180192283;;True
+180192460;;True
+180192462;;True
+180192465;;True
+180192466;;True
+180192467;;True
+180243477;;True
+180680519;;True
+180680520;;True
+180680902;;False
+182209917;;False
+182211633;Rua Doutor José Cardoso Baptista;False
+182211635;Travessa da Tecedeira de Agarez;False
+182211636;;True
+182211637;Rua do Bairro da Fonte Nova;True
+182211638;Rua do Bairro da Fonte Nova;True
+182211639;Rua São Francisco de Assis;True
+182211641;Rua da Fonte Nova;False
+182211662;Rua Dona Catarina de Figueiredo;False
+182214764;;False
+182214765;;False
+182214766;;False
+182214768;;False
+182215867;Rua Nova das Botelhas;False
+182215868;Rua José Miguel Clero;False
+182215869;Rua dos 4 Caminhos;False
+182284916;Rua do Lugar da Insua;False
+182285687;;False
+182285694;;False
+182285695;Avenida 5 de Outubro;True
+182285698;;False
+182285705;Quelha da Trindade;False
+182465664;;False
+182465665;;False
+182465669;;False
+182465673;;False
+182465676;;False
+182465683;;False
+182465689;;False
+182775594;;False
+182794287;;False
+182794987;;True
+182794990;;True
+182795186;;False
+183332146;;True
+183332878;;True
+183332880;;False
+183332883;;False
+183332885;;False
+183334915;Rua Doutor Pedro Serra;False
+183602162;Rua Professor Luís Castelo Branco;False
+183602944;;True
+183748120;;True
+188393525;;False
+188393526;;False
+190855381;;False
+196001983;Avenida da Noruega;True
+196001984;;False
+196378629;;False
+220251401;;False
+220251402;;False
+220251403;Rua Dom Pedro de Castro;False
+220251404;;False
+220251405;;False
+221310239;;False
+226404870;;False
+226404871;;False
+226404872;Rua de Santa Sofia;False
+226404873;;False
+226404874;;False
+233145220;Rua da Tenária;False
+233148569;Travessa da Fonte Nova;False
+233150581;Quelha da Trindade;False
+233181856;Largo do Conde de Amarante;False
+233181858;Praça Monsenhor Jerónimo do Amaral;False
+233181859;Rua Camilo Castelo Branco;False
+233181860;Rua Irmã das Virtudes;False
+233181861;Rua do Jazigo;False
+233182612;Rua Nova;False
+233182613;Travessa Rua Nova;False
+233325513;Rua Dona Catarina de Figueiredo;False
+233461847;Avenida da Noruega;False
+233461848;Avenida da Noruega;False
+233462229;Avenida da Noruega;False
+233568201;;False
+233568206;;False
+233568210;;False
+233568218;;False
+233568220;;False
+233568222;;False
+233684829;Rua Doutor Júlio Teixeira;False
+233684830;Rua Doutor Pinto Soares;False
+233684831;Rua Professor Luís Castelo Branco;False
+233684832;Travessa da Concha;False
+233692656;;False
+233693026;Praceta do Tronco;False
+233739844;Rua Sargento Pelotas;False
+233739845;Rua de Santa Marta;False
+233740475;Rua da Guia;False
+233806618;Travessa da Trindade;False
+233806619;;False
+252733964;;False
+265529432;Rua Doutor Augusto;False
+265529433;Rua Doutor Augusto;False
+265529434;Rua Miguel Bombarda;False
+290250407;Avenida Primeiro de Maio;False
+290250408;;False
+304462111;;False
+306596788;;False
+306597091;;False
+324589552;Avenida Primeiro de Maio;False
+383678992;Avenida Primeiro de Maio;Rua Nova;False
+383678993;Avenida Primeiro de Maio;Rua Nova;False
+383678994;Avenida Primeiro de Maio;False
+395140700;;False
+437796159;Rua da Fontinha;False
+437796160;Avenida Primeiro de Maio;Rua Nova;False
+497504588;;False
+497504594;;False
+497504595;;False
+497507301;Rua Miguel Bombarda;True
+497507302;;True
+497507303;Rua Miguel Bombarda;True

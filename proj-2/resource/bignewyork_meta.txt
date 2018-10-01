@@ -1,0 +1,18 @@
+MIN_LATITUDE=40.74500;
+MAX_LATITUDE=40.80500;
+
+MIN_LONGITUDE=-74.01100;
+MAX_LONGITUDE=-73.92800;
+
+NODES=9917;
+EDGES=11261;
+
+BOUNDARIES=1;
+
+BACKGROUND=backup.jpg;
+
+---------------------------
+
+Info:
+delta latitude  is 0.05800
+delta longitude is 0.08200

@@ -1,0 +1,91 @@
+4263086;Calle de Toledo;False
+4328607;Calle de los Estudios;False
+4328612;Calle de San Pedro Mártir;True
+4328790;Calle de la Cruz;False
+4328796;;False
+4487676;Calle de San Felipe Neri;False
+4518851;Calle de Bordadores;False
+4518854;Plaza de Santa Cruz;False
+4519445;Calle del Correo;False
+4519451;Calle de la Bolsa;False
+4519453;Calle de Atocha;False
+4519454;;False
+4519456;Plaza Segovia Nueva;False
+4519457;Calle de la Cava Baja;False
+5930441;Calle del Marqués Viudo de Pontejos;False
+5930450;Calle de El Salvador;False
+7642957;Calle de la Paz;False
+7642977;Calle de Relatores;False
+7642979;Calle de Doctor Cortezo;False
+7732075;Calle del Duque de Rivas;False
+7732076;Plaza Segovia Nueva;False
+7732078;;False
+7972315;Calle de Toledo;False
+30650268;Plaza de Jacinto Benavente;False
+31261528;Calle Mayor;False
+31261632;Calle de Felipe III;False
+31262320;Plaza de Tirso de Molina;False
+31262321;Calle de la Concepción Jerónima;False
+31262334;Calle del Conde de Romanones;False
+31262349;Plaza de Tirso de Molina;False
+32044942;Calle de Toledo;False
+34095405;Calle de la Paz;False
+34095408;Calle de la Concepción Jerónima;False
+34095410;Callejón de la Concepción Jerónima;False
+34095411;Plaza de la Provincia;False
+34095412;;False
+34095418;Calle Grafal;False
+34095421;;False
+41600137;Calle Cava de San Miguel;False
+41602114;Calle de Atocha;False
+41602115;;False
+41602116;;False
+41602117;;False
+41602118;;False
+41602120;Calle de Atocha;False
+41699453;Calle de Toledo;True
+41699477;Calle de la Colegiata;False
+41699518;Calle de la Colegiata;False
+43410308;Calle Mayor;False
+43626132;;False
+44614882;Calle Tintoreros;False
+49016406;Calle de Esparteros;False
+49016408;Calle de Cuchilleros;False
+49016411;Plaza Puerta Cerrada;False
+49016415;Calle Imperial;False
+66833793;Calle Imperial;False
+66835169;Calle Mayor;False
+66835311;Plaza de Jacinto Benavente;False
+66835421;Calle Mayor;False
+70955486;Calle de la Concepción Jerónima;False
+70955584;Plaza de Tirso de Molina;False
+71634922;Calle Mayor;False
+77339395;Calle de Carretas;False
+79483254;Calle de Toledo;False
+79638499;;False
+82552700;;False
+82552701;;False
+82552702;;True
+82552703;;False
+82552705;;False
+102865404;;False
+130468269;Calle del Duque de Rivas;False
+136126733;;False
+155872376;Plaza de Jacinto Benavente;False
+155872378;;False
+166226099;Calle de Lavapiés;False
+168404660;Calle de Toledo;True
+168406442;Calle Tintoreros;True
+168406444;Calle de Toledo;False
+367760324;Calle de Felipe III;True
+380211169;Calle de la Lechuga;False
+398751337;Calle de Toledo;True
+406007906;Calle de Atocha;False
+423231391;Calle de Atocha;False
+429530691;Plaza de Jacinto Benavente;False
+553501872;Calle de la Concepción Jerónima;False
+554357604;Plaza de Tirso de Molina;False
+554505587;Calle de Carretas;False
+554505594;Calle de la Colegiata;False
+556954608;Calle de la Cruz;False
+556954611;Calle de Doctor Cortezo;False

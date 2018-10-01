@@ -1,0 +1,4402 @@
+286314;Rue Saint-Louis en l'Île;False
+286537;Quai de Bourbon;False
+286538;Rue Jean du Bellay;False
+286539;Quai de Béthune;False
+286540;Rue Saint-Louis en l'Île;False
+286541;Rue Saint-Louis en l'Île;False
+286543;Rue Jean du Bellay;False
+286546;Pont Louis-Philippe;False
+286547;Rue Boutarel;False
+286548;Rue Budé;False
+286549;Rue des Deux Ponts;False
+286550;Pont de la Tournelle;False
+286551;Pont Marie;False
+286552;Rue Poulletier;False
+286553;Rue de Bretonvilliers;False
+286554;Pont de Sully;False
+286555;Boulevard Henri IV;False
+2114251;Rue des Fossés Saint-Bernard;False
+2114252;Rue d'Arras;False
+3127158;Place de la République;False
+3127161;Place de la Bastille;False
+3127186;Rue du Faubourg Saint-Antoine;False
+3599144;Avenue des Champs-Élysées;False
+3630516;Rue Poliveau;False
+3838029;Rue de la Fayette;False
+3869983;Boulevard Richard Lenoir;False
+4018037;Rue Royale;False
+4018038;Place de la Madeleine;False
+4018041;Boulevard des Italiens;False
+4018042;Avenue de l'Opéra;False
+4018043;Rue des Pyramides;False
+4018048;Rue d'Amboise;False
+4018050;Rue Le Peletier;False
+4028980;Rue Desaix;False
+4028981;Avenue de la Motte-Picquet;False
+4028985;Rue de la Fédération;False
+4028987;;False
+4028989;Boulevard de Grenelle;False
+4029619;Avenue Joseph Bouvard;False
+4038483;Rue Jean Rey;False
+4039084;Cour Museum;False
+4039089;;False
+4039092;Place de l'Opéra;False
+4039097;Rue Étienne Marcel;False
+4039103;Avenue de Tourville;False
+4039111;Cour Museum;False
+4039114;Rue de Mirbel;False
+4039116;Avenue Matignon;False
+4039149;Cour Museum;False
+4039152;Pont Saint-Michel;False
+4039159;Avenue de la République;False
+4039160;Avenue Kléber;False
+4039167;;False
+4039178;Avenue Frédéric Le Play;False
+4039190;Place Saint-Michel;False
+4039212;Boulevard Morland;False
+4039226;Boulevard de la Tour Maubourg;False
+4039233;Boulevard Raspail;False
+4039249;Rue des Saints-Pères;False
+4039255;Quai de Conti;False
+4039261;Rue de Vaugirard;False
+4039282;Quai Branly;False
+4039284;Quai de l'Archevêché;False
+4039306;Rue Vaucanson;False
+4039311;Quai François Mitterrand;False
+4039319;Quai d'Austerlitz;False
+4039350;Quai de l'Hôtel de Ville;False
+4039351;Place de la Concorde;False
+4039354;Place Marcel Cerdan;False
+4039366;Place du Châtelet;False
+4039367;Rue du Bac;False
+4039380;Boulevard Raspail;False
+4039390;Square Pierre et Marie Curie;False
+4039403;Boulevard Poissonnière;True
+4039406;Rue de la Chaussée d'Antin;False
+4039422;Bretelle de contournement de la place Valhubert;False
+4039428;Rue de Mogador;False
+4039435;Rue Tronchet;False
+4039439;Place Maubert;False
+4039451;Rue Saint-Honoré;False
+4039461;Rue Saint-Sulpice;False
+4039469;Boulevard Saint-Denis;False
+4039477;Rue de Rennes;False
+4039482;Rue de Bercy;False
+4039483;Rue Halévy;False
+4039498;Place Saint-Augustin;False
+4039512;Boulevard Saint-Martin;False
+4039514;Rue de la Clef;False
+4039529;Boulevard de Vaugirard;False
+4039537;Rue Oberkampf;False
+4039539;Avenue du Maine;False
+4039546;Rue Buffon;False
+4039550;Rue de la Cité;False
+4039556;Avenue Rapp;False
+4039577;Place Valhubert;False
+4039588;Rue Censier;False
+4039590;Rue Beaurepaire;False
+4039598;Avenue Pierre Mendès France;False
+4039622;Avenue Silvestre de Sacy;False
+4039626;Quai de Gesvres;False
+4039655;Pont Notre-Dame;False
+4039661;Quai de l'Hôtel de Ville;False
+4039666;Quai des Grands Augustins;False
+4039675;Boulevard du Montparnasse;False
+4039682;Rue Malar;False
+4039685;Rue de Sèvres;False
+4039699;Quai des Célestins;False
+4039726;Avenue de Saxe;False
+4039738;Rue Saint-Denis;False
+4039757;Quai de Grenelle;False
+4039778;;False
+4039784;Rue Bonaparte;False
+4039786;Quai Malaquais;False
+4039787;Place des Martyrs Juifs du Vélodrome;False
+4039790;Boulevard Edgar Quinet;False
+4039813;Petit-Pont;False
+4039815;Rue du Vieux Colombier;False
+4039817;Quai d'Austerlitz;False
+4039834;;False
+4039840;Rue de la Gaîté;False
+4039861;Boulevard de Sébastopol;False
+4039870;Boulevard Haussmann;False
+4039874;Quai d'Orsay;False
+4039875;Quai de Montebello;False
+4039877;Boulevard de Strasbourg;False
+4039889;Quai Branly;False
+4039890;Avenue Émile Acollas;False
+4039896;Avenue Victor Hugo;False
+4039898;Rue aux Ours;False
+4039910;Quai de la Rapée;False
+4039915;Quai d'Orsay;False
+4039919;Boulevard du Montparnasse;False
+4039943;Rue de Lyon;False
+4039952;Quai Anatole France;False
+4039976;Rue Nicolas Houël;False
+4040032;Avenue du Maréchal Galliéni;False
+4040038;Quai Saint-Michel;False
+4040039;Boulevard de Strasbourg;False
+4040056;Rue Scribe;False
+4040057;;False
+4040060;Square Desaix;False
+4040099;Rue Saint-Martin;False
+4040660;Rue George Bernard Shaw;False
+4040661;Rue Daniel Stern;False
+4040662;Boulevard Garibaldi;False
+4040665;Boulevard Pasteur;False
+4040667;Place Raoul Dautry;False
+4041052;Place des Martyrs Juifs du Vélodrome;False
+4041056;Pont Alexandre III;False
+4041057;Pont de la Concorde;False
+4041064;Pont de l'Archevêché;False
+4041065;Pont Charles de Gaulle;False
+4081764;Rue Daubenton;False
+4081773;Rue Larrey;False
+4081775;Rue Dolomieu;False
+4081776;Place du Puits de l'Ermite;False
+4081777;Place du Puits de l'Ermite;False
+4081779;Rue Santeuil;False
+4082012;Rue de Presbourg;False
+4082014;Avenue des Portugais;False
+4082016;Rue Newton;False
+4082017;Rue Auguste Vacquerie;False
+4082021;Avenue des Champs-Élysées;False
+4082041;Avenue Bertie Albrecht;False
+4082043;Rue Arsène Houssaye;False
+4209444;Rue du Cloître Notre-Dame;False
+4212141;Rue du Four;False
+4212147;Rue des Ciseaux;False
+4212149;Rue des Canettes;False
+4212151;Rue Guisarde;False
+4212153;Rue Princesse;False
+4212156;Rue Mabillon;False
+4212159;Rue Clément;False
+4212162;Rue Lobineau;False
+4212164;Rue Honoré Chevalier;False
+4212165;Rue de Mézières;False
+4212166;Rue Cassette;False
+4212167;Rue Marie Pape-Carpantier;False
+4212168;Boulevard Raspail;False
+4212170;Rue Huysmans;False
+4212174;Rue Guynemer;False
+4212176;Rue Jean Bart;False
+4212177;Rue de Fleurus;False
+4212181;Rue Sainte-Beuve;False
+4214179;Place Saint-Sulpice;False
+4214181;Rue Férou;False
+4214182;Rue du Canivet;False
+4214183;Rue Servandoni;False
+4214184;Rue Garancière;True
+4214185;Rue de Tournon;True
+4214187;Rue des Quatre Vents;False
+4214188;Rue Rotrou;False
+4216668;Rue Bréa;False
+4216669;Rue Jules Chaplain;False
+4216670;Rue d'Assas;False
+4216671;Avenue de l'Observatoire;False
+4216672;Rue Michelet;False
+4216673;Avenue de l'Observatoire;False
+4216674;Rue Auguste Comte;False
+4216675;Rue Herschel;False
+4216676;Place Ernest Denis;False
+4216678;Avenue de l'Observatoire;False
+4216679;Avenue de l'Observatoire;False
+4216680;Rue d'Assas;False
+4216682;Rue Joseph Bara;False
+4216683;Rue Le Verrier;False
+4216684;Rue des Chartreux;False
+4216686;Avenue de l'Observatoire;False
+4216687;Rue Notre-Dame des Champs;False
+4216818;Place de la Sorbonne;False
+4216819;Rue Grégoire de Tours;False
+4216820;Carrefour de l'Odéon;False
+4216821;Rue Monsieur le Prince;False
+4216822;Rue Regnard;False
+4216823;Rue Crébillon;False
+4216824;Rue Casimir Delavigne;False
+4216828;Rue de l'Odéon;False
+4216830;Carrefour de l'Odéon;False
+4216831;Carrefour de l'Odéon;False
+4216833;Rue Dupuytren;False
+4216834;Boulevard Saint-Germain;False
+4216837;Rue Pierre Sarrazin;False
+4216839;Rue Racine;False
+4217058;Avenue Georges Bernanos;False
+4217062;Rue Pierre Nicole;False
+4217063;Rue du Val de Grâce;False
+4217065;Rue des Feuillantines;False
+4217066;Rue des Ursulines;False
+4217067;Rue du Sommerard;False
+4217070;Rue Victor Cousin;False
+4217072;Rue Toullier;False
+4217074;Rue Soufflot;False
+4217076;Rue Thénard;False
+4217077;Rue de Latran;False
+4217080;Rue des Carmes;False
+4217085;Rue du Cimetière Saint-Benoist;False
+4217086;Impasse Chartière;False
+4217088;Rue Valette;False
+4217089;Rue Laplace;False
+4217090;Rue Cujas;False
+4217092;Rue de l'École Polytechnique;False
+4217096;Place du Panthéon;False
+4217098;Rue Clotilde;False
+4217099;Rue des Irlandais;False
+4217101;Rue Clotaire;False
+4217102;Rue des Fossés Saint-Jacques;False
+4217104;Rue Pierre et Marie Curie;False
+4217107;Rue Louis Thuillier;False
+4217110;Rue Malebranche;False
+4217113;Impasse Royer-Collard;False
+4217115;Rue Paillet;False
+4217116;Rue Le Goff;False
+4217124;Rue Berthollet;False
+4217130;Rue Censier;False
+4217133;Rue Censier;False
+4217138;Rue de Candolle;False
+4217158;Rue des Bernardins;False
+4217159;Rue Clovis;False
+4217160;Rue du Cardinal Lemoine;False
+4217161;Rue Malus;False
+4217164;Rue de Navarre;False
+4217165;Rue des Arènes;False
+4217166;Rue des Boulangers;False
+4217169;Rue Saint-Médard;False
+4217170;Rue Descartes;False
+4217171;Rue du Cardinal Lemoine;False
+4217173;Rue du Cardinal Lemoine;False
+4217174;Rue Thouin;False
+4217178;Place Monge;False
+4217179;Rue de l'Epée de Bois;False
+4217181;Rue Érasme;False
+4217184;Rue de l'Arbalète;False
+4217185;Rue Lagarde;False
+4217186;Rue Lhomond;False
+4217187;Rue Vauquelin;False
+4217190;Rue Rataud;False
+4217192;Rue Lhomond;False
+4217193;Rue Amyot;False
+4217194;Rue Laromiguière;False
+4217196;Rue Tournefort;False
+4217197;Rue Daubenton;False
+4217198;Rue Pestalozzi;False
+4217201;Rue du Marché des Patriarches;False
+4221372;Place Jussieu;False
+4221374;Rue Guy de la Brosse;False
+4221376;Rue Boutebrie;False
+4221381;Rue Saint-Séverin;False
+4221385;Rue Xavier Privas;False
+4221394;Rue du Fouarre;False
+4221397;Rue de l'Hôtel Colbert;False
+4221399;Rue des Trois Portes;False
+4221400;Rue Frédéric Sauton;False
+4221401;Rue de la Bûcherie;False
+4221402;Rue des Grands Degrés;False
+4221403;Rue Maître Albert;False
+4221407;Rue Saint-Victor;False
+4221408;;False
+4221409;Rue de Pontoise;False
+4221410;Rue de Poissy;False
+4221411;Rue de Pontoise;False
+4221413;Rue de Poissy;False
+4221414;Rue du Cardinal Lemoine;False
+4221415;Rue des Chantiers;False
+4226855;Rue Jean Nicot;False
+4226857;Rue Henri Moissan;False
+4226858;Avenue Sully-Prud'homme;False
+4226859;Rue Surcouf;False
+4226860;Quai d'Orsay;False
+4226861;Rue du Colonel Combes;False
+4226863;Rue Fabert;False
+4226870;Rue de l'Université;False
+4226872;Rue de Courty;False
+4226873;Rue de Lille;False
+4226874;Rue Aristide Briand;False
+4226875;Rue Aristide Briand;False
+4226876;Place du Palais Bourbon;False
+4226878;Quai d'Orsay;False
+4226884;Rue de Poitiers;True
+4226887;Rue de Lille;False
+4227108;Pont du Carrousel;False
+4227113;Rue de Gribeauval;False
+4227114;Rue Montalembert;False
+4227115;Passage de la Petite Boucherie;False
+4227117;Rue Serpente;False
+4227118;Rue de l'Abbaye;False
+4227119;Rue des Poitevins;False
+4227120;Rue Serpente;False
+4227121;Rue des Beaux-Arts;False
+4227122;Place Saint-André des Arts;False
+4227124;Rue Jacob;False
+4227127;Rue Saint-André des Arts;False
+4227128;Rue du Pont de Lodi;False
+4227129;Rue Gît-le-Coeur;False
+4227130;Rue Séguier;False
+4227131;Rue Christine;False
+4227133;Rue Mazarine;False
+4227135;Rue de Savoie;False
+4227136;Rue de Furstemberg;False
+4227137;Rue Jacques Callot;False
+4227138;Rue Suger;False
+4227139;Rue de Buci;False
+4227140;Rue de Furstemberg;False
+4227141;Rue Saint-Guillaume;True
+4227143;Rue de l'Éperon;False
+4227145;Rue des Grands Augustins;False
+4227146;Rue de Seine;False
+4227148;Rue de Furstemberg;False
+4227150;Rue Cardinale;False
+4227151;Rue Dauphine;False
+4227152;Rue Mignon;False
+4227154;Rue André Mazet;False
+4234142;Place Vendôme;False
+4234143;Rue de Castiglione;False
+4234144;Place Vendôme;True
+4234145;Place Vendôme;False
+4234146;Place Vendôme;False
+4251021;Rue Saint-Honoré;False
+4251022;Place de la Concorde;False
+4251023;Rue Duphot;False
+4251024;Rue Duphot;False
+4251027;Rue de Mondovi;False
+4251031;Rue Volney;False
+4251033;Rue Daunou;False
+4251034;Rue Danielle Casanova;False
+4251035;Rue Louis Le Grand;False
+4251036;Rue d'Antin;False
+4251037;Rue du Marché Saint-Honoré;False
+4251038;Place du Marché Saint-Honoré;False
+4251043;Rue d'Alger;False
+4251044;Rue du 29 Juillet;False
+4251045;Rue Saint-Hyacinthe;False
+4251046;Rue de la Sourdière;False
+4251048;Rue d'Argenteuil;False
+4251051;Place André Malraux;False
+4251052;Place André Malraux;False
+4251053;Rue de Valois;False
+4251054;Rue de Richelieu;False
+4251055;Rue Thérèse;False
+4251056;Rue Villedo;False
+4251058;Rue Sainte-Anne;False
+4251059;Rue des Moulins;False
+4251060;Rue de Ventadour;False
+4251062;Rue de la Michodière;False
+4251063;Rue de Port Mahon;False
+4251064;Rue d'Antin;False
+4251065;Rue Saint-Augustin;False
+4251067;Rue Monsigny;False
+4251069;Rue de Choiseul;False
+4251071;Rue Sainte-Anne;False
+4251072;Rue de Louvois;False
+4251073;Rue Rameau;False
+4251074;Rue Chérubini;False
+4251075;Rue Lulli;False
+4251076;Rue Louis Le Grand;False
+4251077;Rue de Hanovre;False
+4251079;Rue de Choiseul;False
+4251081;Rue Grétry;False
+4251082;Rue de Marivaux;False
+4251086;Rue de la Bourse;False
+4251088;Rue Laffitte;False
+4251151;Boulevard Raspail;False
+4251154;Rue de Luynes;False
+4251157;Rue Chomel;False
+4251158;Rue de Babylone;False
+4251160;Boulevard Raspail;False
+4261422;Pont d'Arcole;False
+4261423;Pont d'Arcole;False
+4261426;Rue de Marengo;False
+4261427;Rue de l'Oratoire;False
+4261431;Place du Carrousel;False
+4261447;;False
+4261448;Rue de l'Arbre Sec;False
+4261451;Place du Louvre;False
+4261452;Rue de l'Arbre Sec;False
+4261465;Rue de la Coutellerie;False
+4261466;Rue de la Tacherie;False
+4262805;Rue de Grenelle;False
+4262832;Rue de Talleyrand;False
+4262833;Rue de Bourgogne;False
+4262834;Rue de Martignac;False
+4262835;Rue Casimir Périer;False
+4262836;Rue Las Cases;False
+4262839;Rue de Saint-Simon;False
+4262840;Passage de la Visitation;False
+4262843;Rue de la Chaise;False
+4262844;Rue de Varenne;False
+4262848;Rue Perronet;False
+4262851;Rue du Sabot;False
+4262852;Boulevard Saint-Germain;False
+4262853;Rue Guillaume Apollinaire;False
+4262857;Rue Coëtlogon;False
+4262858;Rue de Cicé;False
+4262859;Rue Notre-Dame des Champs;False
+4262863;Rue Mayet;False
+4262864;Rue Saint-Jean-Baptiste de la Salle;False
+4262865;Rue Saint-Romain;False
+4262868;Rue Dupin;False
+4262869;Rue de Vaugirard;False
+4262871;Rue Saint-Placide;False
+4262872;Rue Jean Ferrandi;False
+4262873;Rue Littré;False
+4262874;Rue Blaise Desgoffe;False
+4262875;Rue de l'Abbé Grégoire;False
+4262876;Rue de Bérite;False
+4262877;Rue Régis;False
+4262880;Rue Barbet de Jouy;False
+4262881;Rue de Chanaleilles;False
+4262882;Cité Vaneau;False
+4262889;Rue de la Planche;False
+4262891;Rue Oudinot;False
+4262892;Rue Vaneau;False
+4262893;Rue Pierre Leroux;False
+4262894;Rue d'Olivet;False
+4262895;Rue Rousselet;False
+4262896;Avenue Constant Coquelin;False
+4262898;Rue Monsieur;False
+4262899;Rue du Bac;False
+4262900;Rue Velpeau;False
+4262911;Rue du Roule;False
+4262918;Rue du Plat d'Étain;False
+4262920;Rue Berger;False
+4262922;Rue du Pont Neuf;False
+4262926;Rue Vauvilliers;False
+4262927;Rue des Prouvaires;False
+4262932;Rue des Halles;False
+4263051;Rue Cuvier;False
+4263207;Rue des Petits Champs;False
+4263211;Rue Radziwill;False
+4263213;Place de Valois;False
+4263214;Rue des Bons Enfants;False
+4263215;Rue du Colonel Driant;False
+4263216;Rue Jean-Jacques Rousseau;False
+4263217;Rue du Bouloi;False
+4263218;Rue Croix des Petits Champs;False
+4263219;Rue La Vrillière;False
+4263220;Rue Catinat;False
+4263221;Rue Coquillière;False
+4263222;Rue Hérold;False
+4263223;Rue Vivienne;True
+4263224;Rue Colbert;False
+4263225;Rue des Filles Saint-Thomas;False
+4263227;Rue du Mail;False
+4263229;Rue de la Banque;False
+4263230;Rue Notre-Dame des Victoires;False
+4263232;Rue d'Aboukir;False
+4263233;Rue d'Argout;False
+4263239;Rue Coquillière;False
+4263240;Rue Jean-Jacques Rousseau;False
+4271508;Port Henri IV;False
+4293918;Rue Foucault;False
+4293919;Rue de la Manutention;False
+4293922;Rue Boissière;False
+4293923;Rue du Bouquet de Longchamp;False
+4293924;Villa Boissière;False
+4293926;Villa de Longchamp;False
+4293927;Place d'Iéna;False
+4293932;Rue Brignole;False
+4293933;Rue de l'Amiral Hamelin;False
+4293934;;False
+4293936;Rue Galilée;False
+4293939;Rue de Belloy;False
+4293940;Rue Dumont d'Urville;False
+4293941;Rue La Pérouse;False
+4293943;Rue Auguste Vacquerie;False
+4293944;Place de l'Amiral de Grasse;False
+4293946;Rue de Bassano;False
+4293947;Rue Kepler;False
+4293948;Rue Galilée;False
+4293951;Avenue d'Iéna;False
+4293952;Rue Freycinet;False
+4293956;Avenue Pierre 1er de Serbie;False
+4293958;Rue de Chaillot;False
+4293959;Avenue du Président Wilson;False
+4293961;Avenue du Président Wilson;False
+4293962;;False
+4293963;Rue Gaston de Saint-Paul;False
+4293965;Rue Debrousse;False
+4293966;;False
+4293969;Rue Léonce Reynaud;False
+4293992;Avenue George V;False
+4293993;Rue Quentin Bauchart;False
+4293994;Rue Euler;False
+4293995;Rue Magellan;False
+4293996;Rue de Bassano;False
+4294000;Rue Lincoln;False
+4294004;Impasse du Docteur Jacques Bertillon;False
+4294005;Rue Clément Marot;False
+4294006;Rue du Boccador;False
+4294007;Rue Marbeuf;False
+4294009;Rue de Cerisoles;False
+4294010;Rue de la Trémoille;False
+4294011;Rue de la Renaissance;False
+4294012;Rue Chambiges;False
+4294013;Rue Christophe Colomb;False
+4294014;Rue de Marignan;False
+4294016;Rue Jean Goujon;False
+4294018;Place François 1er;False
+4294019;Rue Bayard;False
+4294020;Rue Jean Goujon;False
+4294021;Rue Bayard;False
+4294022;Rue François 1er;False
+4294023;Avenue du Général Eisenhower;False
+4294024;Place du Canada;False
+4294025;;False
+4294026;Avenue Winston Churchill;False
+4294035;Avenue des Champs-Élysées;False
+4294052;Avenue Montaigne;False
+4294053;Avenue Franklin Delano Roosevelt;False
+4294070;Voie Georges Pompidou;False
+4294071;Avenue de New York;False
+4294088;Avenue de New York;False
+4294089;Place de l'Alma;False
+4294090;;False
+4294092;Cours la Reine;False
+4294093;;False
+4294094;;False
+4294095;;False
+4294096;;False
+4294097;;False
+4294100;Cours la Reine;False
+4294102;Cours la Reine;False
+4294103;Quai des Tuileries;False
+4294104;Voie Georges Pompidou;False
+4294229;Voie Mazas;False
+4294233;Quai des Célestins;False
+4294237;;False
+4414190;Rue Cuvier;False
+4414195;Boulevard Saint-Germain;False
+4414201;Rue des Fossés Saint-Bernard;False
+4414205;Rue du Montparnasse;False
+4417864;Rue de la Sorbonne;False
+4433292;Rue Le Regrattier;False
+4434841;Rue Saint-Victor;False
+4444183;Avenue de Wagram;False
+4450686;Avenue Mac-Mahon;False
+4472313;Boulevard Haussmann;False
+4472317;Rue de la Pépinière;False
+4472319;Place du Palais Royal;False
+4476805;Place de l'Hôtel de Ville;False
+4499645;Rue Jean de Beauvais;False
+4499646;Rue des Bernardins;False
+4499647;Rue Saint-Victor;False
+4517266;Avenue du Maine;False
+4517268;Boulevard de Vaugirard;False
+4517270;;False
+4517280;Rue Saint-Antoine;False
+4527536;Rue de la Reynie;False
+4527537;;False
+4527562;Rue du Pont Louis-Philippe;False
+4527563;Rue de l'Hôtel de Ville;False
+4527564;Rue Geoffroy l'Asnier;False
+4527565;Place Saint-Gervais;False
+4527566;Rue Tiron;False
+4527567;Rue de Fourcy;False
+4527568;Rue Charlemagne;False
+4527569;Rue de l'Avé Maria;False
+4527570;Rue du Fauconnier;False
+4527571;Rue Saint-Antoine;False
+4527572;Rue Saint-Paul;False
+4527574;Rue Neuve Saint-Pierre;False
+4527575;Rue de l'Hôtel Saint-Paul;False
+4527576;Rue Charles V;False
+4527577;Rue des Lions Saint-Paul;False
+4527578;Rue Beautreillis;False
+4527581;Rue du Petit Musc;False
+4527583;Rue Castex;False
+4527587;Rue de Schomberg;False
+4527588;Rue de Brissac;False
+4527589;Rue Crillon;False
+4527590;Rue de Schomberg;True
+4527591;Rue de Sully;False
+4527592;;False
+4527593;Rue Bassompierre;False
+4527595;Rue de la Cerisaie;False
+4527596;Rue de Lesdiguières;False
+4527597;Rue Jacques Cœur;False
+4527633;Place Paul Painlevé;False
+4527637;Place Edmond Rostand;False
+4527645;Rue de Rivoli;False
+4527649;Avenue de Suffren;False
+4527650;Avenue Joseph Bouvard;False
+4527651;Place Jacques Rueff;False
+4570145;Place Émile Male;False
+4572199;Pont de la Concorde;False
+4574298;Rue du Grenier Saint-Lazare;False
+4574303;Rue du Temple;False
+4574306;Rue au Maire;False
+4574308;Rue de Jarente;False
+4574310;Rue Geoffroy l'Angevin;False
+4574311;Rue de Braque;False
+4574315;Rue du Foin;False
+4574319;Rue Barbette;False
+4574321;Rue du Roi de Sicile;False
+4574322;Rue Villehardouin;False
+4574323;Rue des Mauvais Garçons;False
+4574326;Rue du Pont aux Choux;False
+4574328;Rue du Roi Doré;False
+4574329;Rue de la Bastille;False
+4574330;Rue des Minimes;False
+4574332;Cour Bérard;False
+4574335;Rue Saint-Merri;False
+4574348;Rue de Sévigné;False
+4574350;Rue Sainte-Anastase;False
+4574353;Rue des Tournelles;False
+4574356;Rue des Blancs-Manteaux;False
+4574357;Rue de Birague;False
+4574364;Rue Malher;False
+4574365;Impasse Jean Beausire;False
+4574366;Rue des Archives;False
+4574368;Rue Michel le Comte;False
+4574369;Rue Pastourelle;False
+4574375;Rue du Perche;False
+4574379;Rue des Écouffes;False
+4574384;Rue des Haudriettes;False
+4574385;Rue Saint-Gilles;False
+4574389;Rue Rambuteau;False
+4574391;Rue des Coutures Saint-Gervais;False
+4574394;Rue de la Verrerie;False
+4574395;Rue de Saintonge;False
+4574397;Rue de Moussy;False
+4574398;Place de Thorigny;False
+4574400;Rue Aubriot;False
+4574402;Rue Cunin Gridaine;False
+4574404;Rue des Filles du Calvaire;False
+4574406;Rue de Montmorency;False
+4574408;Rue de Thorigny;False
+4574410;Rue Pavée;False
+4574413;Rue Charlot;False
+4574414;Rue Payenne;False
+4574416;Rue des Gravilliers;False
+4574420;Rue Ferdinand Duval;False
+4574421;Rue Chapon;False
+4574424;Rue de Béarn;False
+4574425;Rue de Poitou;False
+4574428;Rue Elzévir;False
+4574429;Rue des Francs Bourgeois;False
+4574430;Rue du Temple;False
+4574478;Rue d'Uzès;False
+4574481;Rue Poissonnière;False
+4574487;Rue Dussoubs;False
+4574493;Rue Saint-Philippe;False
+4574495;Rue des Petits Carreaux;False
+4574500;Rue Saint-Marc;False
+4574508;Rue de Rohan;False
+4574509;Rue Feydeau;False
+4574512;Rue des Jeûneurs;False
+4574513;Rue Saint-Fiacre;False
+4629243;Avenue de Breteuil;False
+4629246;Rue Eblé;False
+4630986;Avenue de la Bourdonnais;False
+4633488;Rue Cler;False
+4637447;Place Cambronne;False
+4651913;Rue Auber;False
+4651915;Rue de Caumartin;False
+4651918;Rue Boudreau;False
+4651921;Rue des Mathurins;False
+4651924;Rue Godot de Mauroy;False
+4651926;Rue de Sèze;False
+4758584;Place du Palais Royal;False
+4941938;Rue Washington;False
+4941940;Rue de Berri;False
+4941948;Rue de Ponthieu;False
+4941949;Rue Paul Baudry;False
+4941950;Rue Frédéric Bastiat;False
+4941951;Rue Lord Byron;False
+4941971;Avenue des Champs-Élysées;False
+4942424;Avenue Percier;False
+4942434;Rue de Penthièvre;False
+4942516;Rue de Courcelles;False
+4942527;Rue de Téhéran;False
+5096761;Place du Trocadéro et du 11 Novembre 1918;False
+5096848;Avenue Raymond Poincaré;False
+5096871;Rue Paul Valéry;False
+5096872;Rue Copernic;False
+5096873;Rue Yvon Villarceau;False
+5096875;Rue Boissière;False
+5096877;Rue Léo Delibes;False
+5096930;Avenue Foch;False
+5096931;Rue de Traktir;False
+5096935;Rue Georges Ville;False
+5096940;Rue Leroux;False
+5098488;Place de la Concorde;False
+5098489;Avenue des Champs-Élysées;False
+5098490;Rond-Point des Champs-Élysées - Marcel Dassault;False
+5098491;Rue Rabelais;False
+5098494;Rue Jean Mermoz;False
+5098544;Rue du Général Camou;False
+5098546;Avenue Franco-Russe;False
+5098548;Rue de l'Université;False
+5098552;Cité de l'Alma;False
+5098557;Rue Sédillot;False
+5098560;Rue Cognacq-Jay;False
+5098561;Rue Edmond Valentin;False
+5098562;Rue de l'Exposition;False
+5098563;Rue du Gros Caillou;False
+5098565;Rue Augereau;False
+5103393;;False
+5103394;Rue du Cirque;False
+5103395;Avenue Gabriel;False
+5103397;Avenue de Marigny;False
+5103399;;False
+5103401;Rue de l'Élysée;False
+5103403;Rue Boissy d'Anglas;False
+5103406;Rue de Penthièvre;False
+5103409;Rue Roquépine;False
+5103411;Rue d'Argenson;False
+5103420;Rue de la Ville l'Évêque;False
+5103425;Place des Saussaies;False
+5103427;Rue de Duras;False
+5103429;Rue Montalivet;False
+5103430;Rue des Saussaies;False
+5103432;Rue d'Anjou;False
+5103434;Rue de Surène;False
+5103437;Rue d'Aguesseau;False
+5103683;Rue Lecourbe;False
+5210119;Rue Dulac;False
+5210123;Rue Nicolas Charlet;False
+5210130;Rue Antoine Bourdelle;False
+5210135;Villa du Mont Tonnerre;False
+5210137;Rue Armand Moisant;False
+5210144;Rue Mizon;False
+5210145;Rue Brown Séquard;False
+5211068;;False
+5211123;Rue de Monttessuy;False
+5211135;Rue Marinoni;False
+5211136;Rue de Belgrade;False
+5211141;Rue de Grenelle;False
+5211181;Rue Savorgnan de Brazza;False
+5211188;Rue du Champ de Mars;False
+5211189;Rue Bosquet;False
+5211214;Square de Robiac;False
+5211229;Rue Valadon;False
+5211232;Rue Duvivier;False
+5211271;Cité du Général-Négrier;False
+5211281;Square de la Tour Maubourg;False
+5211282;Rue Amélie;False
+5211284;Rue de la Comète;False
+5211294;Rue Bougainville;False
+5211295;Rue Chevert;False
+5211296;Rue Louis Codet;False
+5211297;Rue Joseph Granier;False
+5213104;Avenue du Maine;False
+5213106;Rue du Maine;False
+5213107;Rue Poinsot;False
+5213108;Rue Jolivet;False
+5213138;Boulevard du Montparnasse;False
+5213140;Rue du Montparnasse;False
+5213143;Rue Delambre;False
+5213146;Square Delambre;False
+5213148;Rue Huyghens;False
+5213152;Rue Léopold Robert;False
+5213155;Rue de la Grande Chaumière;False
+5213156;Rue de Chevreuse;False
+5213157;Rue Paul Séjourné;False
+5213178;Rue Boissonade;False
+5213179;Rue Campagne Première;False
+5247000;Rue de Commaille;False
+6057823;Avenue Duquesne;False
+6058075;Avenue Roger Cahen;False
+6511301;Rue Madame;False
+7998662;Rue Henry de Jouvenel;False
+8058313;Avenue de New York;False
+8058317;Avenue Albert de Mun;False
+8058320;Avenue de New York;False
+8058378;Rue Duroc;False
+8058379;Rue José-Maria de Heredia;False
+8058380;Rue du Général Bertrand;False
+8058383;Avenue de Villars;False
+8058385;Rue Masseran;False
+8058585;Quai de la Rapée;False
+8058930;Rue de l'Échiquier;False
+8058931;Rue du Vertbois;False
+8058934;Rue de Metz;False
+8413406;Rue du Bois de Boulogne;False
+8413422;Rue Chalgrin;False
+8413426;Rue d'Argentine;False
+8506273;Rue d'Astorg;False
+8916961;Rue d'Estrées;False
+8917040;Place du Président Mithouard;False
+8917121;Rue Bixio;False
+10659423;Rue Dupetit-Thouars;False
+10659433;Rue Béranger;False
+10659444;Rue de Bretagne;False
+10659447;Rue Commines;False
+10659501;Rue Debelleyme;False
+10659511;Rue Saint-Claude;False
+10659535;Rue Yves Toudic;False
+10659546;Rue de Marseille;False
+10659584;Rue de la Grange aux Belles;False
+10659657;Rue Jean-Pierre Timbaud;False
+10659677;Rue de Crussol;False
+10659708;Rue de Malte;False
+10659742;Rue de Malte;False
+10659789;Rue Albert Thomas;False
+10659800;Rue Dieu;False
+10660036;Rue Jacques Louvel-Tessier;False
+10660294;Rue de la Fidélité;False
+10660312;Rue de Paradis;False
+10660379;Rue Rougemont;False
+10660391;Rue du Conservatoire;False
+10660427;Rue Saulnier;False
+10660573;Rue d'Hauteville;False
+10660589;Rue d'Enghien;False
+10660625;Rue Martel;False
+10660906;Rue Drouot;False
+10660911;Rue Chauchat;False
+10661846;Rue des Récollets;False
+10662567;Rue du Helder;False
+10664947;Rue Viala;False
+10664973;Rue du Commerce;False
+10664990;Rue du Laos;False
+10665066;Avenue de Ségur;False
+10665077;Rue Pérignon;False
+10665106;Rue Léon Vaudoyer;False
+10665122;Rue Albert de Lapparent;False
+10665127;Rue Bouchut;False
+10665137;Rue Bellart;False
+10665141;Rue César Franck;False
+10665149;Rue Valentin Haüy;False
+10665166;Rue Rosa Bonheur;False
+10665181;Rue Barthélemy;False
+10665201;Boulevard Pasteur;False
+10665289;Place Vauban;False
+10665366;Rue du Général de Castelnau;False
+10665375;Rue de Presles;False
+10665379;Rue Jean Carriès;False
+10665392;Rue Alasseur;False
+10665395;Rue Du Guesclin;False
+10665414;Rue du Docteur Finlay;False
+10665425;Rue Sextius Michel;False
+10665430;Rue Schutzenberger;False
+10665441;Rue Violet;False
+10665463;Rue Rouelle;False
+10665484;Rue Tiphaine;False
+10665492;Rue Letellier;False
+10665499;Rue de l'Avre;False
+10665518;Rue Carrier-Belleuse;False
+10665528;Rue Georges Citerne;False
+10665534;Rue Ginoux;False
+12198682;Place du Général Beuret;False
+12198981;Rue de l'Amiral Roussin;False
+12203835;Rue Borromée;False
+12204252;Rue Copreaux;False
+12204453;Rue Émile Duclaux;False
+12205103;Rue Ernest Renan;False
+12205444;Rue de Staël;False
+12205671;Rue Jean Daudin;False
+12206006;Rue Miollis;False
+12206274;Rue François Bonvin;False
+12206318;Rue Robert Fleury;False
+12206526;Rue de Viroflay;False
+12346284;Place Adolphe Chérioux;False
+12346348;Place Adolphe Chérioux;False
+12346376;Rue Jeanne Hachette;False
+12346467;Rue Carcel;False
+12346521;Rue de l'Abbé Groult;False
+12346638;Rue Péclet;False
+12346688;Rue Quinault;False
+12346713;Villa Poirier;False
+12346743;Villa Croix Nivert;False
+12346782;Rue Paul Chautard;True
+12347457;Rue Cépré;False
+12347520;Rue Clouet;False
+12347534;Rue Gramme;False
+12347546;Rue Lakanal;False
+12347633;Rue Jean Formigé;False
+12347639;Rue du Docteur Jacquemaire Clemenceau;False
+12347657;Rue Léon Lhermitte;False
+12347672;Rue Gustave Larroumet;False
+12347717;Rue Charles Lecocq;False
+12347788;Rue Cournot;False
+12710101;Rue de l'Armorique;True
+12710289;Rue d'Arsonval;False
+12710384;Rue Henri Duchène;False
+12713656;Place Étienne Pernet;False
+12713758;Rue Frédéric Magisson;False
+12713822;Rue Oscar Roty;False
+12713838;Rue Sarasate;False
+12713863;;False
+12716015;Rue François Coppée;False
+12716022;Rue Houdart de Lamotte;False
+12716071;Rue de Plélo;False
+12716159;Rue Henri Bocquillon;False
+12716165;Rue Serret;False
+12716172;Rue de la Rosière;False
+12716230;Place de Fontenoy - UNESCO;False
+12716239;Place de Fontenoy - UNESCO;False
+12800420;Rue Audubon;False
+13390353;Rue du Faubourg Saint-Martin;False
+13460781;Rue de l'Arrivée;False
+13460958;Rue de l'Arrivée;False
+13465577;Avenue du Président Wilson;False
+13465717;Avenue du Président Wilson;False
+13466910;Boulevard de Bonne Nouvelle;True
+13470545;Rue du Quatre Septembre;False
+13770540;;False
+13771287;Rue de Sèvres;False
+13772465;Rue de Médicis;False
+13861913;Avenue de Breteuil;False
+13861930;Avenue de Saxe;False
+13861935;Place du Président Mithouard;False
+13861972;Avenue de Saxe;False
+13861998;Avenue de Breteuil;False
+13862035;Avenue Duquesne;False
+13863524;Rue Clotilde;False
+14027027;;False
+14027029;;False
+14027030;;False
+14027041;;False
+14027047;;False
+14027052;;False
+14027055;;False
+14155058;Avenue Victoria;False
+14163843;;False
+14163844;Tunnel de l'Étoile;False
+14310596;;False
+14316898;Rue Miollis;False
+14333935;Rue Pétel;False
+14333988;Rue Péclet;False
+14334012;Rue Maublanc;False
+14334221;Rue Joseph Liouville;False
+14334268;Rue Théophraste Renaudot;False
+14334558;Rue Auguste Dorchain;False
+14334666;Rue Meilhac;False
+14348628;;False
+14348895;Place du Commerce;False
+14348903;Place du Commerce;False
+14348963;Place du Commerce;False
+14349178;Rue Bausset;False
+14349190;Rue Gerbert;False
+14349784;Rue Bargue;False
+14377376;Rue des Frères Morane;False
+14377473;Rue de la Croix Nivert;False
+14378586;Impasse de l'Église;False
+14378650;Passage des Écoliers;False
+14378654;Passage des Entrepreneurs;False
+14443006;Place de Brazzaville;False
+14443019;Rue Nélaton;True
+14443027;Rue Nocard;False
+14849706;Quai Branly;False
+14853900;Avenue de New York;False
+14853905;Avenue de New York;False
+14853906;Rue de Magdebourg;False
+14855204;Avenue de New York;False
+14877913;Pont d'Iéna;False
+14882352;Rue Saint-Florentin;False
+14882353;Place de la Concorde;False
+14882355;Place de la Concorde;False
+14882357;Place de la Concorde;False
+14882363;;False
+14882405;Avenue du Général Lemonnier;False
+14882406;Avenue du Général Lemonnier;False
+15092904;Rue Gaston-Gallimard;False
+15220512;Rue Frémicourt;False
+15273206;Place de Brazzaville;False
+15273294;Place de Brazzaville;False
+15274082;Rue Béatrix Dussane;False
+15274145;Rue Fallempin;False
+15274225;Villa Juge;False
+15275250;Rue de la Pierre Levée;False
+15275727;Rue de la Folie-Méricourt;False
+15409614;Rue Saint-Sébastien;False
+15458817;Avenue Claude Vellefaux;True
+15458955;Rue Arthur Groussier;False
+15459030;Rue Marie et Louise;False
+15459352;Rue Biscornet;False
+15459353;Rue Biscornet;False
+15459363;Rue Lacuée;False
+15800271;Impasse de la Gaité;True
+15803563;Rue du Caire;False
+15807777;Rue Saint-Saëns;False
+15807805;Rue du Capitaine Scott;False
+15807810;Rue Jean-Pierre Bloch;False
+15807834;Rue Champfleury;False
+15807850;Avenue du Général Détrie;False
+15807867;Avenue Charles Floquet;False
+15807880;Avenue Charles Floquet;False
+15807881;Avenue Charles Floquet;False
+15807919;Rue de Pondichéry;False
+15807921;Rue Auguste Bartholdi;False
+15807947;Rue Clodion;False
+15807953;Rue Humblot;False
+15807981;Rue Juge;False
+15808055;Rue Fondary;False
+15893381;Rue de Jouy;False
+15893871;Rue Charlemagne;False
+15894279;Rue Simon Le Franc;False
+15911049;Rue Edgar Faure;False
+15911221;Passage Du Guesclin;False
+15911372;Rue Dupleix;False
+15911887;Place du Cardinal Amette;False
+15912223;Square de la Motte Picquet;False
+15912237;Rue du Général de Larminat;False
+15915792;Rue du Général de Larminat;False
+15919305;Rue Tournus;False
+15919440;Villa Letellier;False
+15919924;Avenue Octave Gréard;False
+15920725;Avenue Gustave Eiffel;False
+15922697;Avenue Joseph Bouvard;False
+15922735;Avenue Joseph Bouvard;False
+15924225;Rue du Général Lambert;False
+15924639;Avenue du Docteur Brouardel;False
+15924839;Avenue du Général Tripier;False
+15925437;Rue de Buenos Aires;False
+15987863;Villa Jean-Baptiste Luquet;False
+16189206;Rue du Dragon;False
+16189489;Rue du Cherche-Midi;False
+16189550;Rue du Cherche-Midi;False
+16189573;Rue d'Alençon;False
+16344742;;False
+16404461;Rue de l'Hôpital Saint-Louis;False
+16404920;Passage des Récollets;False
+16405128;Rue de la Boule Rouge;False
+16405144;Rue Geoffroy Marie;False
+16405203;Rue de la Grange Batelière;False
+16405437;Rue Meyerbeer;False
+16405595;Rue Joubert;False
+16405889;Rue Roy;False
+16405957;Rue du Commandant Rivière;False
+16406722;Rue Stanislas;False
+16406778;Rue Péguy;False
+16809065;Rue du Soudan;False
+16809262;Avenue de Champaubert;False
+16809358;Rue du Général de Larminat;False
+16809466;Avenue Paul Déroulède;False
+16809868;Rue de l'Abbé Roger Derry;False
+16810145;Rue de la Cavalerie;False
+16811373;Place Cambronne;False
+16811420;Place Cambronne;False
+16812041;;False
+16812231;Impasse Grisel;False
+16812304;Rue Chasseloup-Laubat;False
+16812311;Rue Mario Nikis;False
+16813089;Place du Président Mithouard;False
+16813370;Place de Fontenoy - UNESCO;False
+16813387;Place de Fontenoy - UNESCO;False
+16813661;Rue Maurice de la Sizeranne;False
+16875221;Rue de Nancy;False
+16875232;Rue Hittorf;False
+16875287;Rue Pierre Chausson;False
+16875298;Rue Taylor;False
+16875314;Cité Riverin;False
+16875350;Rue Bouchardon;False
+16875415;Rue René Boulanger;False
+16875606;Rue Chénier;False
+16876006;Rue Blondel;False
+16876557;Rue de Tracy;False
+16876646;Rue du Temple;False
+16876929;Rue des Fontaines du Temple;False
+16876946;Rue Montgolfier;False
+16876963;Rue Conté;False
+16877072;Rue Portefoin;False
+16877087;Rue Bailly;False
+16877197;Rue Sainte-Élisabeth;False
+16877235;Rue Gabriel Vicaire;False
+16877242;Rue Paul Dubois;False
+16877338;Rue du Plâtre;False
+17043520;Rue des Fossés Saint-Marcel;False
+17043537;Rue Geoffroy Saint-Hilaire;False
+17043860;Rue de Mirbel;False
+17044021;Rue de la Clef;False
+17045774;Rue Rude;False
+17045818;Rue de Saïgon;False
+17066635;Pont d'Iéna;False
+17066661;Pont d'Iéna;False
+17066884;Pont de l'Alma;False
+17066888;Pont de l'Alma;False
+17066960;Pont des Invalides;False
+17066999;Pont Alexandre III;False
+17067006;Pont Alexandre III;False
+17067845;Rue du Faubourg Saint-Honoré;False
+17067973;Rue du Faubourg Saint-Honoré;False
+17110215;Villa de Saxe;False
+17178092;Rue du Vieux Colombier;False
+17242996;Avenue Franklin Delano Roosevelt;False
+17243490;Rue Lavoisier;False
+17243509;Rue Pasquier;False
+17243621;Rue de l'Arcade;False
+17243645;Rue de Castellane;False
+17243676;Rue Greffulhe;False
+17243687;Rue de l'Isly;False
+17243718;Rue Charras;False
+17249126;Rue de Brosse;False
+17249215;Rue de l'Hôtel de Ville;False
+17249298;Pont Marie;False
+17249305;Pont Marie;False
+17264368;Boulevard Beaumarchais;False
+17264452;Boulevard du Temple;False
+17503800;Rue Saint-Martin;False
+17503812;Rue Greneta;False
+17953591;Voie Georges Pompidou;False
+17953962;Rue Le Nôtre;False
+17953986;Rue Chardin;False
+18034699;Rue des Petites Écuries;False
+18034700;Rue Richer;False
+18229335;Rue La Feuillade;False
+18229612;Boulevard Montmartre;True
+18229684;Rue Montmartre;False
+18230018;Rue du Faubourg Montmartre;False
+18230276;Rue de Provence;False
+18232134;Place des Vosges;False
+18232257;Rue du Pas de la Mule;False
+18498298;;False
+18510399;Place de la Concorde;False
+18517723;Rue Rambuteau;False
+19388284;Rue Nicolas Charlet;False
+19388336;Rue Dalou;False
+19389303;Villa de l'Astrolabe;False
+19389514;Villa Gabriel;False
+19389545;Avenue du Maine;False
+19389626;Avenue du Maine;False
+19389694;Avenue du Maine;False
+19514620;Avenue de Breteuil;False
+19514685;Boulevard Garibaldi;False
+19514895;Impasse Ronsin;False
+19514918;Impasse de l'Enfant Jésus;False
+19515180;;False
+19515194;Square du Croisic;False
+19515945;Rue Jean-François Gerbillon;False
+19516506;Rue Saint-Placide;False
+19518124;;False
+19520592;Cité Paradis;False
+19520686;Rue de Mazagran;False
+19520819;Rue Beauregard;False
+19520912;Rue Notre-Dame de Recouvrance;False
+19520930;Rue de la Ville Neuve;False
+19520971;Rue Thorel;False
+19520997;Rue Notre-Dame de Bonne Nouvelle;False
+19712524;Avenue Émile Deschanel;False
+19712561;Rue Savorgnan de Brazza;False
+19712585;Rue Barbey d'Aurevilly;False
+19712599;Rue de Belgrade;False
+19712736;Rue Marinoni;False
+19712764;Avenue Barbey d'Aurevilly;False
+19712799;Rue Jean Carriès;False
+19712816;Rue Champfleury;False
+19712821;Avenue du Général Tripier;False
+19712825;Avenue du Docteur Brouardel;False
+19712833;Rue du Général Lambert;False
+19712853;Avenue Élisée Reclus;False
+19712883;Avenue Émile Pouvillon;False
+19712901;Rue du Maréchal Harispe;False
+19712914;Rue du Maréchal Harispe;False
+19713007;Rue de l'Université;False
+19713023;Rue de l'Université;False
+19713105;Avenue Rapp;False
+19713129;;False
+19713228;Square Rapp;False
+19713357;Passage de la Vierge;False
+19729130;Rue des Volontaires;False
+19729339;Quai Branly;False
+19729417;Quai d'Orsay;False
+19729418;Quai d'Orsay;False
+19729421;Quai d'Orsay;False
+19729496;Avenue Robert Schuman;False
+19729529;Accès Parking La Tour Maubourg;False
+19729584;Rue Malar;False
+19729634;Rue Pierre Villey;False
+19729642;Rue Cler;False
+19729662;Passage Jean Nicot;False
+19729763;Rue Ernest Psichari;False
+19741153;Rue de la Huchette;False
+19741176;Rue de la Harpe;False
+19741254;Rue de la Harpe;False
+19741345;Rue de la Parcheminerie;False
+19780769;Place Saint-André des Arts;False
+19780779;Place Saint-Michel;False
+19780809;Rue de l'Ancienne Comédie;False
+19780814;Rue de Seine;False
+19780815;Rue de Seine;False
+19856710;Rue Coq Héron;False
+19856712;Rue Montesquieu;False
+19856715;Rue Adolphe Jullien;False
+19856716;Rue de Viarmes;False
+19856719;Rue Adolphe Jullien;False
+19856720;Rue Clémence Royer;False
+19856725;Rue Coquillière;False
+19856732;Rue Quincampoix;False
+19856735;Aire Livraison Nord;False
+19856736;Souterrain de la Petite Boucle (Voie Z);False
+19856737;Rue de Beaujolais;False
+19856739;Rue de Montpensier;False
+19877535;Rue des Jardins Saint-Paul;False
+19877594;Rue des Jardins Saint-Paul;False
+19877754;Rue du Fauconnier;False
+19880538;Rue du Figuier;False
+19880556;Rue du Prévôt;False
+20104465;Rue Saint-Jacques;False
+20104602;Petit-Pont - Cardinal Lustiger;False
+20104606;Petit-Pont;False
+20104663;Rue Saint-Séverin;False
+20106376;Rue du Sommerard;False
+20107406;Boulevard Saint-Germain;False
+20107557;Boulevard Saint-Germain;False
+20107639;Rue Saint-Sulpice;False
+20107650;Place Saint-Sulpice;False
+20107742;Rue du Cherche-Midi;False
+20154744;Cour des Petites Écuries;False
+20169035;Passage de l'Industrie;False
+20205692;;False
+20275989;Rue Agrippa d'Aubigné;False
+20277845;Rue d'Ormesson;False
+20277864;Rue Necker;False
+20277901;Rue Caron;False
+20306954;Rue Mademoiselle;False
+20306967;Rue de l'Amiral Roussin;False
+20326518;Pont Neuf;False
+20326523;Pont Neuf;False
+20431005;Pont du Carrousel;False
+20431536;Pont du Carrousel;False
+20431621;Place du Carrousel;False
+20431756;Place du Carrousel;False
+20436427;Rue des Nonnains d'Hyères;False
+20436916;Impasse de l'Hôtel d'Argenson;False
+20437826;Rue Roger Verlomme;False
+20444537;Pont de l'Archevêché;False
+20445190;Pont de Sully;False
+20859602;Rue du Renard;False
+20859608;Rue Sainte-Croix de la Bretonnerie;False
+20859610;Rue du Bourg Tibourg;False
+20860098;Rue Pierre au Lard;False
+20997884;Rue des Quatre Fils;False
+20997886;Rue de la Perle;False
+20997888;Rue Pastourelle;False
+21112191;Rue de Beauce;False
+21112224;Rue Caffarelli;False
+21112288;Rue de Picardie;False
+21113519;Rue des Arquebusiers;False
+21120764;Rond-Point du Bleuet de France;False
+21121233;Rue de Grenelle;False
+21121244;Rue de Grenelle;False
+21122939;Rue Las Cases;False
+21124917;Pont Royal;False
+21124935;Pont Royal;False
+21124959;Pont Royal;False
+21126149;Quai Malaquais;False
+21169751;Place Jacques Bonsergent;False
+21346137;Bretelle de contournement de la place Valhubert;False
+21346517;Quai d'Austerlitz;False
+21387339;Avenue Daniel Lesueur;False
+21415838;Place de Breteuil;False
+21415839;Place de Breteuil;False
+21504508;Cité Martignac;False
+21505939;Cité Vaneau;False
+21506049;Cité de Varenne;False
+21506424;Rue de Narbonne;False
+21507771;Rue de Beaune;False
+21507816;Rue du Pré aux Clercs;False
+21507980;Rue de Varenne;False
+21508299;Impasse des Deux Anges;False
+21509474;Rue de Bourbon le Château;False
+21510078;Quai Branly;False
+21816598;Quai aux Fleurs;False
+21821064;Boulevard du Palais;False
+21881715;Impasse Maubert;False
+21885233;Rue des Anglais;False
+21885520;Rue des Bernardins;False
+21886119;Rue Dante;False
+21886208;Rue Lagrange;False
+21886547;Place Maubert;False
+21887394;Rue du Haut Pavé;False
+21888314;Place Valhubert;False
+22499369;Pont de Bir Hakeim;False
+22566166;Avenue de New York;False
+22566194;Cours la Reine;False
+22566220;;False
+22566240;Place de la Concorde;False
+22567494;;False
+22605479;Rue Lamennais;False
+22605515;Square Jean Thébaud;False
+22617759;Rue Bonaparte;False
+22617760;Rue Bonaparte;False
+22617761;Place Saint-Germain des Prés;False
+22617767;Boulevard Saint-Germain;False
+22617793;Rue Mabillon;False
+22618687;Rue Clément;False
+22651086;Place de l'Odéon;False
+22651088;Rue Corneille;False
+22652158;Carrefour de l'Odéon;False
+22652319;Rue Monsieur le Prince;False
+22674359;Rue Saint-Bon;False
+22674368;Rue de la Verrerie;False
+22674385;;False
+22696928;Rue Duphot;False
+22696929;Boulevard de la Madeleine;False
+22698075;Rue Cambon;False
+22700860;Rue Guénégaud;False
+22700929;Impasse de Nevers;False
+22700984;Rue de Nesle;False
+22705778;Rue Hautefeuille;False
+22706102;Rue Danton;False
+22706126;Place Saint-Michel;False
+22711144;Avenue de Suffren;False
+22715942;Boulevard Beaumarchais;False
+22715944;Place des Vosges;False
+22715945;Boulevard de Sébastopol;False
+22732000;;False
+22732230;Rue d'Assas;False
+22732244;Avenue de l'Observatoire;False
+22733083;Rue du Vertbois;False
+22733096;Rue de Turbigo;False
+22733177;Rue Charles-François Dupuis;False
+22733178;Rue Eugène Spuller;False
+22733196;Rue Perrée;False
+22733197;Rue de Franche-Comté;False
+22733228;Boulevard Saint-Denis;True
+22752185;Rue du Caire;False
+22759907;Place du 18 Juin 1940;False
+22759913;Rue du Départ;False
+22759918;Place du 18 Juin 1940;False
+22759922;Rue d'Odessa;False
+22767965;Rue Auguste Comte;False
+22767967;Rue Auguste Comte;False
+22768022;Rue de l'Abbé de l'Épée;False
+22768377;Rue Gay-Lussac;False
+22772273;Rue du Général Beuret;False
+22772276;Rue Cambronne;False
+22773096;Place du Président Mithouard;False
+22774495;Boulevard Raspail;False
+22774521;Boulevard Raspail;False
+22774546;Rue de Sèvres;False
+22779241;Quai Saint-Bernard;False
+22779290;;False
+22779294;Boulevard de l'Hôpital;False
+22816222;;False
+22820207;Rue des Fossés Saint-Bernard;False
+22820300;Rue Jussieu;False
+22870389;Rue de l'Estrapade;False
+22874652;Rue Bouchut;False
+22874654;Rue Valentin Haüy;False
+22874673;Place Georges Mulot;False
+22874700;Villa de Ségur;False
+22874798;Rue Saint-Thomas d'Aquin;False
+22874823;Rue Paul-Louis Courier;False
+22874870;Rue du Bac;False
+22880026;Rue Mouffetard;False
+22880174;Rue Gracieuse;False
+22880187;Place Monge;False
+22883357;;False
+22894203;Rue Jean Calvin;False
+22894206;Rue Pierre Brossolette;False
+22894211;Rue du Pot de Fer;False
+22894230;Rue du Pot de Fer;False
+22897196;Rue des Patriarches;False
+22925181;Boulevard des Invalides;False
+22925198;Boulevard des Invalides;False
+22925199;Boulevard des Invalides;False
+22925221;Boulevard des Invalides;False
+22925393;Impasse Oudinot;False
+22926180;Rue Palatine;False
+22926188;Place Saint-Sulpice;False
+22926215;Accès Parking Saint-Sulpice;False
+22926328;Rue Favart;False
+22937731;Rue des Écoles;False
+22940894;Rue des Archives;False
+22940912;Rue de Bretagne;False
+22940983;Rue au Maire;False
+22945486;Boulevard Saint-Germain;False
+22945487;Boulevard Saint-Germain;False
+22945555;Cité du Cardinal Lemoine;False
+22946745;Rue Georges Desplas;False
+22946771;Rue du Gril;False
+22946786;Rue Daubenton;False
+22956317;Rue de l'Arsenal;False
+22956648;Pont Morland;True
+22956670;Pont Morland;True
+22956671;Pont Morland;True
+22956748;;False
+22956845;Rue Jules César;False
+22956888;Square Georges Lesage;False
+22957035;Quai de la Rapée;False
+22957047;Quai de la Rapée;False
+22957049;Pont d'Austerlitz;False
+22957050;Pont d'Austerlitz;False
+22957060;;False
+22964641;Pont de Sully;False
+22964675;;False
+22972089;Pont Louis-Philippe;False
+22972090;Pont Louis-Philippe;False
+22972336;;False
+22972850;Pont de la Tournelle;False
+22972851;Pont de la Tournelle;False
+22973291;Rue François Miron;False
+22973383;Rue de Lobau;False
+22973414;Accès Parking Lobau Rivoli;False
+22973459;Pont d'Arcole;False
+22979799;Accès Parking Maubert - Saint-Germain;False
+22982498;Place Valhubert;False
+22982500;Place Valhubert;False
+22982503;Place Valhubert;False
+22996449;Boulevard Saint-Michel;False
+23017877;Rue de Buci;False
+23071640;Rue du Marché des Blancs-Manteaux;False
+23071686;Rue des Rosiers;False
+23071694;Rue des Rosiers;False
+23084172;Rue Georges Dumézil;False
+23085923;Pont de Bir Hakeim;False
+23097650;Allée Principale;False
+23141069;Rue Mathurin Régnier;False
+23141139;Rue Vavin;False
+23141175;Avenue Vavin;False
+23141197;Boulevard Raspail;False
+23141357;Rue des Volontaires;False
+23141371;Rue de Vaugirard;False
+23157614;Place de la Bourse;False
+23157672;Rue Saint-Joseph;False
+23157690;Rue du Croissant;True
+23160494;Rue Salomon de Caus;False
+23170621;Rue Madame;False
+23170629;Rue de Condé;False
+23175119;Rue de Lancry;False
+23175158;;False
+23175174;Avenue Richerand;True
+23175223;;False
+23175225;Rue Alibert;True
+23175348;Rue Bichat;False
+23175809;Rue Alibert;False
+23235514;Rue Yves Toudic;False
+23235937;Boulevard Richard Lenoir;False
+23235939;Boulevard Richard Lenoir;False
+23235941;Quai de Valmy;False
+23236288;Rue du Grand Prieuré;False
+23237142;;False
+23290891;Rue Garancière;False
+23324199;Rue de la Fontaine au Roi;False
+23345960;Rue Bichat;False
+23346094;Rue Bichat;True
+23346262;Rue d'Aix;False
+23472646;Port Saint-Bernard;False
+23472660;;False
+23602889;Port Saint-Bernard;False
+23645557;;False
+23645561;;False
+23658780;Place Valhubert;False
+23658817;;False
+23659108;;False
+23659120;Port Saint-Bernard;False
+23680854;;False
+23696340;Rue de Malte;False
+23696348;Rue de Malte;False
+23699723;Rue Ambroise Thomas;False
+23699862;Rue Ambroise Thomas;False
+23699874;Cité de Trévise;False
+23699879;Cité de Trévise;False
+23699898;Cité Paradis;False
+23700336;Avenue de Lowendal;False
+23700342;Avenue de Lowendal;False
+23700358;Avenue de Lowendal;False
+23706674;Rue Rampon;False
+23738286;Place du Petit Pont;False
+23777948;Rue du Temple;False
+23778030;Rue du Faubourg du Temple;False
+23804183;Rue Cimarosa;False
+23804194;Avenue Saint-Honoré d'Eylau;False
+23804197;Avenue Saint-Honoré d'Eylau;False
+23804228;Passage Commun U/16;False
+23819937;Rue Jean Giraudoux;False
+23819963;Rue Galilée;False
+23820042;Rue de l'Amiral d'Estaing;False
+23820796;Avenue du Président Wilson;False
+23820804;Villa Malakoff;False
+23896362;Avenue Duquesne;False
+23897404;Rue Tronson du Coudray;False
+23950624;Rue Geoffroy l'Asnier;True
+23971000;Rue des Volontaires;False
+23981381;;False
+23981457;Villa Poirier;False
+23981735;;False
+23981759;Avenue du Maine;False
+23981878;Passage du Maure;False
+23981905;Rue Saint-Martin;False
+24009008;Boulevard de la Tour Maubourg;False
+24009040;Place Vauban;False
+24009046;Place Vauban;False
+24009057;Avenue Duquesne;False
+24009063;Avenue de Lowendal;False
+24009077;Avenue de Lowendal;False
+24016072;Boulevard Malesherbes;False
+24027249;Place du 18 Juin 1940;False
+24027251;Place du 18 Juin 1940;False
+24027319;Avenue Hoche;False
+24028691;Rue de Chaillot;False
+24028711;Rue Freycinet;False
+24028748;Place de Tokyo;False
+24029408;Rue Le Tasse;False
+24029457;;False
+24031586;Rue de Longchamp;False
+24031698;Rue Saint-Didier;False
+24036981;Rue de Turenne;False
+24037053;Rue de Lancry;False
+24037088;Rue du Château d'Eau;False
+24037143;Rue Jarry;False
+24042932;Rue Traversière;False
+24156344;Rue Basse des Carmes;False
+24223251;;False
+24223252;;False
+24223338;;False
+24223370;Rue Robert Esnault-Pelterie;False
+24226688;Avenue de Tourville;False
+24226774;Avenue Duquesne;False
+24301446;Avenue du Boulevard;False
+24301452;Avenue de l'Ouest;False
+24409199;Place Léon-Paul Fargue;False
+24409212;;False
+24409214;;False
+24476106;Rue de l'Échaudé;False
+24518917;Avenue de Saxe;False
+24589791;Place du Général Gouraud;False
+24589950;Villa Bosquet;False
+24609728;Avenue des Nations-Unies;False
+24609750;Avenue de Camoëns;False
+24642633;Rue Pétel;False
+24654634;Avenue Delcassé;False
+24654922;Rue La Boétie;False
+24654957;Rue Pierre Charron;False
+24655041;Rue François 1er;False
+24658836;Rue Saint-Georges;False
+24658850;Rue Taitbout;False
+24658939;Rue Taitbout;False
+24659034;Rue de Provence;False
+24659040;Rue de Provence;False
+24659393;Rue La Fayette;False
+24666327;Impasse Bonne Nouvelle;False
+24676059;Quai de Bercy;False
+24676100;Quai de la Rapée;False
+24676369;;False
+24687190;Rue de Rennes;False
+24689004;Rue Bonaparte;False
+24689190;Rue de Turbigo;False
+24689274;Rue Saint-Martin;False
+24697899;Rue Brongniart;False
+24697917;Rue des Jeûneurs;False
+24760286;;False
+24760287;;False
+24760307;;False
+24760310;;False
+24760333;;False
+24760368;;False
+24792892;Rue Anatole de la Forge;False
+24792898;Rue Beaujon;False
+24803470;Voie Georges Pompidou;False
+24803490;Voie Georges Pompidou;False
+24846461;Rue Claude Bernard;False
+24856799;;False
+24856806;;False
+24859911;Square Beaujon;False
+24863625;Avenue de New York;False
+24864209;Voie Georges Pompidou;False
+24864216;Voie Georges Pompidou;False
+24864325;Pont de l'Alma;False
+24864438;Place de la Résistance;False
+24864472;Pont de l'Alma;False
+24864481;;False
+24911190;Avenue de Friedland;False
+24911205;Boulevard Haussmann;False
+24911210;Boulevard Haussmann;False
+24911219;Boulevard Haussmann;False
+24911231;Rue du Faubourg Saint-Honoré;False
+24911252;Rue du Faubourg Saint-Honoré;False
+24911264;Rue Berryer;False
+24915142;Rue de La Pérouse;False
+24915169;;False
+24915226;Rue Jean Giraudoux;False
+24915245;Rue Auguste Vacquerie;False
+24915255;Rue Jean Giraudoux;False
+24915257;Rue Jean Giraudoux;False
+24915279;;False
+24915287;;False
+24915326;Rue Georges Bizet;False
+24915353;;False
+24915447;;False
+24915473;;False
+24915537;Place d'Iéna;False
+24915587;Rue de Lübeck;False
+24915589;Rue de Lübeck;False
+24915601;;False
+24915634;Rue de Magdebourg;False
+24915641;Avenue Kléber;False
+24915671;Avenue Kléber;False
+24915688;Accès Parking Kléber;False
+24915705;Accès Parking Kléber;False
+24915749;Avenue Kléber;False
+24915806;Rue Jean Giraudoux;False
+24915921;Avenue Kléber;False
+24915922;Avenue Kléber;False
+24915952;Avenue Kléber;False
+24922151;Rue Beethoven;False
+24922152;Rue Beethoven;False
+24922153;Rue Le Nôtre;False
+24930605;;False
+24930618;Rue François 1er;False
+24930652;;False
+24930815;;False
+24930822;Accès Parking Alma Georges V;False
+24930921;;False
+24930926;;False
+24930958;Avenue George V;False
+24930996;Place de l'Alma;False
+24931106;Rue Freycinet;False
+24931111;Rue Goethe;False
+24931117;Rue de Galliera;False
+24931124;Rue Goethe;False
+24931126;;False
+24931131;;False
+24931142;;False
+24931187;;False
+24931206;Avenue Marceau;False
+24931213;Rue de Bassano;False
+24932399;;False
+24932529;;False
+24932531;;False
+24932752;Rue Newton;False
+24944206;;False
+24944212;;False
+24944221;Avenue de Friedland;False
+24944224;Place Georges Guillaumin;False
+24944226;;False
+25095051;Rond-Point des Champs-Élysées - Marcel Dassault;False
+25095073;Rond-Point des Champs-Élysées - Marcel Dassault;False
+25095077;;False
+25095194;;False
+25108638;Villa d'Eylau;False
+25129182;Rue Bergère;False
+25129205;Cité Bergère;False
+25323086;Avenue d'Iéna;False
+25325260;Rue de la Paix;False
+25325262;Place Vendôme;True
+25325323;Rue du Marché Saint-Honoré;False
+25344944;Pont Saint-Michel;False
+25345670;Rue Baillet;False
+25463517;Rue Hautefeuille;False
+25463815;Boulevard Pasteur;False
+25463841;Boulevard Garibaldi;False
+25463857;Boulevard de Grenelle;False
+25463859;Boulevard de Grenelle;False
+25463860;Boulevard de Grenelle;False
+25463882;Boulevard de Grenelle;False
+25463883;Boulevard de Grenelle;False
+25466981;Quai de la Rapée;False
+25466982;Quai de la Rapée;False
+25466983;Quai de la Rapée;False
+25467656;Quai Branly;False
+25469030;Rue de Provence;False
+25469031;Rue de Provence;False
+25469115;Rue des Petites Écuries;False
+25469116;Rue du Château d'Eau;False
+25469131;Rue du Château d'Eau;False
+25469132;Rue du Château d'Eau;False
+25470077;Boulevard de l'Hôpital;False
+25472706;;False
+25485929;Rue de Rivoli;False
+25486329;Rue Saint-Honoré;False
+25489259;Rue de l'Exposition;False
+25599714;Rue de Lourmel;False
+25688525;Rue Joubert;False
+25720966;Rue Chabanais;False
+25739569;Rue Fabert;False
+25761330;Rue de la Fédération;False
+25765606;Rue Sainte-Foy;False
+25792225;Rue Paul et Jean Lerolle;True
+25792226;Rue Paul et Jean Lerolle;True
+25792228;Rue Paul et Jean Lerolle;False
+25826995;Rue Gluck;False
+25831144;Avenue de New York;False
+25831146;Avenue de New York;False
+25831171;Avenue de New York;False
+25831236;Avenue de New York;False
+25831316;Place de Varsovie;False
+25831330;Place de Varsovie;False
+25831359;Avenue Albert 1er de Monaco;False
+25831373;Place de Varsovie;False
+25831559;;False
+25832928;Place de Varsovie;False
+25832944;Pont d'Iéna;False
+25832957;Pont d'Iéna;False
+25832977;Pont d'Iéna;False
+25869891;Rue des Prêtres Saint-Germain l'Auxerrois;False
+25869892;Rue Perrault;False
+25897103;Rue de Provence;False
+26209507;Rue Mademoiselle;False
+26429089;Rue du Faubourg Saint-Denis;False
+26443111;Rue des Vertus;False
+26443114;Rue Volta;False
+26588610;Avenue Foch;False
+26588927;Square de l'Avenue du Bois;False
+26588964;Rue Rude;False
+26589107;Rue Le Sueur;False
+26704847;Rue du Dôme;False
+26951445;Villa Copernic;False
+26953846;;False
+26954015;Rue Saint-Fiacre;False
+27245083;Avenue de la Grande Armée;False
+27245090;Avenue de la Grande Armée;False
+27245299;Rue d'Argentine;False
+27245428;;False
+27245432;Rue Rude;False
+27245904;Rue du Colisée;False
+27465317;Rue de Chateaubriand;False
+27465334;Cité Odiot;False
+27473440;Rue Saint-Charles;False
+27591260;Rue Blomet;False
+27651019;Rue Fresnel;False
+27701600;Port de Grenelle;False
+27712231;Impasse Chausson;False
+27728563;;False
+27728570;;False
+27728576;Boulevard de Vaugirard;False
+27773625;Pont au Change;False
+27873421;Rue d'Antin;False
+27878420;Avenue Hussein 1er de Jordanie;False
+27878511;;False
+28092589;Place Diaghilev;False
+28208667;Quai Saint-Bernard;False
+28225372;Rue d'Anjou;False
+28225513;Rue Roy;False
+28225656;Place Saint-Augustin;False
+28228767;Rue de Monceau;False
+28259127;Rue Emeriau;False
+28259143;Rue Emeriau;False
+28259161;Rue Rouelle;False
+28259172;Rue Emeriau;False
+28259213;Rue Héricart;False
+28297135;;False
+28297153;Rue du Théâtre;False
+28297225;Place Violet;False
+28297258;Place du Commerce;False
+28297309;Avenue Delecourt;False
+28297459;Villa Violet;False
+28324181;Impasse H/15;False
+28326179;;False
+28378714;Avenue Paul Doumer;False
+28378715;Avenue Paul Doumer;False
+28378852;;False
+28392567;Rue du Mont Thabor;False
+28468893;Rue des Entrepreneurs;False
+28503685;Rue de Vaugirard;False
+28503879;Rue de Vaugirard;False
+28604003;Rue d'Artois;False
+28604006;Rue d'Artois;False
+28604061;Rue de Courcelles;False
+28604180;Avenue Myron Herrick;False
+28604201;Rue Saint-Philippe du Roule;False
+28604238;Impasse Fortin;False
+28604427;;False
+28604502;Rue Lavoisier;False
+28604566;Rue Chauveau-Lagarde;False
+28604588;;False
+28604591;Boulevard Malesherbes;False
+28604597;Boulevard Malesherbes;False
+28604610;Passage de la Madeleine;False
+28604662;;False
+28604671;;False
+28604678;Accès Parking Madeleine Tronchet;False
+28604843;Rue Vignon;False
+28654112;Passage Commun F8;False
+28654135;Passage Saint-Philippe du Roule;False
+28654316;;False
+28654679;Avenue Matignon;False
+28675735;Cité Thuré;False
+28681273;Rue du Perche;False
+28681308;Rue Vieille du Temple;False
+28681325;Rue Debelleyme;False
+29047577;Rue Pillet Will;False
+29078161;Accès Parking Montparnasse Raspail;False
+29078163;Sortie Parking Montparnasse Raspail;False
+29451375;Rue de l'École de Médecine;False
+29699758;Square Alban Satragne;False
+29710971;Impasse Martini;False
+29711174;Porte Saint-Denis;False
+29711991;Porte Saint-Denis;False
+29712377;Rue du Sentier;False
+29712414;Rue de Cléry;False
+29712415;Rue de Mulhouse;False
+29741868;Rue Pelée;True
+29873359;Rue des Colonnes;False
+29873696;;False
+29920288;Rue d'Alexandrie;False
+29972791;Rue de Damiette;False
+29972793;Rue du Nil;False
+29974709;Rue des Forges;False
+29991514;Boulevard de Bonne Nouvelle;False
+29991555;Rue de la Lune;False
+29991628;Rue Blondel;False
+30107518;;False
+30172924;Boulevard Henri IV;False
+30172925;Place de la Bastille;False
+30611033;Rue du Forez;False
+30612254;Cité Dupetit-Thouars;False
+30612255;Cité Dupetit-Thouars;False
+30612730;Rue Volta;False
+30612789;Impasse Berthaud;False
+30612805;Impasse de la Planchette;False
+30613135;Avenue de Saxe;False
+30613136;Rue d'Estrées;False
+30613137;;False
+30621996;Pont Royal;False
+30992330;Avenue de Breteuil;False
+31143773;Rue Marsollier;False
+31143774;Rue Méhul;False
+31150238;;False
+31286985;Rue Pierre Bullet;False
+31286987;Cité de Magenta;False
+31286989;Cité de Magenta;False
+31286990;Rue des Vinaigriers;False
+31542882;Place Marcel Cerdan;False
+31544800;Avenue Foch;False
+31544813;Avenue Kléber;False
+31544817;Avenue d'Iéna;False
+31544845;Avenue Marceau;False
+31750804;Boulevard Diderot;False
+31768188;Rue du Faubourg du Temple;False
+31779316;Boulevard de Magenta;False
+31822542;Quai Voltaire;False
+31822568;Quai Voltaire;False
+31830354;Pont Charles de Gaulle;False
+31830630;;False
+31830631;Pont d'Austerlitz;True
+31831455;;False
+31956307;Boulevard de Bonne Nouvelle;True
+31956438;Boulevard Saint-Denis;True
+31956711;Boulevard des Capucines;True
+31972007;Rue de Caumartin;True
+32424792;Boulevard Saint-Germain;False
+32445669;Rue des Petites Écuries;False
+32484551;Quai de la Tournelle;False
+32789055;Rue de Provence;False
+32862479;Rue des Halles;False
+32863155;Rue de la Monnaie;False
+32875940;Place des Saussaies;False
+32876059;Place de la Madeleine;False
+32876421;Place de la Madeleine;False
+32876749;Voie Georges Pompidou;False
+32876751;Voie Georges Pompidou;True
+32876835;Cours Albert 1er;False
+32877048;Avenue Dutuit;False
+32879654;Place Clemenceau;False
+32879774;Avenue de Selves;False
+32879779;Avenue de Selves;False
+32879931;Impasse d'Antin;False
+32880097;;False
+32880201;Avenue Montaigne;False
+32880355;;False
+32880668;;False
+32903024;Avenue Edward Tuck;False
+32987127;Rue de Presles;False
+33112850;Place des Pyramides;False
+33189941;Quai d'Anjou;False
+34181371;Avenue Duquesne;False
+34181373;Avenue Duquesne;False
+34200312;Quai Anatole France;False
+34200316;Boulevard Saint-Germain;False
+34200356;Quai des Tuileries;False
+34202451;Rue Saint-Dominique;False
+34230332;Rue Paul Lelong;False
+34230336;Rue Vivienne;False
+34230347;Rue des Jeûneurs;False
+34237938;Rue Charlot;False
+34237949;Rue de Poitou;False
+34321456;Rue Gomboust;False
+34321457;Rue d'Argenteuil;False
+34321684;Rue Serpente;False
+34322389;Rue Lagrange;False
+34322393;Rue du Cardinal Lemoine;False
+34322419;Rue des Écoles;False
+34322443;Rue Mornay;False
+34322453;Rue Pavée;False
+34322497;Rue des Archives;False
+34322512;Rue François Miron;False
+34322528;Rue Froissart;False
+34372786;Rue Geoffroy Saint-Hilaire;False
+34374182;Rue Pierre Nicole;False
+34375603;Boulevard Raspail;False
+34378247;Rue Balzac;False
+34379219;Rue d'Astorg;False
+34382672;Avenue Winston Churchill;False
+34382673;Rue Christophe Colomb;False
+34386506;Rue Chauchat;False
+34386522;Rue de Trévise;False
+34491705;Rue de Malte;False
+34676668;Rue Saint-Sulpice;False
+34676749;Carrefour de l'Odéon;False
+34677039;Boulevard Saint-Germain;False
+34677617;Rue Cambacérès;False
+34677677;Rue de Miromesnil;False
+34678153;Rue La Fayette;False
+34678160;Boulevard Haussmann;False
+34678498;Boulevard du Temple;False
+34678823;Rue Saint-Paul;False
+34678852;Rue Saint-Antoine;False
+34679625;Quai de Montebello;False
+34679750;Quai Branly;False
+34681705;Rue du Louvre;False
+34681800;Rue Montmartre;False
+34681880;Rue du Faubourg Montmartre;False
+34681918;Boulevard Haussmann;False
+34682269;Rue de Cléry;False
+34684074;Rue Royale;False
+34684208;Rue Sainte-Croix de la Bretonnerie;False
+34684272;Rue Saint-Antoine;False
+34779024;Rue Michelet;False
+34779025;Rue Notre-Dame des Champs;False
+34779026;Rue Stanislas;False
+34779027;Rue Lecourbe;False
+34824657;Rue du Théâtre;False
+34824658;Rue Mademoiselle;False
+34824659;Rue Mademoiselle;False
+34824663;Rue Falguière;False
+34856134;Rue Réaumur;False
+34856219;Rue Sibour;False
+34856443;Rue Vavin;False
+34856532;Rue de Condé;False
+34856538;Rue Saint-Sulpice;False
+34856551;Rue de Rennes;False
+34856561;Boulevard Saint-Germain;False
+34856565;Boulevard Saint-Michel;False
+34868170;Rue Saint-André des Arts;False
+34868295;Rue Saint-Honoré;False
+35081746;Sortie Turbigo;False
+35081747;Rue de Turbigo;False
+35081748;Entrée Coquillière (Voie A4);False
+35081974;Souterrain Sortie Hôtel de Ville (Voie S2);False
+35082995;Rue des Hospitalières-Saint-Gervais;False
+35097248;;False
+35097249;;False
+35097250;;False
+35097251;Quai de la Rapée;False
+35097252;Quai de la Rapée;False
+35097256;Quai Saint-Bernard;False
+35098391;Boulevard du Montparnasse;False
+35550383;Rue Jean-Pierre Timbaud;False
+35835511;Quai de Jemmapes;False
+35835512;Quai de Jemmapes;False
+35835711;Quai de Valmy;False
+35835712;Quai de Valmy;False
+35992596;Place de la République;True
+35992597;Place de la République;True
+35993842;Rue de Crussol;False
+36824498;Rue du Faubourg Poissonnière;False
+37064086;Rue Tronchet;False
+37064087;Rue de Rome;False
+37064089;Rue du Havre;False
+37065339;Rue du Faubourg Poissonnière;False
+37075414;Avenue Paul Doumer;False
+37075415;Rue Benjamin Franklin;False
+37075839;Rue Saint-Martin;False
+37075845;Boulevard Saint-Denis;False
+37075911;Boulevard Saint-Denis;False
+37106047;Rue Saint-Jacques;False
+37106439;Rue Saint-Marc;False
+37128077;;False
+37146165;Square Alboni;False
+37186877;Boulevard Edgar Quinet;False
+37188080;Rue Saint-André des Arts;False
+37189943;Quai de la Rapée;False
+37550637;Rue de Lyon;False
+37550638;Boulevard de la Bastille;False
+37550639;Rue de Lyon;False
+37550640;Rue de Lyon;False
+37550858;;False
+37550878;;False
+37551163;Rue de Marseille;False
+37551300;Passage Dubail;False
+37551301;Passage Dubail;False
+37576873;Place du Marché Saint-Honoré;False
+37601095;Rue Réaumur;False
+37601096;Rue du Temple;False
+37650702;;False
+37650703;Boulevard du Montparnasse;False
+37775876;Boulevard Haussmann;False
+37775878;Boulevard Malesherbes;False
+37776167;Rue La Boétie;False
+37776168;Rue de Miromesnil;False
+37776277;Rue du Faubourg Saint-Honoré;False
+37776279;Place Beauvau;False
+37776280;Place des Saussaies;False
+37776281;Rue Cambacérès;False
+38259443;Rue Legouvé;False
+38273578;Passage des Marais;False
+39363583;Boulevard Raspail;False
+39365209;Rue de l'Arrivée;False
+39365212;Place du 18 Juin 1940;False
+39370830;Rue d'Assas;False
+39371291;Boulevard de Sébastopol;False
+39376126;Place du 18 Juin 1940;False
+39779509;;False
+40036977;Rue de Turenne;False
+40037023;Rue de Rivoli;False
+40067720;Rue du Petit Pont;False
+40068037;Allée du Révérend Père Michel Riquet;False
+40432022;Rue Danton;False
+40432592;Accès Parking Saint-Michel;False
+40795060;Rue Vernet;False
+41056092;Rue Amelot;False
+41455853;Rue de Vaugirard;False
+41455854;Rue de Vaugirard;False
+41455855;Rue de Vaugirard;False
+41455856;Rue du Regard;False
+41462973;Boulevard Richard Lenoir;False
+41463245;Rue Saint-Antoine;False
+41465215;Rue Saint-Antoine;False
+41465217;Boulevard Henri IV;False
+41466668;Boulevard Henri IV;False
+41466669;Quai de la Tournelle;False
+41467248;Rue Jussieu;False
+41467715;Rue du Four;False
+41469916;Boulevard de l'Hôpital;False
+41584738;Boulevard de Magenta;False
+41593623;Place de la Bastille;False
+41662304;Rue du Louvre;True
+41662632;Rue d'Aboukir;False
+41662850;Rue Saint-Denis;False
+41675737;Rue Montmartre;False
+41739090;Avenue Victoria;False
+41739091;Avenue Victoria;False
+41739321;Rue de Vaugirard;False
+41739322;Rue de Vaugirard;False
+41739323;Rue d'Assas;False
+41739437;Rue Vavin;False
+41739438;Boulevard Raspail;False
+41739651;Avenue du Maine;False
+41804912;Cours la Reine;False
+41872851;Avenue de Wagram;False
+41873007;Avenue des Champs-Élysées;False
+41873008;Cours la Reine;False
+41873566;Place de l'Alma;True
+41873894;;False
+41873896;Avenue du Président Wilson;False
+41873906;Rue des Frères Périer;False
+41873929;Avenue du Président Wilson;False
+41873930;Cours Albert 1er;False
+43020657;Rue Jacques-Henri Lartigue;False
+43201197;Place de la Sorbonne;False
+43201198;Place de la Sorbonne;False
+43878161;;False
+43904944;Port de la Rapée;False
+44782044;Rue Jean Poulmarch;False
+44782061;Rue Yves Toudic;False
+44802901;;False
+44834670;;False
+44834681;;False
+44835390;Rue de Lyon;False
+44840928;Rue de Vaugirard;False
+44843670;Rue du Docteur Roux;False
+44843672;Rue Edmond Guillout;False
+44864462;Avenue de la Grande Armée;False
+45180810;Boulevard de la Bastille;False
+45188343;Boulevard Richard Lenoir;False
+45189454;;False
+45189455;;False
+45189905;;False
+45189908;;False
+45189909;Rue Jean Beausire;False
+45189910;;False
+45387953;Rue d'Enghien;False
+45397005;;False
+45397006;;False
+45397008;;False
+45397009;;False
+45397010;;False
+45490057;Rue du Faubourg Saint-Martin;False
+45518911;Rue d'Arcole;True
+45689182;Avenue de Breteuil;False
+45784010;Rue Lucien Sampaix;False
+45785298;Rue de Richelieu;False
+45828501;Rue des Francs Bourgeois;False
+45828694;Rue Saint-Honoré;False
+45828735;Rue du Pont Neuf;False
+45829694;Avenue des Champs-Élysées;False
+45829695;Place de la Concorde;False
+45829697;Place de la Concorde;False
+45829702;Quai d'Orsay;False
+45841299;Rue du Temple;False
+47302807;Allée Pierre Lazareff;False
+47303111;Rue du Ponceau;False
+47309619;Accès Parking des Petits Champs;False
+47354829;Avenue Parmentier;False
+48305960;Rue Gabriel Laumain;False
+48675846;Rue Albert Thomas;False
+48964409;Quai de Jemmapes;False
+48965662;Quai de Valmy;False
+48965664;Quai de Valmy;False
+48997107;Rue du Faubourg Saint-Denis;False
+48997108;Rue du Faubourg Saint-Denis;False
+49371026;Rue Pernelle;False
+49372129;;False
+49428883;Rue des Volontaires;False
+49429176;Rue Saint-Sabin;False
+49429177;Rue Amelot;False
+49429178;Rue Amelot;False
+49429786;Rue de Cléry;False
+49429791;Rue de Palestro;False
+49921452;Avenue de la Bourdonnais;False
+50061626;Rue des Grands Augustins;False
+50345583;Voie Georges Pompidou;False
+50557194;Rue Saint-Sabin;False
+50557197;Rue Saint-Sébastien;False
+50557198;Rue Oberkampf;False
+50557199;Passage Saint-Sébastien;False
+50557210;Passage Saint-Pierre Amelot;False
+50725000;Place de la Reine Astrid;False
+51111533;Boulevard de Magenta;False
+51111535;Boulevard de Magenta;False
+51111536;Rue du Château d'Eau;False
+51219663;;False
+51258575;;False
+51260152;Avenue de Suffren;False
+51260154;Avenue de la Motte-Picquet;False
+51260155;;False
+51260156;;False
+51260162;Avenue Duquesne;False
+51317635;Rue Lucien Sampaix;False
+51498241;Avenue Marceau;False
+51547619;Rue Boissy d'Anglas;False
+51681919;;False
+51779573;Pont de l'Alma;False
+51779574;Pont de l'Alma;False
+52026462;Rue du Faubourg Saint-Honoré;False
+52033077;Rue de la Victoire;False
+52033079;Rue Buffault;False
+52033082;Rue de la Victoire;False
+52114425;Quai Malaquais;False
+52114818;Quai Malaquais;False
+52122158;;False
+52285726;Quai de la Rapée;False
+52406195;Boulevard du Montparnasse;False
+52406197;Accès Parking;False
+52406198;Accès Parking;False
+52448657;Rue de Grenelle;False
+52449981;Place de l'École Militaire;False
+52451192;Avenue Bosquet;False
+52451336;Avenue Bosquet;False
+52458611;Avenue Rapp;False
+52458664;Avenue Rapp;False
+52458678;Place Edwige Feuillère;False
+52458684;Place Edwige Feuillère;False
+52458762;Rue du Général Camou;False
+52459541;;False
+52459549;Avenue Bosquet;False
+52459554;;False
+52459563;Rue Bosquet;False
+52459599;;False
+52459668;Avenue Bosquet;False
+52460122;;False
+53151799;Rue du Bac;False
+53344424;Boulevard de Strasbourg;False
+53344426;Rue de la Fidélité;False
+53538209;Rue du Départ;False
+53567908;Place Dauphine;False
+53567909;Rue de Harlay;False
+53567927;Place Dauphine;False
+53567928;Rue Henri Robert;False
+53569966;Accès Parking Pont Neuf;False
+53569967;Accès Parking Pont Neuf;False
+53570785;Quai des Orfèvres;False
+53570786;Quai du Marché Neuf;False
+53570788;Place du Pont Neuf;False
+53574148;Quai de l'Horloge;False
+53574163;Pont Neuf;False
+53574168;Pont Neuf;False
+53574171;Place du Pont Neuf;False
+53574179;Pont Neuf;False
+53578230;Rue Bertin Poirée;False
+53578231;Rue des Deux Boules;False
+53578233;Rue Jean Lantier;False
+53578234;Quai de la Mégisserie;False
+53578235;Rue des Bourdonnais;False
+53578236;Rue des Bourdonnais;False
+53578237;Rue Édouard Colonne;False
+53578238;Rue Saint-Germain l'Auxerrois;False
+53578239;Rue des Orfèvres;False
+53578240;Rue Saint-Germain l'Auxerrois;False
+53578241;Rue Saint-Germain l'Auxerrois;False
+53578242;Rue Boucher;False
+53578243;Accès Parking Rivoli - Pont Neuf;False
+53578244;Rue Jean Lantier;False
+53578245;Rue des Lavandières Sainte-Opportune;False
+53582124;Pont au Change;False
+53583653;Rue des Lavandières Sainte-Opportune;False
+53583655;Avenue Victoria;False
+53585862;Place du Châtelet;False
+53585863;Rue Adolphe Adam;False
+53585865;Avenue Victoria;False
+53604498;Allée Celestin Hennion;False
+53604499;Quai de la Corse;False
+53610265;Parvis Notre-Dame - Place Jean-Paul II;False
+53610266;Rue Aubé;False
+53610267;Accès Parking Lutèce;False
+53610268;Accès Parking Lutèce;False
+53610975;Accès Parking Notre-Dame;False
+53610976;Accès Parking Notre-Dame;False
+53610977;Accès Parking Notre-Dame;False
+53613248;Rue Chanoinesse;False
+53613250;Rue Massillon;False
+53613253;Rue Chanoinesse;False
+53657331;Rue des Ursins;False
+53657388;Rue des Chantres;False
+53657931;Rue de la Colombe;False
+53672215;Rue des Déchargeurs;False
+53764753;Rue de Viarmes;False
+53764754;Rue de Viarmes;False
+53765124;Impasse Saint-Eustache;False
+53772771;Rue du Pont Neuf;False
+53772772;Place de l'École;False
+53772774;Accès Parking Saint-Germain l'Auxerrois;False
+53772786;Accès Parking Saint-Germain l'Auxerrois;False
+53773757;Rue Jean Tison;False
+53773786;Accès Parking Rivoli - Pont Neuf;False
+53792278;Avenue Félix Faure;False
+53793441;Rue Notre-Dame de Nazareth;False
+53818006;Place du Carrousel;False
+53818009;Place du Carrousel;False
+53818815;Place du Carrousel;False
+53818816;Place du Carrousel;False
+53818817;Place du Carrousel;False
+53818818;Place du Carrousel;False
+53818820;Place du Carrousel;False
+53818822;Place du Carrousel;False
+53818823;Place du Carrousel;False
+53825323;;False
+53826865;Accès Parking des Petits Champs;False
+53912300;;False
+54044331;Rue Coquillière;False
+54046079;Rue Radziwill;False
+54046087;Rue Croix des Petits Champs;False
+54053055;Place André Malraux;False
+54053060;Place André Malraux;False
+54054009;Rue de Montpensier;False
+54059381;Rue Molière;False
+54059384;Rue de Richelieu;False
+54059925;Rue Saint-Honoré;False
+54059926;Rue Saint-Honoré;False
+54109452;Accès Parking Pyramides;False
+54109453;Accès Parking Pyramides;False
+54112236;Accès Parking Pyramides;False
+54173671;Accès Parking Vendôme;False
+54173722;Accès Parking Vendôme;False
+54180051;Accès Parking Madeleine Tronchet;False
+54180053;Boulevard de la Madeleine;False
+54181171;Passage Commun A/1;False
+54186291;Boulevard Malesherbes;False
+54186296;Boulevard de la Madeleine;False
+54186300;Boulevard de la Madeleine;False
+54201554;Port de la Concorde;False
+54381007;Rue de Gramont;False
+54424484;Rue Gaillon;False
+54566965;Rue Louis Le Grand;False
+54568029;Rue du Jour;False
+54572725;Rue Grétry;False
+54603917;Rue Coquillière;False
+54661710;Place de la Bourse;False
+54667455;Place de l'Opéra;False
+54667459;Place de l'Opéra;False
+54667461;Place de l'Opéra;False
+54734690;Rue Léopold Bellan;False
+54756953;Rue de Turbigo;False
+54846816;Rue de la Pépinière;False
+54848441;Rue Pernelle;False
+54849035;Rue Sibour;False
+54850496;Rue du Faubourg Saint-Martin;False
+54850498;Rue du Faubourg Saint-Martin;False
+54851056;;False
+54851057;Boulevard Saint-Denis;False
+54894199;Boulevard de Sébastopol;False
+54931255;Rue de l'Échelle;False
+54931372;Rue de Rivoli;False
+54931419;Cours Albert 1er;False
+54970461;Allée Pierre Lazareff;False
+54970488;Allée Pierre Lazareff;False
+55046141;Rue du Caire;False
+55129128;Rue Beaubourg;False
+55129129;Rue Beaubourg;False
+55151925;Rue de Rivoli;False
+55181001;Rue de Rivoli;False
+55218337;Rue Réaumur;False
+55338728;Rue Saint-Antoine;False
+55360864;Rue Paul Barruel;False
+55361482;Place des Martyrs Juifs du Vélodrome;False
+55361937;Port de Suffren;False
+55407694;Quai d'Orléans;False
+55477080;Accès Parking de l'Hôtel de Ville;False
+55477322;Rue de la Verrerie;False
+55477410;;False
+55507611;Accès Parking Centre Pompidou;False
+55527630;Rue du Pasteur Wagner;False
+55531099;Rue Pecquay;False
+55545764;;False
+55620110;Impasse Putigneux;False
+55647670;Accès Parking Baudoyer;False
+55647672;;False
+55697115;Rue du Renard;False
+55697117;Rue Saint-Bon;False
+55697132;Rue du Cloître Saint-Merri;False
+55740320;Impasse Saint-Fiacre;False
+55761055;Square Sainte-Croix de la Bretonnerie;False
+55848912;Rue des Guillemites;False
+56019324;Quai d'Orsay;False
+56020254;Boulevard des Invalides;False
+56020255;Boulevard des Invalides;False
+56020256;Rue de Constantine;False
+56077547;Rue de Birague;False
+56077554;Rue de Birague;False
+56077556;Impasse Guéménée;False
+56078179;Rue de Béarn;False
+56078182;Rue de Béarn;False
+56104220;Rue de la Roquette;False
+56104222;Boulevard Beaumarchais;False
+56104225;Rue du Faubourg Saint-Antoine;False
+56104226;Rue Saint-Antoine;False
+56104227;Place de la Bastille;False
+56104231;Boulevard Bourdon;False
+56159565;Passage Saint-Paul;False
+56185430;Quai des Célestins;False
+56186905;;False
+56199245;Rue Jules Cousin;False
+56214477;Rue de Lesdiguières;False
+56216691;Rue de l'Arsenal;False
+56257419;;False
+56257421;Rue Beaubourg;False
+56257422;Rue Beaubourg;False
+56257423;Rue du Grenier Saint-Lazare;False
+56257425;Rue Beaubourg;False
+56290847;;False
+56290848;Rue Greneta;False
+56290856;;False
+56319995;Rue Saint-Martin;False
+56320005;Rue Saint-Martin;False
+56323286;Boulevard Saint-Denis;False
+56455712;Rue Borda;False
+56455713;Rue Volta;False
+56463569;Rue des Fontaines du Temple;False
+56470215;Boulevard Pasteur;False
+56470217;Boulevard Pasteur;False
+56702036;Rue de la Corderie;False
+56995106;Rue de Picardie;False
+57378313;Rue Jean Calvin;False
+57378314;Rue Jean Calvin;False
+57386591;Rue de Normandie;False
+57395491;Rue Debelleyme;False
+57692162;Rue Réaumur;False
+57727929;Rue du Parc Royal;False
+57932545;Impasse Saint-Claude;False
+58421552;Rue des Lavandières Sainte-Opportune;False
+58424446;Rue Laffitte;False
+58424447;Rue Laffitte;False
+58424450;Rue Chauchat;False
+58424485;Rue Rossini;False
+58424489;Rue Rossini;False
+58424893;Rue du Faubourg Montmartre;False
+58424906;Rue du Faubourg Montmartre;False
+58455733;Passage Dubail;False
+58734095;Place Raoul Dautry;False
+58734097;;False
+58770946;Square de Luynes;False
+58779085;;False
+58779186;;False
+58779762;Cours la Reine;False
+58780695;Square Max Hymans;False
+58780697;;False
+58907941;;False
+59718918;Place du Commerce;False
+59719867;Quai Branly;False
+59725223;Rue de la Convention;False
+59727176;Rue de la Convention;False
+59848582;Rue de l'Université;False
+59848594;Rue de l'Université;False
+59848681;Rue du Champ de Mars;False
+59848693;Rue de Grenelle;False
+59848724;Rue de l'Université;False
+59848726;Rue de Verneuil;False
+59848738;Rue Allent;False
+59848777;Rue de Bellechasse;False
+59850459;Rue Notre-Dame des Champs;False
+59851630;Rue Lhomond;False
+59851695;Rue Lacépède;False
+59851722;Rue Gracieuse;False
+59851736;Rue Gracieuse;False
+59853648;Rue de la Clef;False
+59853653;Rue Daubenton;False
+59854542;Rue Henri Barbusse;False
+59854677;Rue Jacques Cœur;False
+60005066;Quai de Jemmapes;False
+60184375;Quai de Gesvres;False
+60208514;Rue Vieille du Temple;False
+60208632;Rue de Sévigné;False
+60208897;Rue du Petit Musc;False
+60208991;Rue de Saintonge;False
+60208997;Rue Charlot;False
+60210478;Rue Letellier;False
+60210479;Rue Letellier;False
+60214016;Rue Desaix;False
+60419071;Pont des Invalides;False
+60419074;Place du Canada;False
+61094057;Rue Freycinet;False
+61285150;Cité du Wauxhall;False
+61578681;Rue de l'Université;False
+61732852;Rue du Théâtre;False
+61732853;Rue du Théâtre;False
+61980999;Place des Pyramides;False
+62119435;Impasse des Primevères;False
+62119437;Allée Verte;False
+62164880;Place des États-Unis;False
+62175165;Rue du Pasteur Wagner;False
+62221480;Rue Nélaton;False
+62235594;Rue de Seine;False
+62235610;Quai Malaquais;False
+62236665;Quai de Conti;False
+62236667;Impasse de Conti;False
+62238363;Rue de Nevers;False
+62287122;Rue de l'Abbaye;False
+62287144;Rue de Montfaucon;False
+62289700;Accès Parking Saint-Germain des Prés;False
+62289714;Rue de Rennes;False
+62289715;Accès Parking Saint-Germain des Prés;False
+62289716;Rue Saint-Benoît;False
+62289717;;False
+62289720;Accès Parking Saint-Germain des Prés;False
+62299646;Boulevard Saint-Germain;False
+62302776;Rue Bernard Palissy;False
+62314198;Place Michel Debré;False
+62316777;Place d'Acadie;False
+62326358;Bretelle de contournement de la place Valhubert;False
+62326359;Bretelle de contournement de la place Valhubert;False
+62469214;Carrefour de l'Odéon;False
+62505879;;False
+62522544;Place Paul Claudel;False
+62789759;Rue du Faubourg du Temple;False
+62791896;Rue Lucien Sampaix;False
+62946840;;False
+62946910;;False
+62997062;Place Edmond Rostand;False
+62997063;Boulevard Saint-Michel;True
+62997064;Boulevard Saint-Michel;False
+63002448;Place Edmond Rostand;False
+63354407;Rue de Mézières;False
+63382014;Place Alphonse Deville;False
+63711126;;False
+63745637;Boulevard Saint-Michel;False
+64002102;Rue de Vaugirard;False
+64002103;Rue de Médicis;False
+64051397;Place du Pont Neuf;False
+64113821;Place Pablo Picasso;False
+64113855;Boulevard du Montparnasse;False
+64282219;Avenue du Maine;False
+64297445;Place du 18 Juin 1940;False
+64297448;;False
+64297449;Place du 18 Juin 1940;False
+64311955;;False
+64312028;;False
+64320064;;False
+64328278;Square Saint-Romain;False
+64609506;Quai de Valmy;False
+64609507;Quai de la Corse;False
+64609511;Boulevard du Palais;False
+64750311;Rue du Temple;False
+64750318;Rue Perrée;False
+64750321;Rue Perrée;False
+64750324;Rue des Gravilliers;False
+64750326;Rue de Béarn;False
+64941056;Rue Lauriston;False
+64963501;Rue Charles V;False
+64963503;Rue Jean du Bellay;True
+64963505;Rue de la Cerisaie;False
+64972826;Rue de Sévigné;False
+64972827;Rue de Brosse;False
+64972828;Rue Saint-Paul;False
+66098063;Rue Monge;False
+66098064;Place Marcelin Berthelot;False
+66171611;Boulevard des Invalides;False
+66171614;Boulevard des Invalides;False
+66171617;Boulevard du Montparnasse;False
+66171623;Boulevard du Montparnasse;False
+66171629;Boulevard des Invalides;False
+66320261;Rue Daubenton;False
+66320263;Rue Poliveau;False
+66320267;Rue Larrey;False
+66320306;Boulevard Saint-Michel;False
+66486068;Rue Jacob;False
+66486070;Rue de l'Éperon;False
+66486072;Rue Saint-André des Arts;False
+66492816;Place Saint-Sulpice;False
+66755257;;False
+66767132;Rue Étienne Marcel;False
+66767515;;False
+66767521;;False
+66771099;Rue Tronchet;True
+66929003;Boulevard de Strasbourg;False
+66997533;;False
+66997551;;False
+66997554;;False
+66997561;;False
+67036990;;False
+67036997;Accès Parking du Rond-Point;False
+67037000;Accès Parking du Rond-Point;False
+67037019;;False
+67050951;;False
+67092056;Avenue Gabriel;False
+67102547;Accès Parking Concorde;False
+67102558;Accès Parking Concorde;False
+67106865;Place de la Concorde;False
+67262102;Boulevard de Sébastopol;False
+67349978;;False
+67350009;;False
+67350016;Accès Parking Malesherbes Anjou;False
+67350061;Accès Parking Malesherbes Anjou;False
+67353079;;False
+67392285;Avenue Delcassé;False
+67501507;Boulevard Haussmann;False
+67501512;Place Saint-Augustin;False
+67509820;Rue de Rennes;False
+67509821;Boulevard Raspail;False
+67509822;Rue de Sèvres;False
+67509823;Rue de Rennes;False
+67558766;Rue de Rome;False
+67559347;Rue Chauveau-Lagarde;False
+67561679;Rue Tronchet;False
+67563332;Boulevard Malesherbes;False
+67644301;;False
+67654606;Accès Parking Haussmann - Printemps;False
+67654609;Rue du Havre;False
+67654610;Rue du Havre;False
+67654611;Rue Auber;False
+67654615;Rue Tronchet;False
+68210802;Voie Georges Pompidou;False
+68658507;Boulevard Haussmann;False
+68706173;Passage D8;False
+68731433;Boulevard Haussmann;False
+68731437;Boulevard Haussmann;False
+68761005;Boulevard Saint-Germain;False
+68761009;Rue Saint-Guillaume;False
+68804363;Accès Parking Haussmann Berri;False
+68804395;Sortie Parking Haussmann Berri;False
+68805505;Accès Parking Haussmann Berri;False
+68805509;Sortie Parking Haussmann Berri;False
+68806765;Rue de la Baume;False
+68831263;Avenue Myron Herrick;False
+68881721;Quai de la Mégisserie;False
+68881723;Boulevard du Montparnasse;False
+68904215;Avenue Duquesne;False
+68904219;Rue Joseph Sansboeuf;False
+68904221;Avenue Duquesne;False
+68904223;Avenue Matignon;False
+68904224;Place du 18 Juin 1940;False
+68904227;Avenue Duquesne;False
+68904229;Boulevard de la Tour Maubourg;False
+68904231;Avenue de Ségur;False
+68904234;Avenue de Lowendal;False
+68904235;Avenue de Lowendal;False
+68904237;Avenue Duquesne;False
+68904239;Avenue de la Motte-Picquet;False
+68904241;Avenue Matignon;False
+68904244;Avenue de Breteuil;False
+68904246;Avenue Duquesne;False
+68904247;Avenue de Ségur;False
+68904250;Avenue de la Motte-Picquet;False
+68907088;Rue Gay-Lussac;False
+68907538;Boulevard Haussmann;False
+68907539;Rue La Boétie;False
+68907544;Rue Pasquier;False
+68907547;Avenue Franklin Delano Roosevelt;False
+68907548;Rue Pasquier;False
+68907549;Avenue Franklin Delano Roosevelt;False
+68915101;Place de la Madeleine;False
+68915104;Avenue Franklin Delano Roosevelt;False
+68915107;Boulevard des Capucines;False
+68995797;Rue d'Artois;False
+69103158;;False
+69103182;;False
+69114043;Rue Quentin Bauchart;False
+69114048;;False
+69114049;Rue Galilée;False
+69114052;;False
+69114054;Accès Parking George V;False
+69114056;Sortie Parking George V;False
+69114060;Sortie Parking George V;False
+69119855;Accès Parking Berri - Washington;False
+69167244;Accès Parking Parking Pierre Charron;False
+69167266;Accès Parking Champs-Élysées;False
+69167386;Rue La Boétie;False
+69178608;Sortie Parking Pierre Charron;False
+69236724;Rue Gabriel Laumain;False
+69236725;Rue Gabriel Laumain;False
+69240950;Cité Rougemont;False
+69240953;Cité Bergère;False
+69240956;Cité Rougemont;False
+69240957;Cité Bergère;False
+69315566;Rue Le Peletier;False
+69315569;Boulevard des Capucines;False
+69315571;Boulevard Haussmann;False
+69315573;Place de la Madeleine;False
+69315577;Boulevard Haussmann;False
+69325369;Rue François 1er;False
+69325371;Place de la Reine Astrid;False
+69325393;Sortie Parking François 1er;False
+69325396;Avenue Montaigne;False
+69325397;Rue Bayard;False
+69325415;Avenue Montaigne;False
+69325421;Impasse Bourdin;False
+69325423;Accès Parking François 1er;False
+69325427;Rue François 1er;False
+69329964;Impasse Ruffin;False
+69353877;Place de la Concorde;False
+69353880;Avenue Montaigne;False
+69401399;Boulevard des Invalides;False
+69401408;Avenue de Breteuil;False
+69414167;Avenue des Champs-Élysées;False
+69485157;;False
+69485519;;False
+69486119;Accès Parking Alma Georges V;False
+69486120;Accès Parking Alma Georges V;False
+69486121;Sortie Parking Alma Georges V;False
+69609790;;False
+69609791;Rue Léonce Reynaud;False
+69609792;Rue Quentin Bauchart;False
+69674564;Rue de Bassano;False
+69684057;Accès Parking Marceau Étoile;False
+69692221;Place de l'Alma;False
+69692222;Avenue George V;False
+70187668;Rue de Tilsitt;False
+70187672;;False
+70187676;;False
+70187682;Sortie Parking Étoile Friedland;False
+70187695;;False
+70240806;Boulevard des Invalides;False
+70736934;Avenue Franklin Delano Roosevelt;False
+70736935;Rue de Courcelles;False
+70736939;Rue La Boétie;False
+70736941;Boulevard Haussmann;False
+70736946;Rue de la Pépinière;False
+70740015;Place de la Madeleine;False
+70994511;Rue Le Peletier;False
+70994513;Rue Laffitte;False
+70994516;Rue de Montyon;False
+70995637;Rue de Provence;False
+70995643;Rue Scribe;False
+70995646;Rue de la Chaussée d'Antin;False
+70995648;Boulevard des Capucines;False
+70995649;Place de l'Opéra;False
+71122986;Rue de Richelieu;False
+71122987;Rue des Petits Champs;False
+71122988;Rue Réaumur;False
+71122989;Rue des Petits Champs;False
+71122990;Rue des Petits Champs;False
+71122991;Rue Étienne Marcel;False
+71122992;Rue de Richelieu;False
+71122993;Rue des Colonnes;False
+71122994;Rue du Sentier;False
+71122996;Rue Poissonnière;False
+71122998;Rue Poissonnière;False
+71221834;Rue du Louvre;False
+71221835;Rue Étienne Marcel;True
+71505095;Avenue Montaigne;False
+71505096;Avenue de Friedland;False
+72077765;Rue de Quatrefages;False
+72077766;Rue du Puits de l'Ermite;False
+72077767;Rue de la Cerisaie;False
+72086996;Rue Edmond Roger;False
+72087005;Rue Sainte-Cécile;False
+72224007;Passage Landrieu;False
+72224008;Rue Ortolan;False
+72224013;Rue Rataud;False
+72224015;Rue Blainville;False
+72224017;Rue de l'Échaudé;False
+72224018;Rue Saint-Benoît;False
+72224020;Rue Cochin;False
+72240223;Rue des Bernardins;False
+72240224;Rue Grégoire de Tours;False
+72240227;Rue Jean de Beauvais;False
+72240230;Rue de Cluny;False
+72727221;Place Valhubert;False
+72727222;Place Valhubert;False
+73433848;Voie Georges Pompidou;False
+73433849;Avenue de New York;False
+73433852;Voie Georges Pompidou;False
+73436130;Avenue de New York;False
+75901007;;False
+76229841;Rue du Faubourg Saint-Martin;False
+77441349;;False
+77515472;Place du Docteur Alfred Fournier;False
+77515482;Cité Héron;False
+77532358;Quai de la Rapée;False
+77693679;Passage de l'Union;False
+78143926;Rue des Récollets;False
+79219371;;True
+79264838;Avenue du Président Wilson;False
+79272327;Avenue d'Iéna;False
+79272330;Avenue d'Iéna;False
+79272334;Avenue des Nations-Unies;False
+79272335;Avenue des Nations-Unies;False
+79272340;;False
+79277728;Avenue Albert de Mun;False
+79277729;Avenue Albert de Mun;False
+79277730;Avenue des Nations-Unies;False
+79341414;;False
+79341415;;False
+79341417;;False
+79341427;Rue de Lübeck;False
+79341431;;False
+79341439;;False
+79368407;;False
+79368432;Rue Newton;False
+79368448;Rue Auguste Vacquerie;False
+79388242;Avenue Kléber;False
+79388249;Avenue Kléber;False
+79388250;Avenue Kléber;False
+79394565;;False
+79642792;Rue Léo Delibes;False
+79642793;Rue Boissière;False
+79649833;Rue de Longchamp;False
+79649889;Avenue Kléber;False
+79649907;Rue de Longchamp;False
+79649932;Rue Cimarosa;False
+79657284;Parking Wilson 1;False
+79657287;Parking Wilson 2;False
+79657348;Rue de Magdebourg;False
+79657351;Avenue du Président Wilson;False
+79657388;Avenue Albert de Mun;False
+79687363;Rue de la Croix Nivert;False
+79738428;;False
+79871969;Square de l'Union;False
+79963571;;False
+80264665;;False
+80284524;Rue de Navarre;False
+80300371;Rue Léonard de Vinci;False
+80300418;Place du Vénézuela;False
+80303455;Rue Paul Valéry;False
+80366006;Sortie Parking Étoile - Foch;False
+80376655;Accès Parking Étoile - Foch;False
+80853522;Rue des Capucines;False
+83120615;Boulevard du Montparnasse;False
+83120618;Quai de la Rapée;False
+83120619;Boulevard du Montparnasse;False
+83120623;;False
+83120625;Boulevard de Vaugirard;False
+83120630;Boulevard du Montparnasse;False
+83120632;Rue de Lyon;False
+83120638;;False
+83126750;Boulevard Pasteur;False
+83198699;Place du 18 Juin 1940;False
+83198700;Place du 18 Juin 1940;False
+83201326;Place Raoul Dautry;False
+83201327;;False
+83203927;Place Raoul Dautry;False
+83203928;Boulevard de Vaugirard;False
+83203929;Place Raoul Dautry;False
+83203930;Place Raoul Dautry;False
+83203931;Place Raoul Dautry;False
+83203932;Place Raoul Dautry;False
+83210402;Rue de Vaugirard;False
+83210408;Rue des Entrepreneurs;False
+83210411;Rue Péclet;False
+83261033;Rue des Saints-Pères;True
+83261037;Pont du Carrousel;False
+83261038;Rue des Saints-Pères;False
+83261039;Quai Voltaire;False
+83261043;Boulevard Pasteur;False
+83261044;Pont du Carrousel;False
+83261048;Quai Malaquais;False
+83261049;Quai Malaquais;False
+83261051;;False
+83262061;Rue du Renard;False
+83262062;Rue du Temple;False
+83262392;Rue des Écouffes;False
+83268797;Boulevard de Vaugirard;False
+83268801;Rue de Lobau;False
+83268802;Boulevard du Temple;False
+83268804;Rue de Rennes;False
+83268806;Rue de Turenne;False
+83268809;Rue de Turenne;False
+83279325;Boulevard Saint-Michel;False
+83279326;Boulevard du Montparnasse;False
+83279327;Place Edmond Rostand;False
+83279328;Rue de Rennes;False
+83279329;Rue Cambronne;False
+83279330;Rue de Rennes;False
+83279331;Place du Panthéon;False
+83279332;Rue Lecourbe;False
+83284208;Boulevard du Montparnasse;False
+83284211;Rue de l'Arrivée;False
+83284216;Avenue de Tourville;False
+83286975;Quai d'Orsay;True
+83286978;Rue Robert Esnault-Pelterie;False
+83432471;Passage des Deux Sœurs;False
+83537398;Boulevard Haussmann;False
+83537399;Place de l'Opéra;False
+83547404;Rue de Rennes;False
+83547410;Place de la Madeleine;False
+83547417;Boulevard Raspail;False
+83554449;Place de la Bastille;False
+83590776;Rue Eblé;False
+83590777;Place Michel Debré;False
+83590778;Boulevard des Invalides;False
+83590779;Avenue Duquesne;False
+83591801;Avenue de la Motte-Picquet;False
+83591804;Place de la Résistance;False
+83591806;Rue de la Croix Nivert;False
+83593822;Rue de Vaugirard;False
+83724048;Boulevard Haussmann;False
+83724056;Boulevard Haussmann;False
+83724059;Avenue Percier;False
+83724071;Rue du Faubourg Saint-Honoré;False
+83724078;Rue La Boétie;False
+83934448;Place de l'Alma;False
+83934452;Place de l'Alma;False
+83934453;Avenue Marceau;False
+83976055;Rue Linné;False
+83976066;;False
+83976068;;False
+83976111;;False
+84018251;Allée René Jeannel;False
+84018258;;False
+84018260;;False
+84068305;Boulevard Malesherbes;False
+84068306;Rue La Boétie;False
+84110110;Cité Falguière;False
+84686445;Rue de Sèvres;False
+84686447;Rue de Sèvres;False
+84789823;Rue Mazarine;False
+84789825;Quai de Conti;False
+84796885;Boulevard Raspail;False
+84796888;Boulevard Raspail;False
+84796894;Rue de Fleurus;False
+84796902;Rue de Vaugirard;False
+84796903;Boulevard du Montparnasse;False
+84796915;Boulevard du Montparnasse;False
+84796920;Rue Guynemer;False
+84796923;Boulevard Raspail;False
+84865086;Avenue Bosquet;False
+84865087;Rond-Point des Champs-Élysées - Marcel Dassault;False
+84865089;Avenue de Suffren;False
+84865091;Boulevard de Grenelle;False
+84865093;Place de l'Opéra;False
+84865099;Boulevard de Grenelle;False
+84865100;Avenue de Suffren;False
+84865102;Avenue de Suffren;False
+84865104;Quai Branly;False
+84867910;Rue d'Assas;False
+84867913;Boulevard Raspail;False
+84867914;Pont du Carrousel;False
+84867915;Boulevard Raspail;False
+84867916;Place Joffre;False
+84867917;Pont d'Iéna;False
+84867918;Rue d'Assas;False
+84867919;Rue de l'Abbé de l'Épée;False
+84867920;Rue Saint-Dominique;False
+84867922;Rue de Grenelle;False
+84867923;Boulevard Saint-Michel;False
+84867924;Quai Branly;False
+84867925;Avenue de la Bourdonnais;False
+84867928;Quai Branly;False
+84867929;Rue Duguay-Trouin;False
+85068497;Rue Monge;False
+85068499;Rue Claude Bernard;False
+85076165;Rue Geoffroy Saint-Hilaire;False
+85076169;Quai Saint-Bernard;False
+85076170;Boulevard de l'Hôpital;False
+85076173;Boulevard Saint-Germain;False
+85076176;Rue des Fossés Saint-Bernard;False
+85320916;Avenue de l'Observatoire;False
+85320917;Boulevard Raspail;False
+85320919;Boulevard Saint-Germain;False
+85320923;Avenue de l'Observatoire;False
+85320926;Boulevard Raspail;False
+85320928;Quai d'Orsay;False
+85571705;Rue Meslay;False
+85735929;Place Valhubert;False
+85735930;Place Valhubert;False
+87394601;;False
+87394608;;False
+89752786;Rue de la Procession;False
+91301103;Place Diaghilev;False
+91301106;Place du Trocadéro et du 11 Novembre 1918;False
+91301108;Place du Trocadéro et du 11 Novembre 1918;False
+91301109;Rue Halévy;False
+95475723;;False
+95475809;Allée Nicolas Houël;False
+95475839;;False
+95475855;;False
+95745282;;False
+95745289;Accès Parking Lagrange;False
+95847449;Accès Parking Soufflot Panthéon;False
+95847451;Sortie Parking Soufflot Panthéon;False
+95847476;Accès Parking Soufflot Panthéon;False
+95860805;Rue Champollion;False
+96156229;;False
+96156254;;False
+96206203;Passage Alexandre;False
+96367447;;False
+96367448;;False
+96367449;;False
+96367450;;False
+96367452;;False
+96409547;Impasse Mathieu;False
+96409549;;False
+97602205;Sortie Parking Maubert - Saint-Germain;False
+97602212;Rue de la Montagne Sainte-Geneviève;False
+98035808;Rue Jacques-Henri Lartigue;False
+98544044;Place de l'Estrapade;False
+98668362;Rue Royer-Collard;False
+98668363;;False
+98668365;;False
+98668721;Rue Royer-Collard;False
+98900894;Rue Lucien Sampaix;False
+98947353;Accès Parking Patriarches;False
+99197897;;False
+100071142;Quai Saint-Bernard;False
+100071143;Quai Saint-Bernard;False
+100184926;;False
+100184927;;False
+101433792;Passage de la Vierge;False
+101433793;Passage Jean Nicot;False
+101433796;Passage de la Vierge;False
+101433798;Passage de la Vierge;False
+101433800;Passage Jean Nicot;False
+101433804;Passage Jean Nicot;False
+101433808;Passage de la Vierge;False
+101433809;Passage Jean Nicot;False
+101433810;Avenue Bosquet;False
+101533330;Rue des Lombards;False
+101533439;Rue Rambuteau;False
+102219764;Passage de l'Union;False
+102219765;Rue de l'Exposition;False
+102219769;Passage de l'Union;False
+102219770;Rue de l'Exposition;False
+102219773;Passage de l'Union;False
+102219775;Passage de l'Union;False
+102222863;Avenue Bosquet;False
+102222878;Avenue Bosquet;False
+102222879;Rue Dupont des Loges;False
+102222881;Avenue Bosquet;False
+102222882;Rue Dupont des Loges;False
+102345544;;False
+102350255;;False
+102350256;;False
+102355572;Rue de Monttessuy;False
+102355574;Avenue Rapp;False
+102440303;Boulevard Saint-Michel;False
+102473632;Passage Commun D7;False
+102473637;Passage Commun D7;False
+102473644;Passage Commun D7;False
+102473649;Passage Commun D7;False
+102473660;Passage Commun D7;False
+102484187;;False
+102484188;Avenue Rapp;False
+102484193;;False
+103187111;Rue Desgenettes;False
+103196768;Sortie Parking Invalides;False
+103196773;Accès Parking Invalides;False
+103196783;Rue Fabert;False
+103202694;;False
+103202699;;False
+103202703;;False
+103202705;;False
+103208074;;False
+103214103;;False
+103328532;Cité Martignac;False
+103328554;;False
+103328568;Cité Martignac;False
+103344090;Avenue de Tourville;False
+104212159;Place du Carrousel;False
+104212404;Place du Carrousel;False
+104213141;Place du Carrousel;False
+104213157;Place du Carrousel;False
+104337888;Impasse Paul-Louis Courier;False
+104339976;Square La Rochefoucauld;False
+104339980;Square La Rochefoucauld;False
+104339988;Square La Rochefoucauld;False
+104416138;;False
+104416184;;False
+104422673;Cité de Varenne;False
+104422683;Cité de Varenne;False
+105177511;Avenue des Champs-Élysées;False
+105177512;Place de la Concorde;False
+105177514;Place de la Concorde;False
+105198793;Place Saint-Thomas d'Aquin;False
+105198795;Accès Parking Bac-Montalembert;False
+105198798;Sortie Parking Bac-Montalembert;False
+105198803;Rue Sébastien Bottin;False
+105540524;;False
+105555671;Place de Breteuil;False
+105555683;Boulevard des Invalides;False
+105932575;Avenue de Saxe;False
+105932579;;False
+105932584;;False
+105940430;;False
+105940431;Avenue de Suffren;False
+105940452;;False
+106451213;Quai Branly;False
+106455633;;False
+106455635;;False
+106703444;;False
+106703446;Accès Parking Haussmann - Galeries Lafayette;False
+107215058;Rue Taitbout;False
+107215059;Accès Parking Opéra Meyerbeer;False
+107215068;;False
+107220581;Cité d'Antin;False
+107220587;Cité d'Antin;False
+107220589;Cité d'Antin;False
+107220592;Cité d'Antin;False
+107220594;Rue Rossini;False
+107220598;Cité d'Antin;False
+107220603;Cité d'Antin;False
+108246465;Rue Ambroise Thomas;False
+108260798;Rue de Montyon;False
+108265832;Cité Rougemont;False
+108265834;Impasse de la Boule Rouge;False
+108265835;Cité Rougemont;False
+108458460;;False
+110528887;;False
+110528888;Place de Fontenoy - UNESCO;False
+110900787;;False
+110900788;;False
+111548573;;False
+111548575;;False
+111548576;;False
+111548577;;False
+111652417;Cour des Petites Écuries;False
+111652421;Cour des Petites Écuries;False
+111652422;Cour des Petites Écuries;False
+111669046;;False
+111755369;Passage de l'Industrie;False
+111755371;Passage de l'Industrie;False
+111795318;;False
+111795319;;False
+111829435;;False
+111829436;;False
+111829437;;False
+111862226;;False
+111862235;;False
+111862237;;False
+111862240;;False
+111862242;;False
+112622679;Cité du Wauxhall;False
+112631446;Passage des Marais;False
+112631461;Passage des Marais;False
+112885547;Place de la Bourse;True
+113521559;;False
+113521560;;False
+113586565;;False
+113778101;Rue de Sèvres;False
+113778102;Rue Lecourbe;False
+113778103;Rue de Sèvres;False
+113778104;Rue de Sèvres;False
+113778105;Rue de Sèvres;False
+113895065;;False
+113895072;;False
+113895076;;False
+113895077;;False
+114014355;Passage Saint-Pierre Amelot;False
+114014389;Passage Saint-Pierre Amelot;False
+114191429;;False
+114191436;;False
+114223580;;False
+114223582;;False
+114223589;;False
+114223683;;False
+114223738;;False
+114223739;;False
+114231171;;False
+114231172;Square du Croisic;False
+114231175;;False
+114233857;;False
+114233858;;False
+114233863;;False
+116388712;Boulevard des Filles du Calvaire;False
+120726023;;False
+120726024;;False
+122031518;Quai Branly;False
+123316354;Port de Grenelle;False
+123319398;Place de la République;True
+123324285;Avenue de l'Opéra;True
+123324289;Boulevard de Sébastopol;False
+123324299;Rue de Rivoli;False
+123324307;Rue de Rome;False
+123324309;Rue de l'Amiral de Coligny;False
+123332686;Boulevard Saint-Germain;False
+123332687;Boulevard Saint-Germain;False
+123332692;Quai Saint-Bernard;False
+123461253;Boulevard du Palais;False
+123461255;Place du Carrousel;False
+123461256;Place du Carrousel;False
+123461257;Place du Carrousel;False
+123461259;Quai François Mitterrand;False
+123486075;Boulevard Beaumarchais;False
+123486088;Rue Saint-Martin;False
+123487808;Avenue de l'Opéra;False
+123487813;Boulevard Beaumarchais;False
+123487826;Place de la Bourse;False
+123487830;Place des Victoires;False
+123487831;Rue Beaubourg;False
+123487840;Rue de Turenne;False
+123487843;Rue des Petits Pères;False
+123974810;Rue de Montmorency;False
+124067383;;False
+124205794;;False
+124205799;;False
+127578280;Quai de la Rapée;False
+129302099;Place de la Bastille;False
+131321348;Port Debilly;False
+132822706;;False
+133562191;Souterrain Berger Est;False
+135103733;;False
+135103734;;False
+137032402;Port de la Bourdonnais;False
+137123253;;False
+137123254;;False
+137692706;Place du Carrousel;False
+137693860;Place du Carrousel;False
+138031419;Pont Notre-Dame;False
+138032009;Pont d'Arcole;False
+138032010;Pont d'Arcole;False
+138177194;Rue Joubert;False
+138279710;Rue de Tilsitt;False
+139093031;Pont de la Concorde;False
+139093032;Pont de la Concorde;False
+139130950;Allée Jean-Jacques Servan-Schreiber;False
+139130951;Parking Wilson 1;False
+139130956;Parking Wilson 2;False
+139130958;Parking Wilson 2;False
+139136316;Place d'Iéna;False
+139543098;Boulevard Raspail;False
+139543099;Rue de Grenelle;False
+139543100;Rue du Bac;False
+139543101;Rue du Bac;False
+140048924;;False
+140668982;;False
+142321476;Rond-Point des Champs-Élysées - Marcel Dassault;False
+142417901;Cour Museum;False
+142417902;Cour Museum;False
+145289570;Villa du Lavoir;False
+145289572;Villa du Lavoir;False
+145441948;Rue Amelot;False
+146412713;Rue du Faubourg du Temple;False
+146414240;Rue du Faubourg du Temple;False
+146497606;Rue de Bretonvilliers;False
+146497607;Rue de Bretonvilliers;False
+148498348;Accès Turbigo (Voie A1);False
+148877984;Place d'Iéna;False
+151665507;Rue Greneta;False
+155903557;Port Henri IV;False
+156382084;Boulevard Beaumarchais;False
+156390410;Rue Antoine Bourdelle;False
+158081714;;False
+159099439;Rue Montmartre;False
+159103476;Rue Mondétour;False
+159103478;Voie de Desserte PC Voiries;False
+159488121;Souterrain Grande Boucle (Voie BCL);False
+159488127;Entrée Rue des Halles (Voie A2);False
+159488128;;False
+159490521;Sortie Turbigo (Voie S1);False
+161231528;Rue de Médicis;False
+161231529;Rue de Vaugirard;False
+162384238;Quai de l'Hôtel de Ville;True
+162384239;Quai des Célestins;True
+162384240;Rue de Rivoli;False
+162384241;Rue de Rivoli;False
+162384242;Rue de Rivoli;False
+162384244;Voie Mazas;False
+163787522;Allée Pierre Lazareff;False
+163787524;Rue Dussoubs;False
+163787525;;False
+164010795;Rue Lacépède;False
+164010796;Rue Le Goff;False
+164010797;Rue Mouffetard;False
+164010801;Rue Soufflot;False
+164011657;Rue Joseph Liouville;False
+164011888;Place Maubert;False
+164011890;Rue Frédéric Sauton;False
+164011891;Rue Frédéric Sauton;False
+164047642;Rue de Courcelles;False
+164094065;Rue de Rivoli;False
+164094068;Rue de Rivoli;False
+164094069;Rue de Rivoli;False
+164425293;Rue Vivienne;False
+167401864;;False
+167401865;;False
+167401870;;False
+167401873;;False
+167966628;Rue du Croissant;False
+168094365;Rue Léon Jouhaux;False
+168094366;Boulevard de Magenta;False
+168242167;;False
+168275569;;False
+168404431;Rue du Temple;False
+168981408;;False
+169003559;Villa du Lavoir;False
+169048419;Boulevard de Sébastopol;False
+169128627;Avenue Victoria;False
+169225996;;False
+169225997;;False
+169833591;Voie Mazas;False
+169833592;Voie Mazas;False
+170067091;Rue du Temple;False
+170067609;Boulevard de Strasbourg;False
+170067610;Boulevard de Strasbourg;False
+170206135;;False
+170206147;Rue de Licences;False
+170206149;;False
+170206150;;False
+170809561;Place de la République;True
+170809562;Avenue de la République;True
+170809563;Avenue de la République;True
+170861306;Place de la Concorde;False
+170861462;Quai d'Orsay;False
+171126694;Rue Saint-Denis;False
+171126700;;False
+171873127;Rue Réaumur;False
+171879421;Rue de Rivoli;False
+171988376;Rue de Rohan;False
+172310219;Rue Blondel;False
+172310220;Rue Salomon de Caus;False
+172310221;Cour des Petites Écuries;False
+172310222;Rue Greneta;False
+172310223;Rue du Bourg l'Abbé;False
+172310224;Rue du Bourg l'Abbé;False
+172310226;Rue du Faubourg Saint-Denis;False
+172310227;Boulevard Saint-Martin;False
+172310228;;False
+172312427;Rue des Archives;False
+172654726;Rue René Boulanger;False
+172654729;Boulevard Saint-Martin;False
+172654731;Boulevard de Magenta;False
+172654733;Place de la République;False
+172677925;Boulevard Jules Ferry;False
+172677926;Boulevard Jules Ferry;False
+172715568;Rue Dalayrac;False
+172948767;Avenue de New York;False
+172948768;Pont de Bir Hakeim;False
+172948769;Pont de Bir Hakeim;False
+172951902;Rue de Longchamp;False
+172974061;Voie Georges Pompidou;False
+173278852;Rue Rouget de Lisle;False
+173292032;Rue Nicolas Flamel;False
+173292034;Rue de Rivoli;False
+173292041;Rue des Halles;False
+173292042;Rue des Halles;False
+173318401;Rue de Turbigo;False
+173324822;Rue des Petits Pères;False
+173574709;;False
+174767744;Rue de la Montagne Sainte-Geneviève;False
+174767745;Rue de la Montagne Sainte-Geneviève;False
+174769081;Rue d'Aboukir;False
+174799773;Rue de la Grange aux Belles;False
+176408879;Pont Royal;False
+176408880;Pont Royal;False
+176408881;Pont Royal;False
+176408882;Pont Royal;False
+176408883;Pont du Carrousel;False
+176408884;Pont du Carrousel;False
+176408885;Pont du Carrousel;False
+178693303;Voie Pompier;False
+178824613;Boulevard de Magenta;False
+178863205;;False
+179007156;Avenue de New York;False
+179466175;Avenue Daniel Lesueur;True
+180354623;Rue des Halles;False
+181731946;;False
+182518079;Avenue de la Motte-Picquet;False
+182573663;Rue Taylor;False
+182573664;Rue Taylor;False
+183404522;Rue du Faubourg du Temple;False
+183428331;;False
+183429974;;False
+184266790;Avenue de Saxe;False
+184551793;Place Charles de Gaulle;False
+186261809;Rue Saint-Paul;False
+186261812;Port de la Rapée;False
+187018666;Rue de Rohan;False
+187019913;Boulevard de Sébastopol;False
+187019914;Avenue de l'Opéra;False
+187019915;Rue de Gramont;False
+187019916;Rue du Quatre Septembre;False
+187019917;Rue Réaumur;False
+187289750;;False
+187289756;;False
+187289758;;False
+187289760;;False
+187443145;Place d'Iéna;False
+187443146;Place du Trocadéro et du 11 Novembre 1918;False
+187443152;Place d'Iéna;False
+187448046;Place du Trocadéro et du 11 Novembre 1918;False
+187450058;Rue Pierre Charron;False
+187450061;Avenue des Champs-Élysées;False
+187774740;;False
+187852944;Quai Anatole France;False
+188062088;;False
+188356005;Rue Visconti;False
+188868035;Boulevard Haussmann;False
+190590916;Rue du Louvre;False
+190590925;Rue du Faubourg Montmartre;False
+190590929;Place des Victoires;False
+190626987;Place de la Concorde;False
+190626988;Avenue de Marigny;False
+190626989;Avenue de Marigny;False
+190627542;;False
+190627543;Avenue de Friedland;False
+190627544;Place Charles de Gaulle;False
+190627546;Place Charles de Gaulle;False
+191567976;;False
+191714991;Avenue Ledru-Rollin;False
+191979195;Place du Trocadéro et du 11 Novembre 1918;False
+191979196;Place d'Iéna;False
+192067421;Boulevard de Magenta;False
+192217199;Rue La Fayette;False
+192217200;Rue des Fossés Saint-Bernard;False
+192217201;Boulevard Saint-Germain;False
+192222115;Rue de Rivoli;False
+192222119;Boulevard Henri IV;False
+192222122;Rue de Rivoli;False
+192222126;Boulevard Saint-Germain;False
+192222129;Rue du Louvre;False
+192222131;Rue de Rivoli;False
+192222134;Rue des Fossés Saint-Bernard;False
+192222136;Rue de Rivoli;False
+192903835;Rue de Rivoli;False
+192903838;Avenue de l'Opéra;False
+192903841;Rue Auber;False
+192903842;Rue de Rivoli;False
+192907893;Quai Anatole France;False
+192961821;Quai François Mitterrand;False
+193099521;Rue de Rivoli;False
+193099673;Rond-Point du Bleuet de France;False
+193100625;Rue Saint-Martin;False
+193100626;Rue de Rivoli;False
+193107740;Place de la Concorde;False
+193465140;Place Charles de Gaulle;False
+193465143;Place Charles de Gaulle;False
+193476875;Place Charles de Gaulle;False
+193476880;Place Charles de Gaulle;False
+193751718;Boulevard de Sébastopol;False
+193751719;Rue de Rivoli;False
+193853815;Rue Domat;False
+193906646;Rue de Sèvres;False
+193939957;Place des Victoires;False
+194586818;Boulevard Poissonnière;True
+194608795;Rue du Quatre Septembre;False
+194608796;Rue de Richelieu;False
+194608797;Rue Réaumur;False
+195032579;Rue Saint-Denis;False
+196312508;Avenue du Maine;False
+196312509;Avenue du Maine;False
+196330107;Parvis Notre-Dame - Place Jean-Paul II;False
+196524388;Quai de la Tournelle;False
+196696914;Place d'Iéna;False
+196696916;Place de Varsovie;False
+196696917;Place de Varsovie;False
+196731933;Place de la Concorde;False
+196786469;Avenue Joseph Bouvard;False
+196786475;Place Jacques Rueff;False
+196786477;Place Jacques Rueff;False
+196786479;Place Jacques Rueff;False
+196786481;Rue de Rohan;False
+196794657;Avenue Joseph Bouvard;False
+196820524;Rue Saint-Denis;False
+197318185;Place du Panthéon;False
+197336174;Boulevard Saint-Germain;False
+197336176;Place de la Madeleine;False
+197336177;Place de la Madeleine;False
+197340113;Boulevard Haussmann;False
+197340114;Rue du Vieux Colombier;False
+197496582;Avenue Joseph Bouvard;False
+197496656;Avenue Émile Pouvillon;False
+197515292;Rue Montmartre;False
+197591095;Rue Gay-Lussac;False
+197591097;Rue Royer-Collard;False
+197690370;Place Valhubert;False
+197695748;Rue d'Ulm;False
+197982545;;False
+199742057;;False
+200164072;Port de la Bourdonnais;True
+200454185;Place du Louvre;False
+200454186;Place du Louvre;False
+201928194;Accès Parking Saint-Germain des Prés;False
+201956199;Rue des Déchargeurs;False
+202546001;Rue Paul et Jean Lerolle;False
+202546007;Rue Paul et Jean Lerolle;True
+202546009;Rue Paul et Jean Lerolle;False
+203476035;;False
+204056316;Avenue de l'Observatoire;False
+204056317;Boulevard Saint-Germain;False
+204056318;Boulevard Saint-Germain;False
+204056319;Boulevard Saint-Germain;False
+204056323;Boulevard Saint-Germain;False
+204056326;Boulevard Saint-Germain;False
+204056329;Boulevard Saint-Germain;False
+204056332;Boulevard Saint-Germain;False
+204056336;Boulevard Saint-Michel;False
+204056348;Rue de Bellechasse;False
+204056354;Rue de Solférino;False
+204056358;Rue de Villersexel;False
+204090693;Passage Dubail;False
+204090694;Passage des Récollets;False
+204272059;Avenue de la Motte-Picquet;False
+204272060;Avenue de la Motte-Picquet;False
+205214127;Accès Parking Malesherbes Anjou;False
+205214130;Accès Parking Malesherbes Anjou;False
+205227732;Cour Museum;False
+205227733;Cour Museum;False
+205547140;Quai Malaquais;False
+205547142;Quai Malaquais;False
+205547143;;False
+206844938;Boulevard de Strasbourg;False
+207242409;Boulevard Beaumarchais;False
+208079553;Quai des Grands Augustins;False
+209101695;;False
+209876562;Place Henri Salvador;False
+210062186;Rue de Rivoli;False
+214384716;Place de Brazzaville;False
+214384719;Place de Brazzaville;False
+214384738;Rue Saint-Roch;False
+214769369;Rue Cambon;False
+214769370;Rue Rouget de Lisle;False
+214769371;Rue d'Alger;False
+214769372;Rue du 29 Juillet;False
+217543133;;False
+217588511;Rue du Croissant;True
+217860719;;True
+217860722;;True
+217987344;;True
+217987346;;True
+218796352;;False
+219044463;;False
+219044464;;False
+219044465;;False
+219044466;;False
+219044467;;False
+219245861;Boulevard Diderot;False
+219260327;;False
+221586668;Rue Amelot;False
+221586669;Rue Amelot;False
+221586670;Rue Amelot;False
+223007234;Rue Joseph Liouville;False
+226044313;Place de la République;False
+227140523;;False
+227991175;;False
+227991176;Boulevard Saint-Germain;False
+228375353;Quai de Jemmapes;False
+228375354;Place de la République;False
+228375355;Quai de Valmy;False
+229233926;Cour Museum;False
+230125066;Quai Branly;False
+230365760;Rue du Chevalier de Saint-George;False
+230512813;Cité Bergère;False
+231316793;Rue du Roi de Sicile;False
+231317175;Rue de Poitou;False
+231321932;Rue de la Victoire;False
+231935482;Rue de Turbigo;False
+231935483;Rue Beaubourg;False
+231935486;Rue Beaubourg;False
+232054474;Rue Rampon;False
+232895524;Place Saint-Sulpice;False
+233477997;Place Saint-Michel;False
+233477999;Place Saint-Michel;False
+233487384;Place Saint-Michel;False
+233726732;;False
+233726733;;False
+233726734;;False
+235601403;Rue de Rivoli;False
+236740411;Pont de la Grange aux Belles;False
+236740412;Pont de la Rue Dieu;False
+236740413;;False
+236740416;;False
+237932372;Rue Monge;False
+238028634;;False
+238561190;Avenue du Président Kennedy;False
+239076548;Cité Vaneau;False
+241089847;;False
+241387231;Passage Privé;False
+241387233;Passage Privé;False
+241561441;Rue d'Ulm;False
+241561442;Rue d'Ulm;False
+242287889;Rue des Mauvais Garçons;False
+242311134;Avenue Félix Faure;False
+242311135;Place Étienne Pernet;False
+242311136;Rue de Javel;False
+242311220;Rue Blomet;False
+242311223;Rue Blomet;False
+242311575;Rue de Vaugirard;False
+242311746;Rue Mademoiselle;False
+242311747;Rue Théophraste Renaudot;False
+242311751;Rue de la Croix Nivert;False
+242311752;Rue de la Croix Nivert;False
+242311753;Rue des Entrepreneurs;False
+242311760;Rue Lecourbe;False
+242954688;Place de Brazzaville;False
+242954689;Place de Brazzaville;False
+242954692;Place de Brazzaville;False
+242954704;;False
+242954710;;False
+245188701;Rue du Théâtre;False
+245188702;Rue Saint-Charles;False
+245188703;Rue Héricart;False
+245188704;Rue Saint-Charles;False
+245188705;Rue du Théâtre;False
+245258244;Rue Blomet;False
+245258245;Rue Tournus;False
+245258246;Rue Violet;False
+245531393;;False
+247456392;;False
+247456396;;False
+247456400;;False
+247456404;;False
+247516247;Cité Morieux;False
+247516249;Impasse de Presles;False
+247516250;Impasse de Presles;False
+247516251;Impasse de Presles;False
+247516252;Square Théodore Judlin;False
+247516253;Impasse H/15;False
+247516254;Impasse H/15;False
+248153233;Rue de la Fidélité;False
+248153234;Boulevard de Strasbourg;False
+248938194;;False
+249012565;Boulevard de Grenelle;False
+249506280;Avenue du Maréchal Galliéni;False
+249506281;Rue du Dragon;False
+249506282;Rond-Point du Bleuet de France;False
+249882698;;False
+251058109;Rue Scribe;False
+254490264;Rue Saint-Dominique;False
+255109305;Rue du Chemin Vert;False
+255119525;Cour des Métaux;False
+255119526;Cour des Métaux;False
+255119528;Square Pierre et Marie Curie;False
+255477765;Rue de Belloy;False
+259196397;;False
+259196401;;False
+260721323;;False
+260721324;;False
+260872873;Avenue Duquesne;False
+260872875;Boulevard des Invalides;False
+260872877;Boulevard des Invalides;False
+263255744;;False
+263324409;Avenue de New York;False
+264881744;Avenue de Lowendal;False
+264881750;Avenue Roger Cahen;False
+264881752;Quai d'Orsay;False
+264881755;Rue de la Fédération;False
+265704228;Avenue Octave Gréard;False
+268041557;Rue de Varenne;False
+268041559;Rue de Varenne;False
+268041569;;False
+268041571;;False
+268049158;;False
+270569690;Rue Laure Diebold;False
+274062548;;False
+277755449;;False
+279715552;;False
+279715553;;False
+279940313;Passage A/2;False
+281061575;;False
+283484433;Rue de Rivoli;False
+283943974;Rue du Commerce;False
+284302748;Quai de Gesvres;False
+284367743;;False
+284367744;;False
+284531536;Place de la Bastille;False
+284633653;Place de la Concorde;False
+285100235;Rue Saint-Martin;False
+285455257;Boulevard de Vaugirard;False
+289976320;;False
+290820396;Rue de la Cité;False
+291500761;Cour Seine;False
+294799037;Place de la Bastille;False
+294799039;Place de la Concorde;False
+294799052;Rue de Rivoli;False
+294799058;;False
+294804937;Place des Martyrs Juifs du Vélodrome;False
+294804941;Rue de Presbourg;False
+294804942;;False
+294813508;Boulevard Diderot;False
+294826454;Place Beauvau;False
+294826459;Rue de Mogador;False
+294826460;Rue de Saintonge;False
+294826461;Rue de Turenne;False
+294826462;Rue du Petit Musc;False
+294875076;Place de la Bastille;False
+294875077;Place de la Bastille;False
+294875079;Place de la Bastille;False
+294875080;Place de la Bastille;False
+298362205;Boulevard de Magenta;False
+298804022;Passage Commun E/6;False
+298804024;Quai Aimé Césaire;False
+298806030;Passage Commun B/7;False
+298833313;Passage Commun G8;False
+299269005;Rue Jussieu;False
+299269006;Rue Jussieu;False
+299518557;Passage Commun F/15;False
+299518559;Passage Sécurité;False
+299518561;Place Bienvenüe;False
+299518564;Rue Cambronne;False
+299518567;Rue Jules Simon;False
+299518569;Rue Marie Skobtsov;False
+299522890;Passage Commun D/16;False
+300545520;Rue Ambroise Thomas;False
+300545521;Rue Ambroise Thomas;False
+302398795;Avenue de Camoëns;False
+302398802;Boulevard Delessert;False
+303920299;;False
+303920301;;False
+303920302;;False
+303920306;;False
+303920374;;False
+304085262;;False
+304085264;;False
+304085267;;False
+304085269;;False
+305044551;Accès Parking Madeleine Tronchet;False
+305159666;Rue Malar;False
+305159668;Rue Saint-Dominique;False
+305159669;Rue Surcouf;False
+305206034;;False
+306392295;Rue Ferdinand Duval;False
+306392296;Rue Pavée;False
+306392297;;False
+306392440;;False
+306392933;Rue de l'École de Médecine;False
+306399168;Avenue Émile Zola;False
+306399169;Rue Juge;False
+306425208;Rue de Fleurus;False
+306426265;Rue de Montfaucon;False
+306434771;Rue du Colonel Driant;False
+306434772;Rue du Colonel Driant;False
+306435447;Rue du Pont Neuf;False
+307051023;Rue de Mirbel;False
+309201565;Boulevard Jules Ferry;False
+309597280;Rue de Grenelle;False
+310297250;Boulevard Jules Ferry;False
+310297251;Quai de Valmy;False
+310297254;Quai de Valmy;False
+310344613;Rue du Faubourg du Temple;False
+310361817;Quai de Jemmapes;False
+310361818;Rue Beaurepaire;False
+310361819;Rue Bichat;False
+310361820;Rue Léon Jouhaux;False
+310361821;Rue de Lancry;False
+310361822;Rue de la Grange aux Belles;False
+310361823;Rue des Vinaigriers;False
+310361825;Rue du Faubourg du Temple;False
+311560037;Entrée Turbigo;False
+312337578;Rue Falguière;False
+312337582;Rue du Chemin Vert;False
+312607000;Boulevard Jules Ferry;False
+312607002;Quai de Valmy;False
+313694979;Rue de Quatrefages;False
+313694980;Rue de Quatrefages;False
+313695814;Rue Pestalozzi;False
+313695815;Rue Pestalozzi;False
+313695844;Rue Monge;False
+313696549;Rue Censier;False
+313697138;Rue de Navarre;False
+314456032;Avenue de Friedland;False
+314456033;Avenue de Friedland;False
+314456034;Avenue des Champs-Élysées;False
+314456037;Place Charles de Gaulle;False
+314456040;Rue de Tilsitt;False
+316303363;Passage Dubail;False
+318380798;Avenue du Général Lemonnier;False
+320730115;Place Valhubert;False
+321119920;Rue Fondary;False
+321132771;Avenue des Champs-Élysées;False
+321132772;Avenue des Champs-Élysées;False
+321132774;Avenue des Champs-Élysées;False
+321632661;Rue Vivienne;False
+321632865;Rue Feydeau;False
+323605307;Cours Albert 1er;False
+323605308;Quai Aimé Césaire;False
+326041438;Cour des Saints Pères;False
+326041439;Cour des Saints Pères;False
+327041708;Rue Alexandre Cabanel;False
+327041709;Place Dupleix;False
+327041711;Rue Dupleix;False
+327041712;Rue Dupleix;False
+327041713;Rue d'Ouessant;False
+330370915;;False
+330418123;Boulevard Haussmann;False
+330418124;Place de la Madeleine;False
+330436158;Rue de Courcelles;False
+330437738;Avenue de la Motte-Picquet;False
+330438981;Avenue Silvestre de Sacy;False
+330440863;Avenue de Ségur;False
+330440864;Avenue de Ségur;False
+330448964;Rond-Point des Champs-Élysées - Marcel Dassault;False
+330448965;Rond-Point des Champs-Élysées - Marcel Dassault;False
+330448966;Rond-Point des Champs-Élysées - Marcel Dassault;False
+330448967;Rond-Point des Champs-Élysées - Marcel Dassault;False
+331135219;Rond-Point des Champs-Élysées - Marcel Dassault;False
+331135226;Rond-Point des Champs-Élysées - Marcel Dassault;False
+331135229;;False
+331194110;Boulevard des Invalides;False
+331194112;Boulevard des Invalides;False
+331201864;Boulevard des Invalides;False
+331201865;Boulevard des Invalides;False
+331201866;Boulevard des Invalides;False
+331201868;;True
+331277126;Passage du Maure;False
+331277128;;False
+331277129;;False
+331277130;;False
+331363059;;False
+332417248;Rue Alibert;True
+332651288;Avenue Gabriel;False
+333553399;Rue Cambronne;False
+333553400;Rue Cambronne;False
+333779960;Rue Boissy d'Anglas;False
+333835685;;False
+335058742;Impasse Amelot;False
+335229002;Avenue Albert de Mun;False
+335229003;Avenue Albert de Mun;False
+335229004;Avenue Albert de Mun;False
+335229005;Avenue Albert de Mun;False
+335229006;Avenue des Nations-Unies;False
+335229007;Avenue des Nations-Unies;False
+336802391;Avenue Parmentier;False
+337982451;;False
+337982452;;False
+337982453;;False
+337982454;;False
+337982455;;False
+337982456;;False
+338480184;Rue d'Argenteuil;False
+338975793;;False
+338975794;;False
+338976190;;False
+338976191;;False
+338976192;;False
+340127064;;False
+343782447;;False
+343782448;;False
+344370850;;False
+344370851;;False
+344372275;;False
+344381026;Rue de Turbigo;False
+344381027;Rue Étienne Marcel;True
+345318740;Square Sédillot;True
+345318741;Square Sédillot;True
+345318742;Square Sédillot;True
+346097693;Place Cambronne;False
+346097694;Place Cambronne;False
+346385062;Place Raoul Dautry;False
+346960670;;False
+349837120;Rue Chapon;False
+351662955;;False
+351662956;;False
+352839550;Quai de la Mégisserie;False
+352839560;Rue des Lavandières Sainte-Opportune;False
+352973063;;False
+352973065;;False
+355565768;Rue de Rivoli;False
+356108842;Rue Poinsot;False
+356108843;Rue du Maine;False
+357222785;Rue du Château d'Eau;False
+357222786;Rue du Château d'Eau;False
+359831036;Passage Dubail;False
+359831037;Passage Dubail;False
+361292433;Rue de Lobau;False
+361292434;Quai de l'Hôtel de Ville;False
+361292435;Rue de Lobau;False
+362033163;Rue Montmartre;False
+362231913;Avenue Franklin Delano Roosevelt;False
+362231920;Avenue Franklin Delano Roosevelt;False
+362231921;Avenue Montaigne;False
+362231923;Avenue Montaigne;False
+362231927;Avenue Montaigne;False
+362231930;Avenue Montaigne;False
+362231933;Avenue Montaigne;False
+362231936;Avenue Montaigne;False
+362231955;;False
+362231956;;False
+362310456;Avenue de la Motte-Picquet;False
+362310457;Avenue de la Motte-Picquet;False
+362310458;Avenue de la Motte-Picquet;False
+362310459;Avenue de la Motte-Picquet;False
+362310460;Boulevard de Grenelle;False
+362310461;Boulevard de Grenelle;False
+362310462;Boulevard de Grenelle;False
+362310464;Rue Duphot;False
+362310465;Rue Royale;False
+362489567;Place de l'Opéra;False
+362489568;Place de l'Opéra;False
+362489569;Place de l'Opéra;False
+362489570;Place de l'Opéra;False
+362489571;Rue Auber;False
+362489572;Rue de Rivoli;False
+362630285;Passage Saint-Sébastien;False
+362880601;Quai de la Tournelle;False
+363716776;Quai d'Austerlitz;False
+363716777;Quai d'Austerlitz;False
+364241252;;False
+364241253;Rue Saint-Claude;False
+365158932;Avenue Franklin Delano Roosevelt;False
+365158933;Avenue Marceau;False
+365158934;Avenue Marceau;False
+365158935;Avenue Marceau;False
+365158936;Avenue Marceau;False
+365158937;Avenue Matignon;False
+365158938;Avenue Pierre 1er de Serbie;False
+365158939;Avenue des Champs-Élysées;False
+365158940;Avenue des Champs-Élysées;False
+365158941;Avenue des Champs-Élysées;False
+365158942;Place Charles de Gaulle;False
+365158943;Place de la Concorde;False
+365158944;Rue Pierre Charron;False
+365158946;Rue du Boccador;False
+366310964;Avenue Robert Schuman;False
+366310965;Avenue Robert Schuman;False
+366310966;Rue Edmond Valentin;False
+366310967;Rue Edmond Valentin;False
+366310968;Avenue Rapp;False
+366310969;Avenue Rapp;False
+366461373;Boulevard de la Tour Maubourg;False
+366984752;Avenue Foch;False
+368416986;Avenue Duquesne;False
+368539093;Avenue de Ségur;False
+368539094;Avenue de Ségur;False
+368539095;Avenue de Tourville;False
+368539096;;False
+368539099;Place Vauban;False
+368539100;Avenue de Tourville;False
+368539101;Avenue de Tourville;False
+368539102;Avenue Duquesne;False
+368539104;;False
+368542431;Place de Breteuil;False
+368685470;Accès Parking Saint-Sulpice;False
+368899834;Place de la République;False
+369289638;Rue de l'Église;False
+369289639;Rue des Entrepreneurs;True
+369289640;Rue des Entrepreneurs;True
+369430658;Place de Fontenoy - UNESCO;False
+369434372;;False
+369434373;;False
+369434374;;False
+369434376;;False
+369434377;;False
+369434378;;False
+369434379;;False
+369436997;;False
+369436998;;False
+369436999;;False
+369437000;;False
+372275261;;False
+372275262;;False
+372275263;;False
+372275264;;False
+372275265;;False
+372386498;;False
+372386508;;False
+372567876;;False
+372906682;;False
+372906683;;False
+372906684;;False
+372906685;;False
+372907966;;False
+372911684;;False
+373284983;;False
+373285004;;False
+373285007;;False
+373285010;;False
+373285015;;False
+373285019;;False
+373285022;;False
+373285032;Rue Miollis;False
+373339660;;False
+373587443;;False
+373587444;;False
+373587445;;False
+373587446;;False
+373587447;;False
+373587448;;False
+373833238;;False
+373833239;;False
+373833240;;False
+373833241;;False
+373833242;;False
+373833243;;False
+373833244;;False
+373833247;;False
+374056161;Rue La Boétie;False
+374057844;Boulevard Malesherbes;False
+374057845;;False
+374058317;Place de la Madeleine;False
+374058318;Place de la Madeleine;False
+374059571;Place de la Madeleine;False
+374059572;Place de la Madeleine;False
+374059573;Place de la Madeleine;False
+374307560;;False
+374307561;;False
+374307562;;False
+374524743;;False
+374556034;;False
+374914888;;False
+376214217;Quai Henri IV;False
+376511252;Boulevard Richard Lenoir;False
+377629005;Rue de Rivoli;False
+379446073;Place Henri Salvador;False
+379446077;Place Henri Salvador;False
+379446079;Place Henri Salvador;False
+379446081;Rue des Capucines;False
+379447184;Place Henri Salvador;False
+379447185;Place Henri Salvador;False
+380412202;Place Raoul Dautry;False
+381213291;Avenue de Villars;False
+386197807;;False
+386720789;Avenue Roger Cahen;False
+387361021;Rue du Docteur Finlay;False
+387361026;;False
+387434412;;False
+388110137;Sortie Parking Marceau Étoile;False
+389273445;Rue de Bretagne;False
+389273446;Rue de Bretagne;False
+389273447;Rue du Temple;False
+390294215;Boulevard Henri IV;False
+390294216;Boulevard Henri IV;False
+390294217;Boulevard Henri IV;False
+390294218;Boulevard Henri IV;False
+390294220;Rue Saint-Antoine;False
+390294221;Rue de Schomberg;False
+390298283;Rue Pavée;False
+390298284;Rue Vieille du Temple;False
+390298285;Rue de Fourcy;False
+390298286;Rue de Rivoli;False
+390298287;Rue de Rivoli;False
+390298290;Rue de Rivoli;False
+390298292;Rue des Deux Ponts;False
+390298295;Rue des Écouffes;False
+400285512;Rue Jean-Pierre Timbaud;False
+409280801;Rue de Turbigo;False
+409288485;;False
+410931448;Cité de Crussol;False
+410931449;Cité de Crussol;False
+411292100;Rue de Rivoli;False
+413069094;Boulevard Saint-Michel;False
+418144267;;False
+425721590;;False
+425721591;;False
+425721592;;False
+425721593;;False
+425721594;;False
+429684253;Rue des Récollets;False
+429684254;Rue des Récollets;False
+429684255;Rue des Vinaigriers;False
+429684256;Rue des Vinaigriers;False
+429684257;Rue du Faubourg Saint-Martin;False
+430567574;Quai d'Austerlitz;False
+437575745;Villa Garnier;False
+437575746;Villa Garnier;False
+437575747;Villa Garnier;False
+440250835;Boulevard Haussmann;False
+442967695;;False
+444338516;;False
+444338517;;False
+444338519;;False
+444338521;;False
+444338522;;False
+444338523;;False
+444338525;;False
+444338526;;False
+444338527;;False
+444338528;;False
+444338529;;False
+444338530;;False
+444338531;Cours Albert 1er;False
+445367016;Allée Jean-Jacques Servan-Schreiber;True
+448765970;Rue du Faubourg Saint-Honoré;False
+448838657;;False
+448838658;;False
+449952606;Rue Aristide Briand;False
+449952623;;False
+449952625;;False
+452144258;Cours la Reine;False
+454292892;Quai d'Orsay;False
+454298368;;False
+455759570;Rue Linné;False
+455759571;Rue Linné;False
+455759572;Rue Linné;False
+455759573;Rue Linné;False
+455759574;Rue Linné;False
+456259120;Place de la Contrescarpe;False
+457284977;Rue Péclet;False
+458759315;Rue de la Fédération;False
+459018724;Boulevard Pasteur;False
+462813744;Place Mazas;False
+465426977;;False
+465426978;;False
+466690489;Rue Dupetit-Thouars;False
+466690491;Rue Pavée;False
+466690494;Rue des Blancs-Manteaux;False
+467280505;Avenue Victoria;False
+470987530;Avenue des Champs-Élysées;False
+470987531;Avenue des Champs-Élysées;False
+470987532;Avenue des Champs-Élysées;False
+470987535;Avenue de la Grande Armée;False
+472119301;Avenue Gustave V de Suède;False
+474063681;Pont d'Arcole;False
+474072814;;False
+478835107;Boulevard des Italiens;False
+478835108;Boulevard des Italiens;False
+478835109;Boulevard des Italiens;False
+478835110;Rue de Richelieu;False
+478835111;Boulevard Montmartre;True
+478835112;Boulevard des Italiens;False
+479447005;Rue de Lyon;False
+479918613;Boulevard Raspail;False
+479918614;Rue Saint-Dominique;False
+479918615;Boulevard Saint-Germain;False
+479918616;Boulevard Raspail;False
+479918617;Boulevard Saint-Germain;False
+479918618;Boulevard Raspail;False
+479918619;Boulevard Saint-Germain;False
+479918620;Boulevard Saint-Germain;False
+479918621;Boulevard Saint-Germain;False
+479918622;Rue de Solférino;False
+479918623;Boulevard Saint-Germain;False
+479918624;Quai d'Orsay;False
+479918627;Rue du Bac;False
+479918628;Rue du Bac;False
+479918630;Boulevard Saint-Germain;False
+480084086;;False
+480447824;Rue des Lavandières Sainte-Opportune;False
+484620581;Rue de Sèvres;False
+484620582;Boulevard Pasteur;False
+484620583;Boulevard Garibaldi;False
+484620584;Avenue de Breteuil;False
+484620585;Avenue de Breteuil;False
+484620586;Boulevard Garibaldi;False
+484620587;Boulevard Pasteur;False
+484620588;Boulevard Garibaldi;False
+484620589;Boulevard Garibaldi;False
+484620590;Rue de Sèvres;False
+484620591;Rue de Sèvres;False
+484620592;Boulevard Garibaldi;False
+484700579;Rue du Louvre;False
+484700580;Rue du Louvre;False
+486611599;Parking Tour Eiffel;False
+488459376;;False
+488459377;;False
+490694671;Boulevard des Invalides;False
+490745671;;False
+490748418;;False
+491976864;Place de la Concorde;False
+491976865;Place de la Concorde;False
+491976866;Rue de Rivoli;False
+492197956;Boulevard de Strasbourg;False
+492213191;Rue Le Peletier;False
+492213192;Rue Le Peletier;False
+496361341;Rue de Solférino;False
+497412109;;False
+497412110;;False
+497412111;;False
+498108386;Avenue Pierre Mendès France;False
+499172574;Rue Berger;False
+499300051;Rue de la Victoire;False
+499497966;Rue Théophraste Renaudot;False
+499497967;Boulevard Pasteur;False
+499497968;Rue Saint-Martin;False
+499783624;Rue Saint-Denis;False
+499783628;Place de l'Odéon;False
+499783631;Rue de Vaugirard;False
+502174127;Avenue Hoche;False
+503103507;Place Charles de Gaulle;False
+503103508;Place Charles de Gaulle;False
+503103509;Rue de Tilsitt;False
+503356291;;False
+503356607;;False
+503695248;;False
+504029769;Place Saint-Sulpice;False
+505124128;Avenue Kléber;False
+505388256;Boulevard Haussmann;False
+505704031;Allée de Parking - Bateaux Parisiens;True
+505704032;Accès Entrée Parking - Bateaux Parisiens;False
+505704033;Sortie Parking - Bateaux Parisiens;False
+505704035;Quai Branly;True
+505706956;Accès Promenade des Berges de la Seine - André Gorz;True
+505935716;Rue Saint-Antoine;False
+506006521;Boulevard Henri IV;False
+506006522;Pont de Sully;False
+506006523;Pont de Sully;False
+506006524;Rue Saint-Louis en l'Île;False
+506006525;Boulevard Henri IV;False
+506006526;Pont de Sully;False
+506007807;Place de la Bastille;False
+506007809;Place de la Bastille;False
+506059120;Avenue du Président Kennedy;False
+506060403;Avenue de New York;False
+506445446;Rue Monge;False
+506445447;Rue Descartes;False
+506830076;Boulevard Saint-Michel;False
+506830455;Boulevard Saint-Michel;False
+507252496;Boulevard Saint-Michel;False
+507256632;;False
+507256633;;False
+508433003;Rue du 4 Septembre;False
+508992135;Rue de Palestro;False
+509010222;Avenue Émile Zola;False
+511451176;Rue François Miron;False
+514795254;Impasse de Conti;False
+516413082;Quai de l'Hôtel de Ville;False
+516413083;Quai de l'Hôtel de Ville;False
+516413084;Rue de Lobau;False
+516413416;Quai de l'Hôtel de Ville;False
+517040620;Quai d'Orsay;False
+517156261;Place Pablo Picasso;False
+517156264;Place Pablo Picasso;False
+517156266;Place Pablo Picasso;False
+517156268;Place Pablo Picasso;False
+517156281;Rue de Rivoli;False
+517156285;Quai de l'Hôtel de Ville;False
+517156289;Quai du Louvre;False
+517156313;Place de Breteuil;False
+517156314;Place de Breteuil;False
+517156315;Place de Breteuil;False
+517156317;Place de Breteuil;False
+517156332;Place de la Concorde;False
+517156333;Place de la Concorde;False
+517156335;Place de la Concorde;False
+517156336;Place de la Concorde;False
+517156338;Rue de la Croix Nivert;False
+517156351;Rue de Rivoli;False
+517156353;Avenue Victoria;False
+517156354;Place Valhubert;False
+517156355;Quai de Gesvres;False
+517322728;Quai Branly;False
+517322729;Rond-Point des Champs-Élysées - Marcel Dassault;False
+518772703;;True
+518772704;;True
+518772705;;True
+519023655;Quai de l'Horloge;False
+519032092;Rue Monsieur le Prince;False
+519032093;Place Edmond Rostand;False
+520751605;Rue de Sèvres;False
+520751606;Place de Breteuil;False
+521338709;Quai de l'Hôtel de Ville;True
+521481260;Place Valhubert;True
+521481261;Place Valhubert;False
+521496926;;False
+522266410;Place Charles de Gaulle;False
+522497984;Quai de la Tournelle;False
+525927249;Rue de la Fontaine au Roi;False
+526117137;Rue de Crussol;False
+526117139;Rue Rampon;False
+529387721;Boulevard Voltaire;False
+529387722;Boulevard Voltaire;False
+529535632;Rue Saint-Honoré;False
+529535639;;False
+529936848;Avenue de New York;False
+529936849;Avenue de New York;False
+529936850;Avenue de New York;False
+530654072;Rue Falguière;False
+530654078;Rue Falguière;False
+530830463;Voie Georges Pompidou;False
+530874394;;False
+531191273;Rue de la Michodière;False
+531267850;Pont Royal;False
+531655823;Avenue de New York;False
+531658368;Avenue de New York;False
+531658370;Avenue de New York;False
+532181300;Avenue de New York;False
+536777430;;False
+538036865;Rue de Lyon;False
+538550997;Boulevard de Bonne Nouvelle;True
+539315781;Rue de Rome;False
+539317696;;False
+539317700;;False
+539320812;Place de l'Opéra;False
+540563721;Rue Meyerbeer;False
+541411378;Boulevard Saint-Germain;False
+541950959;Rue de Rome;False
+542062550;Rue de la Pépinière;False
+542064424;Rue de la Chaussée d'Antin;False
+542068895;Rue des Mathurins;False
+542068896;Rue Auber;False
+542068897;Rue de Caumartin;False
+542212016;Rue de l'Arrivée;False
+542212017;Rue de l'Arrivée;False
+542827770;;False
+542827771;;False
+542935688;Boulevard Pasteur;False
+543476237;Avenue de la Grande Armée;False
+544549304;Avenue de la Grande Armée;False
+544956648;Rue Halévy;False
+545612376;Rue de Rivoli;False
+545612377;Rue Saint-Martin;False
+545615070;Rue Perrault;False
+545615071;Rue de Rivoli;False
+545615072;Rue Perrault;False
+545616651;Rue de l'Amiral de Coligny;False
+545617466;Rue de l'Amiral de Coligny;False
+545617467;Rue Perrault;False
+545617468;Place du Louvre;False
+547639017;Avenue du Président Kennedy;False
+547693926;Rue Drouot;False
+547693927;Rue La Fayette;False
+547696542;Rue Tronchet;False
+547696545;Rue Tronchet;False
+547696548;Boulevard Haussmann;False
+547703139;Rue de Valois;False
+547703140;Rue de Valois;False
+548171415;Rue Charlot;False
+548171416;Place Olympe de Gouges;False
+548362300;Rue du Faubourg Saint-Martin;False
+548362303;Rue du Faubourg Saint-Martin;False
+548362305;Rue du Faubourg Saint-Martin;False
+548362306;Rue du Faubourg Saint-Martin;False
+548362307;Rue du Faubourg Saint-Martin;False
+548362310;Rue de Lancry;False
+548362311;Rue Yves Toudic;True
+549324039;Avenue Joseph Bouvard;False
+549356384;Villa Fondary;False
+549356385;Passage de la Sorbonne;False
+549930591;Rue Bailleul;False
+550244199;Rue Guynemer;False
+550244200;Rue de Vaugirard;False
+551416291;Rue Saint-Martin;False
+551736403;Cours d'Alger;False
+551736404;Cours d'Alger;False
+551736405;Cours d'Alger;False
+551932770;;False
+552442799;Avenue Ledru-Rollin;False
+552545358;Rue du Pont Louis-Philippe;False
+552557687;Rue des Tournelles;False
+552566847;Boulevard Haussmann;False
+552566851;Rue Charras;False
+553236109;Rue de Fleurus;False
+553236110;Rue Duguay-Trouin;False
+553238877;Rue Daubenton;False
+553238878;Rue de Mirbel;False
+553243171;Rue Descartes;True
+553339897;Avenue Victoria;False
+553504864;Rue d'Aboukir;False
+553722798;Boulevard des Invalides;False
+553772529;Rue de la Pépinière;False
+553772530;Rue Roy;False
+553772532;Boulevard Haussmann;False
+553772533;Avenue Marceau;True
+553772534;Avenue Montaigne;True
+553772535;;True
+554016157;Rue Bertin Poirée;False
+554016158;Rue Bertin Poirée;False
+554170539;;False
+554170540;;False
+554898773;Port Debilly;False
+555199446;Rue du Renard;False
+555208904;Rue du Louvre;True
+555481956;;True
+556453393;Rue de Furstemberg;False
+556453398;Impasse Chartière;False
+556784598;Rue Paul Chautard;True
+556784599;Rond-Point des Champs-Élysées - Marcel Dassault;False
+557026896;Rue des Tournelles;False
+557297166;Pont Neuf;False
+557906980;Rue Lhomond;False
+558558725;Quai Malaquais;False
+558558728;Rue Alexandre Cabanel;True
+558558733;Rue Alexandre Cabanel;False
+560033524;;False
+560033525;;False
+560033526;;False
+560033527;;False
+560033533;Avenue de Tourville;False
+560033535;;False
+560073590;Rue de la Fidélité;False
+560073592;Rue Sibour;False
+560720440;Avenue Kléber;False
+560720445;Avenue Kléber;False
+560720448;Avenue Kléber;False
+560720450;Avenue Kléber;False
+562455021;Cour Seine;True
+563307031;Rue de Sèvres;True
+563402025;Rue Gaston de Saint-Paul;True
+563731990;;False
+563731991;;False
+563731992;;False
+563731994;;False
+563731995;;False
+563731996;;False
+563732000;;False
+563732002;;False
+563754444;Place Valhubert;False
+563869538;Quai de Grenelle;False
+563922695;Place Cambronne;False
+563922696;Place Cambronne;False
+563926492;Place Valhubert;False
+563926495;Quai d'Austerlitz;False
+563926525;Quai de la Rapée;False
+563926529;Quai de la Rapée;False
+563926533;Quai des Célestins;False
+563926537;Quai de l'Hôtel de Ville;True
+564199960;Avenue Kléber;True
+564199961;Avenue Kléber;False
+564199962;Avenue Kléber;False
+565522605;Avenue des Champs-Élysées;False
+565522606;;False
+565522607;Avenue Franklin Delano Roosevelt;False
+565522608;Avenue des Champs-Élysées;False
+565522609;Voie Georges Pompidou;False
+565522610;Place de la Concorde;False
+565884681;Rue des Pyramides;False
+566475371;Rue Balzac;False
+566475374;Rue de Presbourg;False
+566475375;Rue de Presbourg;False
+566475376;Rue de Presbourg;False
+566475377;Avenue Victor Hugo;False
+566475380;Avenue Carnot;False
+566475381;Avenue Hoche;False
+569249746;Rue de l'Amiral Hamelin;False
+569249748;Avenue Kléber;False
+569249749;Avenue Kléber;False
+569249750;Avenue Kléber;False
+569249752;Avenue Kléber;False
+569946818;Rue Cloche Perce;False
+569948204;Rue de Rivoli;False
+569948205;Rue de Rivoli;False
+570738519;Boulevard de l'Hôpital;True
+570738521;Boulevard de l'Hôpital;True
+570738524;Boulevard de l'Hôpital;True
+570738526;Boulevard de l'Hôpital;True
+570738529;Boulevard de l'Hôpital;True
+571701523;Rue de Javel;False
+571701530;Rue de la Croix Nivert;False
+571701531;Rue de Javel;False
+572518381;Avenue de Tourville;False
+572518383;Rue Joseph Granier;False
+572518387;Avenue de Tourville;False
+572518389;Avenue de Tourville;False
+572518391;Boulevard de la Tour Maubourg;False
+572518393;Boulevard de la Tour Maubourg;False
+572518395;Avenue de Tourville;False
+572518398;Place Vauban;False
+572518399;Avenue de Ségur;False
+572518401;Place Vauban;False
+572518403;Avenue Duquesne;False
+572518405;Avenue Duquesne;False
+573577557;Rue de l'Université;True
+573577558;Rue de l'Université;False
+573577559;Avenue Franco-Russe;False
+573577560;;False
+573577561;Rue de l'Université;False
+573577562;Rue de l'Université;False
+573577563;;False
+573577564;;False
+573577565;;False
+573577566;Rue du Champ de Mars;False
+573577567;Rue de Grenelle;False
+573577568;Avenue de la Bourdonnais;False
+574202899;Avenue du Président Wilson;False
+574202900;Avenue du Président Wilson;False
+574202901;;False
+574202902;;False
+574335116;;False
+574681654;Boulevard Bourdon;False
+575540267;;False
+576429475;Rue Charlemagne;False
+576429476;Rue Charlemagne;False
+576429477;Rue du Prévôt;False
+576429481;Rue des Rosiers;False
+576429482;Rue Pavée;False
+576429483;Rue des Rosiers;False
+576429484;Rue des Rosiers;False
+576429485;Rue Pavée;False
+576429486;Rue des Rosiers;False
+576429487;Rue des Rosiers;False
+576429488;Rue Ferdinand Duval;False
+576429489;Rue des Écouffes;False
+577514483;;False

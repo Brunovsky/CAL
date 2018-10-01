@@ -1,0 +1,1249 @@
+2664397;Douglas Street;False
+2664416;Canterbury Road;False
+2692866;Enmore Road;False
+3169504;Regent Street;False
+3169553;Railway Terrace;False
+3914672;Norton Street;False
+4332318;Hawthorne Parade;False
+4332335;Reserve Street;False
+4332356;Albion Street;False
+4332369;Corunna Road;False
+4332388;Young Street;False
+4547172;Gordon Street;False
+4574852;Albany Road;False
+4574856;Bruce Street;False
+4596446;Harrow Road;False
+4606118;Longport Street;False
+4606124;Sloane Street;False
+4624941;Garners Avenue;False
+4625008;Edinburgh Road;False
+4625027;Fitzroy Street;False
+4625137;Merchant Street;False
+4625143;Cavendish Street;False
+4638800;Corunna Road;False
+4638801;Charles Street;False
+4651852;Abergeldie Street;False
+4688067;Constitution Road;False
+4688483;;False
+4705654;Webbs Avenue;False
+4782630;Dixson Avenue;False
+4786954;Percival Road;False
+4786956;Northumberland Lane East;False
+4786957;Salisbury Lane;False
+4786958;Albany Lane;False
+4786959;Macaulay Lane;False
+4848043;Victoria Lane;False
+4848063;Weston Street;False
+4948249;College Lane;False
+4969747;Annandale Street;True
+4969803;Ferris Street;True
+5001110;Albion Lane;True
+5035205;Bruce Lane East;True
+5035214;Temple Street;True
+5035230;Myrtle Street;True
+5035232;Clarendon Street;True
+5035825;Harrow Lane;True
+5035911;Budds Lane;True
+5036108;Percival Lane West;True
+5036123;Myrtle Lane West;True
+5036131;Northumberland Lane;True
+5036134;Albany Lane;True
+5036139;Clarendon Lane West;True
+5036145;Lorna Lane;True
+5046216;Station Street;True
+5046899;Constitution Road;True
+5046905;Windsor Road;True
+5050361;Elswick Street;True
+5050698;Albert Street;True
+5050701;Reuss Street;True
+5050705;Ivory Street;True
+5050706;Seale Street;True
+5050711;;True
+5050716;Elswick Lane;True
+5050718;Edith Lane;True
+5050719;Edith Street;True
+5050720;Treadgold Street;True
+5050722;Treadgold Street;True
+5050723;Treadgold Street;True
+5050750;Frenchs Lane;True
+5233075;Gower Street;True
+5233076;Ormond Street;True
+5311692;Cromwell Street;True
+5311739;Edith Street;True
+5312039;Hawthorne Parade;True
+5312056;Lord Street;True
+5312086;Sloane Street;True
+5312163;Nicholls Avenue;True
+5312173;Logan Avenue;True
+5312196;Haberfield Road;True
+5312228;Percy Street;True
+5312953;Wallace Street;True
+5312984;Federal Avenue;True
+5313018;Pembroke Street;True
+5313124;Oak Street;True
+5313256;Loftus Street;True
+5313280;Cecil Street;True
+5711080;;True
+6266071;Old Canterbury Road;True
+6267719;Surrey Street;True
+7284074;Faversham Street;True
+7309835;Hans Place;True
+10263379;Edinburgh Road;False
+10726434;Bruce Street;False
+13854877;Gould Avenue;False
+13858769;Victoria Road;False
+14936009;;False
+15500457;Allman Avenue;False
+15654082;Brown Street;False
+16117484;Liverpool Road;False
+16117485;Liverpool Road;False
+16844160;Flood Street;False
+16844161;Elswick Street;False
+19557615;Marrickville Road;False
+19960359;National Street;False
+19960362;Easter Street;False
+20091149;Percival Lane East;False
+22820106;O'Connor Street;False
+22892608;Ramsay Street;False
+22892701;Hawthorne Parade;False
+23009622;;False
+23009794;Constitution Road;True
+23024132;Percival Road;False
+23272363;Railway Street;False
+23272614;Dover Street;False
+23272741;St Davids Road;False
+23273262;West Street;False
+23279438;William Street;False
+23279442;Brown Street;False
+23457849;Davis Street;False
+23692838;Brighton Street;False
+23799423;Union Street;False
+23799438;Garnet Street;False
+23799535;Windsor Road;False
+23988433;Seaview Street;False
+24017998;Fairfowl Street;False
+24017999;Fairfowl Street;False
+24018001;Yule Street;False
+24018080;Wardell Road;False
+24235259;Margaret Street;False
+24235260;Charles Street;False
+24256324;Douglas Street;False
+24294736;Northumberland Avenue;True
+24366727;Douglas Street;True
+24414349;Cannon Street;True
+24415687;Clark Street;True
+24415783;Railway Street;True
+24459754;Flood Street;True
+24459756;;True
+24602769;Haig Avenue;True
+25675278;Barker Lane;True
+26303339;Davis Street;True
+26342048;Alfred Street;True
+26828966;Durham Street;True
+27030265;Flood Street;False
+27730880;Hawthorne Parade;False
+28046032;Norton Street;False
+30778878;Johnston Street;False
+32354207;Margaret Street;False
+32356778;Windsor Road;False
+32356779;Windsor Road;False
+32356782;Pigott Street;False
+32356796;Morgan Street;False
+41890529;Parramatta Road;False
+41890530;Parramatta Road;False
+45159552;Herbert Street;False
+46579815;Old Canterbury Road;False
+46710794;Flood Street;False
+46710796;Railway Terrace;False
+46739826;Salisbury Road;False
+47485949;Albany Road;False
+47485952;Northumberland Street;False
+47518038;Merchant Street;False
+47518043;Northumberland Avenue;True
+47518044;Corunna Road;True
+47520047;National Street;True
+47520048;Albert Street;True
+47520050;Corunna Road;True
+47520051;Albany Road;True
+47520052;Percival Road;True
+48626425;Carlton Crescent;False
+48787394;Channel Street;False
+48806442;Macaulay Lane West;False
+48892956;Edinburgh Road;False
+49039976;;False
+49132711;Hercules Street;False
+49965354;Balmain Road;False
+50336997;;False
+50336999;;False
+53268966;Lords Road;False
+55887540;Chandos Street;False
+58696549;Hunter Street;False
+67462602;Elswick Street;False
+67462603;Elswick Street;False
+72501988;;False
+75049138;Percival Lane West;False
+76176297;Bruce Lane West;False
+76717625;Toothill Street;False
+83600111;Ivory Lane;False
+91631470;St John Street;False
+108570457;Percival Road;False
+117632012;Percival Road;False
+129736086;Margaret Street;False
+130092361;Young Street;False
+131359109;;False
+131469439;Beach Road;False
+131469440;Brighton Street;False
+131469441;Constitution Road;False
+131469442;Denison Road;False
+131469444;Parramatta Road;False
+131469445;Parramatta Road;False
+131469446;Phillip Street;False
+131469448;Whites Creek Lane;False
+131469450;;False
+131469451;;False
+133421647;;False
+143473965;Hobbs Street;False
+143473966;Victoria Street;False
+143473967;Henry Lane;False
+143473968;Victoria Street;False
+143473970;Fred Street;False
+143473971;Summer Hill Street;False
+143473972;Eltham Street;False
+143473973;Toothill Lane;False
+143473975;Victoria Street;False
+143473976;Jubilee Street;False
+143473983;Henry Street;False
+143473987;Victoria Street;False
+143474356;Denison Road;False
+143474358;Eltham Street;False
+143474911;Nelson Street;False
+143474912;Short Street;False
+143474914;Little Street;False
+143475476;Eltham Street;False
+143475477;The Boulevarde;False
+143475478;The Boulevarde;False
+143478397;Lewisham Street;False
+143478399;Hill Street;False
+143478402;;False
+143478403;;False
+143478404;Constitution Road;False
+143478406;Grove Lane;False
+143478407;;False
+143478409;Constitution Road;False
+143478411;Dulwich Street;False
+143478412;Constitution Road;False
+143478413;Grove Street;False
+143478414;Caves Lane;False
+152567294;Duntroon Street;False
+156710366;Liverpool Road;False
+156710367;Liverpool Road;False
+156710368;;False
+156710370;Liverpool Road;False
+156714970;Liverpool Road;False
+156714973;Liverpool Road;False
+156714976;Parramatta Road;False
+156714978;Parramatta Road;False
+164139987;Parramatta Road;False
+164406892;Parramatta Road;False
+164407520;Parramatta Road;False
+164407521;Parramatta Road;False
+164407522;Parramatta Road;False
+164407524;Parramatta Road;False
+164407573;Parramatta Road;False
+164407574;Parramatta Road;False
+164408184;;False
+164408758;Parramatta Road;False
+164409186;Parramatta Road;False
+165902388;Hanks Street;False
+166434306;Dalhousie Street;False
+166434349;Marion Street;False
+166434350;Marion Street;False
+166434351;Marion Street;False
+166434507;Marion Street;False
+166434509;;False
+166440269;Catherine Street;False
+166440270;Catherine Street;False
+166440271;Catherine Street;False
+166764036;New Canterbury Road;False
+166764038;Wattle Lane;False
+166764044;New Canterbury Road;False
+166764049;Stanmore Road;False
+166765356;;False
+166765357;New Canterbury Road;False
+166765358;New Canterbury Road;False
+166765360;New Canterbury Road;False
+166765362;New Canterbury Road;False
+166765363;New Canterbury Road;False
+166766833;Stanmore Road;False
+166766835;New Canterbury Road;False
+166766836;Stanmore Road;False
+166769045;Junction Road;False
+166769047;Robert Street;False
+166769049;Robert Street;False
+166769050;Prospect Road;False
+166769051;Prospect Road;False
+166769052;Prospect Road;False
+166769056;Prospect Road;False
+166769059;;False
+166769060;Prospect Road;False
+166769061;Prospect Road;True
+166769223;;True
+166769224;Junction Road;True
+166800662;Henson Street;True
+166800663;Henson Street;True
+166800664;James Street;True
+166800986;Old Canterbury Road;True
+166800987;Old Canterbury Road;True
+166800990;Old Canterbury Road;True
+166800991;Old Canterbury Road;True
+166800992;Old Canterbury Road;True
+167699912;Old Canterbury Road;False
+167699913;Old Canterbury Road;False
+167699914;Old Canterbury Road;False
+167700356;Barker Street;False
+167700357;Thomas Street;False
+167700359;Barker Street;False
+167700360;Barker Street;False
+167700442;Station Street;False
+167700558;;False
+167700562;Croydon Street;False
+167700683;Elswick Street;False
+167700684;Railway Street;False
+167700685;;False
+167700686;Charles Street;False
+167706032;Terminus Street;False
+167706033;Terminus Street;False
+167706038;Railway Street;False
+167706341;;False
+167706627;York Crescent;False
+168091675;West Street;False
+168091677;West Street;False
+168092213;Brighton Street;False
+168092914;Parramatta Road;False
+168094351;Kintore Street;False
+168094352;;False
+168095350;Hercules Street;False
+168095351;Hercules Street;False
+168095352;Consett Street;False
+168095353;Consett Street;False
+168097077;Ewart Street;False
+168097482;The Parade;False
+168792644;Grosvenor Crescent;False
+168792645;Grosvenor Crescent;False
+168792649;Grosvenor Crescent;False
+168792652;Grosvenor Crescent;False
+168792653;;False
+168792656;Grosvenor Crescent;False
+168794154;Carlton Crescent;False
+168794155;Carlton Crescent;False
+168794157;Carlton Crescent;False
+168794160;Fleet Street;False
+168794164;Chapman Street;False
+168794934;Liverpool Road;False
+168794938;Carlton Crescent;False
+168797220;;False
+168797222;Nottle Street;False
+168797226;Norton Street;False
+168797227;Norton Street;False
+168801666;Victoria Street;False
+168801667;Smith Street;False
+168801668;;False
+168801669;Smith Street;False
+168801670;Smith Street;False
+168801671;Chapman Street;False
+168801672;Smith Street;False
+168801673;Victoria Street;False
+168801674;;False
+168801838;;False
+168801839;Lackey Street;False
+168801841;Hardie Avenue;False
+168801842;Fleet Street;False
+168802436;Old Canterbury Road;False
+168802438;Lorne Street;False
+168802439;Old Canterbury Road;False
+168802444;Herbert Street;True
+168802445;Old Canterbury Road;True
+168802446;Moonbie Street;True
+168802491;Edward Street;True
+168802564;Henson Street;True
+168802565;Henson Street;True
+168802566;Henson Street;True
+168817451;Drynan Street;True
+168817452;Junction Road;True
+168817453;Regent Street;True
+168817454;Junction Road;True
+168817749;Bartlett Street;True
+168819001;Teakle Street;True
+168819002;;True
+168819003;Spencer Street;True
+168819004;Lindsay Avenue;True
+168819005;Carrington Street;True
+168819006;;True
+168819007;;True
+168819008;Short Street;True
+168819009;Short Street;False
+168819012;Morris Street;False
+168819190;Davis Street;False
+168819191;Pigott Street;True
+168819192;Fairmount Street;True
+168819193;Rosedale Street;True
+168819194;Davis Street;True
+168819820;Seaview Street;True
+168819821;;True
+168819822;;True
+168819824;Seaview Street;True
+168820567;Frazer Street;True
+168820568;Porter Avenue;True
+168820820;Napier Street;True
+168820821;Miller Street;True
+168820822;Morgan Street;True
+168820823;Morgan Street;True
+168820824;Miller Lane;True
+168821170;New Canterbury Road;True
+168821171;West Street;True
+168821172;Ducros Street;True
+168821173;New Canterbury Road;True
+168821176;West Street;True
+168822969;Macaulay Road;True
+169674101;Parramatta Road;False
+169674109;Parramatta Road;False
+169674136;Parramatta Road;False
+169674263;Parramatta Road;False
+170048356;Tebbutt Street;False
+170048357;Tebbutt Street;False
+170048358;Tebbutt Street;False
+170048519;Cook Street;False
+170048520;Brown Street;False
+170048521;Tebbutt Street;False
+170048522;Tebbutt Street;False
+170048523;Brown Street;False
+170048524;Brown Street;False
+170048525;Hathern Street;False
+170048526;Cook Street;False
+170048527;Hathern Street;False
+170048528;St John Lane;False
+170048844;Foster Street;False
+170048846;Foster Street;False
+170509567;;False
+170532938;Harland Street;False
+170532939;Holwood Avenue;False
+170532942;Holwood Avenue;False
+170532943;Victoria Street;False
+170532945;Victoria Street;False
+170532946;Griffiths Street;False
+170532947;Victoria Street;False
+170532948;Victoria Street;False
+170532950;Victoria Street;False
+170533485;Victoria Square;False
+170533486;Victoria Square;False
+170533488;Arthur Street;False
+170533489;Seaview Street;False
+170533491;Victoria Square;False
+170533492;Clissold Street;False
+170533494;Tintern Road;False
+170533496;Victoria Square;False
+170533497;William Street;False
+170533498;;False
+170533499;Seaview Street;False
+170533751;Rosemount Avenue;False
+170533752;Herbert Street;True
+170533753;;True
+170533754;Seaview Street;True
+170533983;Hurlstone Avenue;True
+170533984;;True
+170533985;Constitution Road;False
+170533986;Constitution Road;False
+170533988;Arlington Street;False
+170533989;Constitution Road;False
+170533990;Arlington Street;False
+170533991;Constitution Road;False
+170533993;;False
+170533994;Hurlstone Avenue;False
+170553655;Yeo Avenue;False
+170818678;;False
+170818679;;False
+170818684;;False
+170855239;;False
+170855240;;False
+170855241;;False
+170855242;;False
+171685453;;False
+172324179;Parramatta Road;False
+172324221;;False
+172324251;Wentworth Street;False
+172324258;Addison Road;False
+172324260;Jarvie Avenue;False
+172324272;The Boulevarde;False
+172324274;Morton Avenue;False
+172324292;Gould Lane;False
+172324308;Allans Avenue;False
+172324340;West Street;False
+172324341;Maria Street;False
+172324346;Vernon Street;False
+172324364;Gould Lane;False
+172401003;Albion Street;False
+172420864;Sydenham Road;False
+172420865;Victoria Road;False
+172420866;Wardell Road;False
+172421985;Sydenham Road;False
+172421989;Cook Street;False
+172421990;Thompson Street;False
+172421992;Horton Street;False
+172421993;Holmesdale Street;False
+172421997;Woodland Street;False
+172421998;Amy Street;False
+172422000;Illawarra Road;False
+172918045;Illawarra Road;False
+172918047;Livingstone Road;False
+172918072;Balfour Street;False
+172942434;North Avenue;False
+172942439;Macquarie Street;False
+172942442;Emily Street;False
+172942443;Macquarie Street;False
+172942449;Hearn Street;False
+172942451;South Avenue;False
+172942454;Phillip Street;False
+172944206;Temple Lane;False
+172944207;Douglas Lane;False
+172944904;Crystal Street;False
+172944906;Westbourne Lane;False
+172946684;Palace Street;False
+172946685;Petersham Street;False
+172946686;Westbourne Street;False
+172946687;Cannon Lane;False
+172946688;Fort Street;False
+172946689;Fort Street;False
+172946690;Hordern Avenue;False
+172946691;Robert Street;False
+172946692;Queen Street;False
+172946693;Gordon Crescent;True
+172946694;Fort Street;True
+172947627;;True
+172947628;;True
+172947629;Roseby Street;True
+172947630;Rofe Street;True
+172947631;Renwick Street;True
+172947632;Junior Street;True
+172947633;Excelsior Street;True
+172947634;Day Street;True
+172947636;Thornley Street;True
+172947637;Cary Street;True
+172947638;Jarrett Street;True
+172956003;Hastings Street;True
+172956004;Neville Street;True
+172956005;Petersham Road;False
+172956006;Newington Road;False
+172956007;Frampton Lane;False
+172956008;Centennial Street;False
+172956009;Despointes Street;True
+172956010;Meeks Road;True
+172956011;Broadleys Lane;True
+172956012;Essex Street;True
+172956013;Middle Street;True
+172956014;Norwood Lane;True
+172956015;Middleton Street;True
+172956016;Frampton Avenue;True
+172956017;Malakoff Street;True
+172956018;Neville Lane;True
+172956019;;True
+172956020;Surrey Street;False
+172956021;Park Road;False
+172956022;Bright Street;False
+172956023;East Street;False
+172956024;Woodbury Street;False
+172956025;Harrison Street;False
+172956026;Enfield Street;False
+172956027;England Avenue;False
+172956028;Stanley Street;False
+172956029;North Street;False
+172956032;Illawarra Road;False
+172956034;Albert Street;False
+172956036;Petersham Road;False
+172956037;Anderton Street;False
+172956038;Marshall Street;False
+172956039;Silver Street;True
+172992014;Benham Street;True
+172992015;Blairgowrie Street;True
+172992016;Garnet Street;True
+172992017;Melford Street;True
+172992018;Fernhill Street;True
+172992019;Gelding Street;True
+172992021;Hampstead Road;True
+172992022;Crinan Street;True
+173058050;George Street;True
+173058052;Pile Street;True
+173058059;Fairfowl Street;True
+173058062;Boland Lane;True
+173058064;Hawkhurst Street;True
+173058072;Boland Lane;True
+173058073;Gorman Street;True
+173058078;Farr Street;True
+173058094;Charlecot Street;True
+173058098;Lincoln Street;True
+173058103;Brereton Lane;True
+173093039;Young Lane;True
+173093063;Reserve Lane;True
+173093092;MacKenzie Street;False
+173093097;Prospect Street;False
+173093153;Skelton Street;False
+173093363;Redmond Street;False
+173093394;Centre Street;False
+173093452;;False
+173113048;Albion Street;False
+173252474;Shepherd Street;False
+173252475;Pritchard Street;False
+173252476;Philpott Street;False
+173252477;Alma Avenue;False
+173252478;Cowper Street;False
+173252479;;False
+173252480;Denby Street;False
+173252481;Pritchard Street;False
+173252482;Agar Street;False
+173252483;Harrington Street;False
+173252484;Chapel Street;False
+173252487;;False
+173252489;Gordon Street;False
+173252490;Handley Street;False
+173252491;Fotheringham Lane;False
+173252492;Perry Street;False
+173252493;Stevens Lane;False
+173252494;Browns Avenue;False
+173252495;Fahey Lane;False
+173252496;Wemyss Street;False
+173252497;Fotheringham Lane;False
+173252499;York Street;False
+173305672;Rosevear Street;True
+173306471;Ravenue Lane;True
+173306473;Durham Lane;True
+173306474;Ravenue Lane;True
+173306475;Durham Street;False
+173306476;Warwick Lane;False
+173306477;Warwick Street;False
+173308914;Myrtle Lane;False
+173308915;Clarendon Lane;False
+173308917;Stanmore Lane;False
+173308918;Crescent Lane;False
+173308919;Percival Road;False
+173308922;;False
+173308923;Percival Lane East;False
+173308924;Stanmore Lane;False
+173308926;Railway Avenue;False
+173309340;Crystal Street;False
+173309344;Crystal Street;False
+173416779;Coronation Avenue;False
+173416780;Brompton Street;False
+173416782;Lawson Avenue;False
+173416789;;False
+173416790;Gordon Square;False
+173416795;Garners Lane;False
+173416796;Barnsbury Grove;False
+173416798;Graham Avenue;False
+173416799;Convent Lane;False
+173416800;Sydenham Road;False
+173416803;Carew Lane;False
+173416807;Fairfowl Lane;False
+173416808;Mitchell Street;False
+173416812;Rich Street;False
+173416815;Edward Street;False
+173416817;Warham Lane;False
+173416825;Stoke Avenue;False
+173416832;Rose Street;False
+173428762;Chester Street;False
+173428764;Trafalgar Street;True
+173428765;Marshall Lane;True
+173428771;Bishop Street;True
+173428772;McRae Street;True
+173428773;;False
+173428774;Holt Street;False
+173428775;;False
+173428778;James Street;False
+173428780;;False
+173428781;Miller Street;False
+173428782;Audley Street;False
+173428783;Oxford Street;False
+173428784;Newington Road;False
+173428785;Cambridge Street;False
+173428787;Rosford Avenue;False
+173428788;College Lane;False
+173428791;Belgrave Street;False
+173428793;Holt Street;False
+173431852;;False
+173431855;Wallace Lane;False
+173431856;Canterton Street;False
+173431858;Gower Street;False
+173431860;Duntroon Lane;False
+173431863;Duntroon Street;False
+173431866;;False
+173431869;Terrace Road;False
+173431872;Myra Lane;False
+173431873;Barre Street;False
+173431874;The Avenue;False
+173431876;Hercules Lane;False
+173431877;Terrace Lane;False
+173431878;Floss Street;False
+173431879;Hampden Street;False
+173431881;Euston Road;False
+173431882;Woodside Avenue;False
+173431884;Hercules Street;False
+173431886;Barton Avenue;False
+173431888;Garnet Lane;False
+173524130;Lilydale Street;False
+173524131;Woodcourt Street;False
+173524132;Fotheringham Street;False
+173524134;Vincent Street;False
+173524135;Hospital Lane;False
+173524136;Broadleys Lane;False
+173524137;;False
+173524138;Short Street;False
+173524140;Cecilia Street;False
+173524141;Depot Lane;False
+173524143;Victoria Lane;False
+173524144;Tupper Street;False
+173524146;Woodcourt Street;True
+173524890;;False
+173524893;;False
+173524894;;False
+173525396;Ness Avenue;False
+173525398;Garnet Street;False
+173525400;Allans Avenue;False
+173525404;Garnet Street;False
+173553960;Stanley Lane;False
+173553961;Stanley Street;False
+173627191;;False
+173627195;Sloane Street;False
+173627204;Jabez Street;False
+173627205;Chapel Street;False
+173627214;Chapel Lane;False
+173627215;Marrickville Lane;False
+173627219;Chalder Lane;False
+173627223;;False
+173627225;;False
+173627227;Newington Road;False
+173627229;Saywell Street;False
+173627234;Addison Road;False
+173627238;King Street;False
+173627240;Frampton Lane;False
+173627251;Chalder Street;False
+173627253;Sebastopol Street;False
+173627254;;False
+173627259;Chalder Avenue;False
+173627264;Cadogan Lane;False
+173627265;Smith Street;False
+173627266;Chalder Street;False
+173627272;Handley Lane;False
+173627278;Sloane Lane;False
+173633955;Bent Street;False
+173633957;Trafalgar Street;False
+173633958;Church Street;False
+173633960;Trafalgar Street;False
+173633961;Trafalgar Street;False
+173633962;Frederick Street;False
+173633963;Hopetoun Street;False
+173633964;Merton Street;False
+173633965;Livingstone Road;False
+173633966;Trafalgar Street;False
+173633968;Bent Street;False
+173633969;Merton Street;False
+173633970;Trafalgar Street;False
+173633971;Aubrey Street;False
+173633972;Merton Street;False
+173633973;Fisher Street;False
+173633974;Cavendish Lane;False
+173633975;Railway Terrace;False
+173633976;;False
+173633977;;False
+173633978;Livingstone Road;False
+173633979;Frederick Street;False
+173674890;Stanton Road;False
+173678467;Sloane Street;False
+173678468;Sunning Place;False
+173678469;Bogan Street;False
+173678473;Kensington Road;False
+173682268;Rogers Avenue;False
+173682272;Tideswell Street;False
+173683235;Longport Street;False
+173710572;;False
+173710577;Hughes Street;False
+173710581;Corunna Lane;False
+173710588;;False
+173710589;Margaret Lane;False
+174125089;Challis Avenue;True
+174126418;Ewart Lane;True
+174126421;Wilga Avenue;True
+174126424;Darley Street;True
+174126425;Durham Street;True
+174126426;Hugh Avenue;True
+174126427;Ross Street;True
+174126430;Kroombit Street;True
+174126433;May Street;True
+174126435;Wardell Lane;True
+174126436;Harney Street;True
+174126437;Kays Avenue West;True
+174126438;Fletcher Street;True
+174126442;Jesmond Avenue;True
+174126443;Clargo Street;True
+174126445;Margaret Street;True
+174126447;Robert Street;True
+174126448;South Street;True
+174126449;Petersham Road;True
+174126451;Kintore Street;True
+174126452;Union Street;True
+174126454;David Street;True
+174126456;Elizabeth Avenue;True
+174126457;Canonbury Grove;True
+174126459;Bedford Crescent;True
+174126460;Keith Street;True
+174126461;Arthur Street;False
+174126463;Johnson Avenue;False
+174126464;Keith Lane;False
+174126467;MacArthur Parade;False
+174126469;Francis Street;False
+174126471;Pine Street;False
+174126475;Cobar Street;False
+174126476;Mill Street;False
+174126477;Mill Lane;False
+174126818;Crawford Place;False
+174126819;Crawford Place;True
+174127765;Maddock Street;True
+174127766;Manchester Street;True
+174134609;;True
+174134615;Burfitt Street;True
+174135614;Loftus Street;True
+174135615;;True
+174135616;St John Street;True
+174135617;Little Brighton Street;True
+174135618;Cook Street;True
+174135620;Pearce Lane;True
+174135621;Weston Street;True
+174135622;Brighton Street;True
+174135623;Barker Street;False
+174135624;Station Street;False
+174135626;Upward Street;False
+174135627;Edward Lane;False
+174135628;The Avenue;False
+174135629;Crystal Lane West;False
+174135630;Carrington Street;False
+174135631;George Street;False
+174135632;Windsor Lane;False
+174135633;Kegworth Street;False
+174135634;Searl Street;False
+174135635;Thomas Street;False
+174135636;;False
+174135637;Andreas Street;False
+174135638;Denison Road;False
+174135639;Palace Street;False
+174135640;McAleer Street;False
+174135641;Beeson Street;False
+174136350;Nelson Place;False
+174136351;Sadlier Crescent;False
+174136352;;False
+174136353;;False
+174405619;;False
+174405620;;False
+174405621;;False
+174405622;;False
+174545896;Flood Street;False
+174545897;;False
+174545898;Davies Street;True
+174546461;Renwick Lane;False
+174546673;;False
+174575904;Constitution Lane;False
+174575905;;False
+174575993;Williams Parade;False
+174591403;Union Lane;False
+174591495;Union Street;False
+174591496;Myra Road;False
+174592313;Garnet Lane;False
+174592976;Morgan Street;False
+174592977;Herbert Street;False
+174592978;Wardell Road;False
+174592979;Herbert Street;False
+174594087;Addison Road;False
+174594088;Morgan Street;False
+174594095;Llewellyn Street;False
+174594096;Addison Road;False
+174594369;Cadogan Street;False
+174594370;Saywell Street;False
+174603237;Margaret Street;False
+174603238;Elswick Street;False
+174603239;Railway Street;False
+174603245;Westbourne Street;False
+174619209;Balanaming Lane;False
+174619268;Audley Lane;False
+174619269;Able Lane;False
+175582718;Shaw Street;True
+175582720;Crystal Street;True
+175582915;John Street;True
+175697709;Able Lane;True
+175697732;Gordon Lane;True
+175697749;Audley Lane;True
+176324331;;True
+176605537;Denning Street;True
+176605538;William Street;True
+176728116;;False
+176728117;;False
+176728118;;False
+177119372;Grimmond Avenue;False
+177119374;;False
+177119375;;False
+177119377;;False
+177119378;Ormond Street;False
+177121593;Sloane Street;False
+177121594;;False
+177121596;Kensington Road;False
+177125384;Nestor Lane;False
+177125386;Park Street;False
+177125388;Barker Street;False
+177125390;Thomas Street;False
+178407944;;False
+178407945;;False
+178407946;Blairgowrie Lane;False
+178408155;Herbert Street;False
+178410035;South Avenue;False
+178411571;McDonald Street;False
+178411576;Dot Lane;False
+178940719;Reserve Street;False
+178940723;Mayes Street;False
+179059135;Ramsay Street;False
+179582915;Hay Street;False
+179583815;;False
+179584665;;False
+179584668;;False
+179590751;;False
+179590752;;False
+180086042;Kroombit Lane;False
+180086306;Dunstaffenage Street;False
+180086311;Dunstaffenage Street;False
+180105882;Duntroon Street;False
+180105885;Duntroon Street;False
+180105886;Floss Street;False
+180106267;;False
+180106703;Wallace Avenue;False
+180106833;Morton Avenue;False
+180107495;Fairfowl Street;False
+180107498;Loftus Street;False
+180108443;Blackwood Avenue;False
+180108977;;False
+180108978;;False
+180109114;;False
+180109115;Hudson Street;False
+180109116;McGill Street;False
+182294327;Addison Road;False
+182294332;;False
+182295551;Tuohy Lane;False
+182295552;Centennial Street;False
+182295554;Sydenham Road;False
+182295556;Petersham Road;False
+182295558;Sydenham Road;False
+182308444;Trafalgar Street;False
+182308449;Newington Road;False
+182308450;Trafalgar Street;True
+182308452;Newington Road;True
+182308457;Holt Street;True
+183499039;;False
+193243269;;True
+195193945;Myrtle Street;True
+195193946;;True
+195194511;Foster Lane;True
+195194512;Foster Lane;True
+195194513;Foster Lane;True
+195196582;The Avenue;True
+199615781;Hawthorne Parade;True
+223002482;Parramatta Road;False
+223102943;Albion Lane;False
+223102944;Whites Creek Lane;False
+225737690;Wardell Road;False
+226836766;;False
+232718733;Flood Street;False
+232718734;Flood Street;False
+241059252;Marion Street;False
+241059253;Marion Street;False
+247273216;Kensington Lane;False
+247459989;Charlie O'Neil Way;False
+247461832;Fishers Reserve;False
+247545949;Hollands Avenue;False
+247545950;Marrickville Avenue;True
+247559497;Crawford Place;True
+247559498;Dolt Street;False
+247559499;Robert Lane;False
+247559500;Jocelyn Avenue;False
+247559502;;False
+247764362;;False
+247764363;;False
+252129997;Victoria Road;False
+252457892;Elizabeth Street;False
+252457912;Liverpool Road;False
+252457922;Old Canterbury Road;False
+252457926;Ormond Street;False
+252457934;Parramatta Road;False
+252457936;Prospect Road;False
+252457939;Seaview Street;False
+252457942;Victoria Street;False
+254099837;;False
+254100584;;False
+260402609;Clarendon Street;False
+261543010;Yabsley Avenue;True
+261543011;Northcote Street;True
+265983565;Lilian Fowler Place;True
+269738766;Council Street;False
+270521446;Marrickville Road;True
+273063729;Trafalgar Street;False
+273905861;;False
+282851686;Durham Lane;False
+285358034;Small Lane;False
+285358035;Brereton Avenue;False
+285358036;Convent Lane;False
+285358037;Cahir Lane;False
+286009529;Carrington Place;False
+286010968;Terminus Lane;False
+286010969;;False
+286010970;Crydon Lane;False
+286010971;Burns Lane;False
+286010972;Burns Street;False
+286010973;Palace Lane;False
+286010974;Kirkpatrick Lane;False
+286010975;Petersham Lane;False
+287232385;Challis Avenue;True
+287246362;Hudson Street;True
+287247515;Spencer Street;True
+287254645;Henry Lane;True
+287254646;Henry Lane;True
+287254647;Henry Lane;True
+287254648;Jubilee Lane;True
+287798086;Johnston Street;True
+291754013;Cannon Street;True
+291754016;Cannon Street;True
+291754020;Croydon Street;True
+291754021;Palace Street;True
+291754238;West Street;True
+291754239;West Street;True
+291754456;Davis Street;True
+291754773;Livingstone Road;True
+291754774;Livingstone Road;True
+291755041;Addison Road;True
+291755042;Newington Road;True
+291755043;Cowper Street;False
+291755044;Enmore Road;False
+291757103;Sydenham Road;False
+292994265;;False
+294662649;;False
+303269071;Victoria Road;False
+303269072;Marrickville Road;True
+303270265;;True
+304320392;Burfitt Street;False
+304320426;;False
+304320427;;False
+304320428;;False
+324785017;Crystal Street;True
+324785018;Crystal Street;True
+324785019;Ewart Street;True
+324785020;Gordon Street;True
+324785029;Trafalgar Street;True
+326845740;Parramatta Road;False
+326845741;Norton Street;False
+327338695;Jarrett Lane;True
+330788328;Station Street;True
+337520642;Station Street;True
+344076593;Lords Road;True
+344080831;Marion Street;True
+344080832;Foster Street;True
+344267599;Marion Street;True
+344500540;;False
+360910095;;False
+360910096;;False
+360910097;;False
+360910098;;False
+360910099;;False
+361661300;Findlay Lane;True
+361672456;Seaview Street;True
+361672533;Henson Street;True
+362198800;Grosvenor Crescent;True
+362357318;Frazer Street;False
+362357319;Frazer Street;False
+362357320;Livingstone Road;False
+362357546;Terry Road;True
+363686354;;False
+365932694;Parramatta Road;False
+365932695;West Street;False
+369872365;Hercules Street;False
+369872370;Beach Road;False
+369872372;Wellesley Street;False
+369872376;Edward Street;False
+369872379;Smith Street;False
+369872383;Old Canterbury Road;False
+369872385;Old Canterbury Road;False
+369872388;Ewart Street;False
+369872391;Terrace Road;False
+372292536;Short Street;True
+372292537;Marcia Street;True
+372292538;Marcia Lane;True
+372292540;;True
+382426478;Cavendish Lane;True
+382426493;Stanmore Road;True
+382599070;Gordon Crescent;True
+383049632;Browns Avenue;True
+383049638;Newington Road;True
+383049639;Newington Road;True
+383049641;Tupper Street;True
+383205870;Old Canterbury Road;True
+383205871;Victoria Street;True
+383205872;Victoria Street;True
+383212632;Eltham Street;False
+383212640;Junction Road;False
+383212641;Junction Road;False
+383212642;Nowranie Street;False
+383212643;Old Canterbury Road;False
+383218777;Albany Road;False
+383218778;Charles Street;False
+383218779;College Lane;False
+383218780;Douglas Street;False
+383218781;Douglas Street;False
+383218782;Middleton Street;False
+383218783;Newington Road;False
+383218784;Phillip Street;False
+383218785;Stanmore Road;False
+383218786;Stanmore Road;False
+383218787;Trafalgar Street;True
+383218788;Trafalgar Street;True
+383218789;Westbourne Street;True
+383219537;Frazer Street;True
+383219538;Frazer Street;True
+383219539;Jarvie Avenue;True
+383219540;New Canterbury Road;True
+383219541;New Canterbury Road;True
+383219542;Newington Road;True
+383219543;Wardell Road;True
+383219544;West Street;True
+383228984;Frazer Street;True
+383228987;Frazer Street;True
+383228992;New Canterbury Road;True
+383228994;New Canterbury Road;True
+383230283;Wardell Road;True
+385523623;Cambridge Street;True
+385523676;Gordon Street;True
+385523710;Parramatta Road;False
+385523762;Salisbury Road;False
+385523768;Salisbury Road;False
+385523783;Trafalgar Street;False
+385523784;Trafalgar Street;False
+390570315;Barker Street;False
+393193738;;True
+412592952;Nowranie Street;False
+412592955;Sloane Street;False
+412592956;Sloane Street;False
+413079016;Pine Square;True
+414325219;Old Canterbury Road;True
+414325223;Constitution Road;False
+414325227;Arlington Street;False
+414325231;;False
+436657659;Arlington Street;True
+436657660;Arlington Street;False
+436657661;Arlington Street;False
+436657662;Old Canterbury Road;False
+436657663;Old Canterbury Road;False
+445855331;New Canterbury Road;False
+448583419;;False
+448583420;;False
+448741552;Edinburgh Road;False
+448741553;Edinburgh Road;False
+448741554;Victoria Road;False
+448741555;Victoria Road;False
+448741558;Enmore Road;False
+448741559;Victoria Road;False
+450287442;;True
+451655539;Marrickville Road;True
+451655543;Marrickville Road;True
+451656630;;True
+451656632;;True
+451656633;;True
+456714103;Old Canterbury Road;True
+460251241;;True
+460251242;;True
+460251243;;True
+460251945;;True
+460251946;;True
+460251947;;True
+460251948;;True
+460654630;Louisa Street;True
+461526963;;True
+461566246;;False
+461566248;New Canterbury Road;False
+461566249;Old Canterbury Road;False
+462888500;Terrace Road;False
+462888501;Terrace Road;False
+462888502;Terrace Road;False
+462888503;Terrace Road;False
+462889604;Duntroon Street;False
+463187790;Floss Street;False
+486196463;Margaret Street;False
+491012593;;True
+491012595;Orpington Street;True
+500427434;Crystal Street;True
+500427435;Parramatta Road;False
+509513229;;False
+509513230;;False
+516911431;Sydenham Road;False
+516911432;Sydenham Road;False
+517175350;Renwick Street;True
+525567100;George Street;True
+528913294;Elizabeth Street;False
+532646071;;False
+532652961;;False
+532653478;;False
+532655530;Oakland Avenue;True
+532900088;Bartlett Street;True
+532900663;;True
+537062225;Parramatta Road;False
+538834683;Flour Mill Way;True
+544405761;;True
+544405762;;True
+544405763;West Street;True
+544406546;Railway Terrace;True
+545367559;;True
+549040809;;True
+549040810;;True
+549042072;;True
+549042752;;True
+549060509;;True
+549063759;;True
+549064860;;True
+549064861;;True
+551041947;Liverpool Road;True
+551377403;;True
+551377407;George Street;True
+565752108;Hay Street;True
+567604180;New Canterbury Road;False
+567604181;New Canterbury Road;False
+567604182;New Canterbury Road;False
+567604183;New Canterbury Road;False
+567604184;;False
+567899000;New Canterbury Road;False
+568346375;Audley Street;False
+568346376;New Canterbury Road;False
+568346613;New Canterbury Road;False
+568347632;Parramatta Road;False
+569449718;Old Canterbury Road;False
+569451607;Liverpool Road;False
+573668907;Liverpool Road;False
+573668911;Dalhousie Street;False
+573668912;Liverpool Road;False
+573668913;Parramatta Road;False
+574202825;Trafalgar Street;False
+574203756;Parramatta Road;False
+574203757;Parramatta Road;False
+574204071;Parramatta Road;False
+574204072;Parramatta Road;False
+574205902;Parramatta Road;False
+574289988;Crystal Street;False
+574289989;Loading Dock;False
+574289990;;False
+574289991;Balmain Road;False
+574289992;Marion Street;False
+574473333;Renwick Street;False
+574884128;Charles Street;False
+576400176;Stanmore Road;False
+576400177;Stanmore Road;False
+578076533;Parramatta Road;False
+578247999;;False
+578248002;;False
+578248003;;False
